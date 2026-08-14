@@ -1,0 +1,280 @@
+<!doctype html>
+<html lang="de-DE">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Eine technische Trennung zwischen generierten Metaphern, echter SaaS-Oberfläche und der asynchronen MiniMax-H3-API.">
+  <meta name="generator" content="Codex platform HTML packaging">
+  <meta name="delivery-status" content="HOLD — HUMAN TECHNICAL REVIEW REQUIRED">
+  <title>SaaS-Erklärvideos mit MiniMax H3: Was generiert werden sollte – und was nicht</title>
+  <style>
+    :root {
+      color-scheme: light dark;
+      --page: #f4f5f7;
+      --surface: #ffffff;
+      --text: #1d2433;
+      --muted: #5d6678;
+      --line: #dfe3ea;
+      --accent: #3157d5;
+      --code: #f0f2f6;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --page: #11141a;
+        --surface: #191e27;
+        --text: #edf1f7;
+        --muted: #b3bccb;
+        --line: #343c49;
+        --accent: #8ca7ff;
+        --code: #11161e;
+      }
+    }
+    * { box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
+    body {
+      margin: 0;
+      background: var(--page);
+      color: var(--text);
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", "Noto Sans CJK SC", "Noto Sans CJK TC", sans-serif;
+      font-size: 18px;
+      line-height: 1.75;
+    }
+    main {
+      width: min(860px, calc(100% - 32px));
+      margin: 40px auto;
+      padding: clamp(24px, 5vw, 64px);
+      background: var(--surface);
+      border: 1px solid var(--line);
+      border-radius: 20px;
+      box-shadow: 0 16px 45px rgba(21, 31, 51, 0.08);
+      overflow-wrap: anywhere;
+    }
+    h1, h2, h3, h4 { line-height: 1.25; letter-spacing: -0.015em; }
+    h1 { margin: 0 0 24px; font-size: clamp(2rem, 5vw, 3.25rem); }
+    h2 { margin: 2.4em 0 0.7em; padding-top: 0.25em; font-size: clamp(1.45rem, 3vw, 2rem); }
+    h3 { margin: 1.8em 0 0.5em; font-size: 1.25rem; }
+    p, ul, ol, table, blockquote, pre { margin: 0 0 1.25em; }
+    a { color: var(--accent); text-underline-offset: 0.18em; }
+    img {
+      display: block;
+      width: 100%;
+      height: auto;
+      margin: 1.5em 0 0.6em;
+      border-radius: 14px;
+      border: 1px solid var(--line);
+    }
+    blockquote {
+      margin-left: 0;
+      padding: 0.2em 1.1em;
+      color: var(--muted);
+      border-left: 4px solid var(--accent);
+    }
+    code {
+      padding: 0.12em 0.35em;
+      background: var(--code);
+      border-radius: 5px;
+      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+      font-size: 0.9em;
+    }
+    pre {
+      overflow-x: auto;
+      padding: 18px;
+      background: var(--code);
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      line-height: 1.55;
+    }
+    pre code { padding: 0; background: transparent; }
+    table { width: 100%; border-collapse: collapse; font-size: 0.94em; }
+    th, td { padding: 0.7em 0.8em; border: 1px solid var(--line); text-align: left; vertical-align: top; }
+    th { background: var(--code); }
+    hr { margin: 2.5em 0; border: 0; border-top: 1px solid var(--line); }
+    li + li { margin-top: 0.35em; }
+    @media (max-width: 640px) {
+      body { font-size: 16px; }
+      main { width: 100%; margin: 0; border: 0; border-radius: 0; box-shadow: none; }
+      table { display: block; overflow-x: auto; }
+    }
+    @media print {
+      body { background: #fff; color: #000; }
+      main { width: 100%; margin: 0; padding: 0; border: 0; box-shadow: none; }
+      a { color: #000; }
+    }
+</style>
+</head>
+<body>
+  <!-- Delivery status: HOLD — HUMAN TECHNICAL REVIEW REQUIRED. This local HTML file is not evidence of publication. -->
+  <main class="article-content">
+<h1>SaaS-Erklärvideos mit MiniMax H3: Was generiert werden sollte – und was nicht</h1>
+<blockquote>
+<p><strong>Offenlegung zur KI-Unterstützung:</strong> Dieser Entwurf wurde mit KI-Unterstützung erstellt und am 14. August 2026 anhand der verlinkten MiniMax-Dokumentation geprüft. Die Beispiele wurden in dieser Arbeit nicht gegen ein reales Konto ausgeführt. Vor einer Veröffentlichung muss eine fachkundige Person Code, Parameter, Aussagezweck und Plattformkonformität selbst prüfen und verantworten. Der Beitrag enthält keine Affiliate- oder Tracking-Links.</p>
+</blockquote>
+<p>Ein SaaS-Erklärvideo braucht zwei Bildsprachen. Generierte Szenen können ein abstraktes Problem zeigen: ungeordnete Daten, eine unterbrochene Übergabe oder einen Prozess, der sich sortiert. Sobald das Video jedoch erklärt, wo jemand klickt, welche Felder existieren oder welches Ergebnis die Software liefert, sollte die echte Oberfläche zu sehen sein.</p>
+<p>Diese Trennung ist nicht nur redaktionell sinnvoll. Sie bestimmt auch, welche Dateien, Prompts und Prüfungen in einer technischen Pipeline benötigt werden.</p>
+<p><img src="./dev-minimax-h3-saas-explainer-1600x900.png" alt="Abstrakte Datenbewegung vor einem leeren Monitor, in den später echte UI eingesetzt wird"></p>
+<h2>Die Grenze zwischen generierter Szene und Produktbeleg</h2>
+<table>
+<thead>
+<tr>
+<th>Aussage im Video</th>
+<th>Geeignetes Material</th>
+<th>Warum</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>„Der aktuelle Prozess ist unübersichtlich.“</td>
+<td>Generierte Metapher</td>
+<td>Eine visuelle Verdichtung behauptet keine konkrete UI-Funktion.</td>
+</tr>
+<tr>
+<td>„Daten aus mehreren Quellen kommen zusammen.“</td>
+<td>Metapher plus Sprechertext</td>
+<td>Die genaue Integration muss separat belegt werden.</td>
+</tr>
+<tr>
+<td>„Klicke hier, um einen Bericht zu erstellen.“</td>
+<td>Echtes Screen Recording</td>
+<td>Klickpfad, Beschriftung und Zustand müssen zur aktuellen Version passen.</td>
+</tr>
+<tr>
+<td>„Der Bericht enthält diese Felder.“</td>
+<td>Echtes Screen Recording</td>
+<td>Generierte Felder wären nicht überprüfbar.</td>
+</tr>
+<tr>
+<td>„Die Verarbeitung spart 30 Prozent Zeit.“</td>
+<td>Belegte Messung plus Quelle</td>
+<td>Weder KI-Bild noch UI allein beweisen die Zahl.</td>
+</tr>
+<tr>
+<td>„Das Produkt ist SOC 2-konform.“</td>
+<td>Aktuelle offizielle Compliance-Quelle</td>
+<td>Security-Aussagen dürfen nicht aus einer Metapher abgeleitet werden.</td>
+</tr>
+</tbody></table>
+<p>Eine einfache Regel reicht: <strong>Metapher für Kontext, echte UI für überprüfbare Funktion.</strong> Wenn eine Szene wie ein Produktbeleg aussieht, muss sie gegen das Produkt geprüft werden können.</p>
+<h2>Was die offizielle MiniMax-H3-API dokumentiert</h2>
+<p>Die <a href="https://platform.minimax.io/docs/guides/video-generation">offizielle Video-Generation-Anleitung</a> beschreibt MiniMax H3 als multimodales Videomodell für Text-, Bild-, Video- und Audioeingaben. Dokumentiert sind:</p>
+<ul>
+<li>Modellname <code>MiniMax-H3</code>;</li>
+<li>Auflösungen <code>768P</code> und <code>2K</code>;</li>
+<li>ganzzahlige Laufzeiten von 4 bis 15 Sekunden;</li>
+<li>Text-to-Video, First-/Last-Frame Image-to-Video und referenzbasierte Generierung;</li>
+<li>ein asynchroner Ablauf mit <code>task_id</code>, Statusabfrage und Download über <code>content.url</code>.</li>
+</ul>
+<p>Die <a href="https://platform.minimax.io/docs/api-reference/video-generation-v2-create">V2-Referenz für das Erstellen einer Aufgabe</a> verwendet <code>POST https://api.minimax.io/v2/video_generation</code>. Jede Anfrage braucht ein nicht leeres <code>text</code>-Element im <code>content</code>-Array.</p>
+<p>Für reines Text-to-Video ist <code>ratio</code> verpflichtend und darf nicht <code>adaptive</code> sein. Bei First-/Last-Frame Image-to-Video bestimmt das Eingabebild das Verhältnis; ein anderes gültiges <code>ratio</code> wird als <code>adaptive</code> behandelt. Referenzgenerierung kann <code>adaptive</code> verwenden oder ein konkretes Verhältnis angeben.</p>
+<p>Das sind dokumentierte Schnittstellenregeln. Sie sind noch kein Beleg dafür, dass der folgende Entwurf in einer bestimmten Konto-, Regions- oder Tarifkonfiguration erfolgreich läuft.</p>
+<h2>Eine Text-to-Video-Aufgabe anlegen</h2>
+<p>Das kleinste nachvollziehbare Beispiel enthält nur die dokumentierten Pflichtfelder. Verwende keinen echten API-Schlüssel im Quelltext.</p>
+<pre><code class="language-bash">export MINIMAX_API_KEY=&quot;replace-with-a-local-secret&quot;
+
+curl --request POST \
+  --url https://api.minimax.io/v2/video_generation \
+  --header &quot;Authorization: Bearer ${MINIMAX_API_KEY}&quot; \
+  --header &quot;Content-Type: application/json&quot; \
+  --data &#39;{
+    &quot;model&quot;: &quot;MiniMax-H3&quot;,
+    &quot;content&quot;: [
+      {
+        &quot;type&quot;: &quot;text&quot;,
+        &quot;text&quot;: &quot;In einem abstrakten Arbeitsraum fließen breite halbtransparente Bahnen aus fünf Richtungen auf eine freie Monitorfläche zu. Sie richten sich zu drei ruhigen parallelen Bahnen aus. Langsame Vorwärtsbewegung der Kamera, keine Zahlen, Logos oder lesbaren UI-Texte. Ende auf einer stabilen Komposition für ein später eingefügtes echtes Screen Recording.&quot;
+      }
+    ],
+    &quot;resolution&quot;: &quot;2K&quot;,
+    &quot;duration&quot;: 8,
+    &quot;ratio&quot;: &quot;16:9&quot;
+  }&#39;
+</code></pre>
+<p>Bei Erfolg liefert der Create-Endpunkt eine <code>task_id</code>. Der Auftrag ist dann noch nicht fertig; Videoerzeugung ist asynchron.</p>
+<h3>Warum der Prompt keine Oberfläche beschreibt</h3>
+<p>Der Prompt erzeugt absichtlich eine freie Monitorfläche. Die reale Produktaufnahme wird später eingesetzt. Dadurch kann das Team die filmische Einführung austauschen, ohne veraltete oder erfundene UI-Texte zu produzieren.</p>
+<p>Auch Zahlen fehlen bewusst. Datenbahnen sind eine Metapher. Messwerte, Kundennamen und Compliance-Aussagen gehören in verifizierte Ebenen der Postproduktion.</p>
+<h2>Status abfragen und Ergebnis speichern</h2>
+<p>Die offizielle Anleitung nennt für die Abfrage:</p>
+<pre><code class="language-text">GET https://api.minimax.io/v2/query/video_generation/{task_id}
+</code></pre>
+<p>Eine vorsichtige Python-Funktion kann Terminalzustände behandeln und nach Erfolg <code>task.content.url</code> zurückgeben:</p>
+<pre><code class="language-python">import os
+import time
+import requests
+
+API_KEY = os.environ[&quot;MINIMAX_API_KEY&quot;]
+BASE_URL = &quot;https://api.minimax.io&quot;
+HEADERS = {&quot;Authorization&quot;: f&quot;Bearer {API_KEY}&quot;}
+
+
+def wait_for_video(task_id: str, max_checks: int = 60) -&gt; str:
+    url = f&quot;{BASE_URL}/v2/query/video_generation/{task_id}&quot;
+
+    for _ in range(max_checks):
+        time.sleep(10)
+        response = requests.get(url, headers=HEADERS, timeout=30)
+        response.raise_for_status()
+
+        task = response.json()[&quot;task&quot;]
+        status = task[&quot;status&quot;]
+
+        if status == &quot;succeeded&quot;:
+            return task[&quot;content&quot;][&quot;url&quot;]
+
+        if status in {&quot;failed&quot;, &quot;cancelled&quot;}:
+            raise RuntimeError(
+                f&quot;Video task ended with {status}: {task.get(&#39;error&#39;)}&quot;
+            )
+
+    raise TimeoutError(&quot;Video task did not reach a terminal state&quot;)
+</code></pre>
+<p><code>max_checks</code> ist eine Anwendungsgrenze, kein offizielles Service-Limit. Die dokumentierte Anleitung empfiehlt zehn Sekunden zwischen Abfragen. In einer Produktionsanwendung sollten zusätzlich Netzwerkfehler, temporäre URLs, Speicherung, Logging und Geheimnisverwaltung geprüft werden.</p>
+<h2>Screen Recording und generierten Clip verbinden</h2>
+<p>Der technische Ablauf besteht aus zwei unabhängigen Quellen:</p>
+<pre><code class="language-text">generierter Kontextclip
+  -&gt; Qualitätsprüfung
+  -&gt; Schnittpunkt mit freier Fläche
+
+echtes Screen Recording
+  -&gt; Versionsprüfung
+  -&gt; sensible Daten entfernen
+  -&gt; in die freie Fläche einsetzen
+
+beide Quellen
+  -&gt; Sprechertext und Untertitel
+  -&gt; Fakten- und Markenprüfung
+  -&gt; Export
+</code></pre>
+<p>Das Screen Recording sollte aus derselben Produktversion stammen, die im Sprechertext genannt wird. Entferne Kundendaten, interne URLs, API-Schlüssel, E-Mail-Adressen und andere vertrauliche Informationen. Wenn das Produkt regelmäßig aktualisiert wird, speichere Aufnahmedatum und Versionsstand zusammen mit der Videodatei.</p>
+<h2>Fehler nicht als kreative Abweichung behandeln</h2>
+<p>Die API-Referenz dokumentiert unter anderem Antworten für ungültige Parameter (<code>400</code>), fehlende Autorisierung (<code>401</code>), unzureichendes Guthaben (<code>402</code>), Inhaltsprüfung (<code>422</code>), Rate Limit (<code>429</code>) und Serverfehler (<code>500</code>). Anwendungen sollten diese Klassen unterscheiden.</p>
+<ul>
+<li>Ein fehlender Prompt wird durch erneutes Senden nicht besser.</li>
+<li>Ein <code>429</code> kann eine begrenzte Wiederholung rechtfertigen.</li>
+<li>Ein erfolgreicher Download kann trotzdem visuell unbrauchbar sein.</li>
+<li>Eine technisch gültige Metapher kann als Produktversprechen missverstanden werden.</li>
+</ul>
+<p>Deshalb braucht die Pipeline zwei Gates: technische Dateiprüfung und redaktionelle Freigabe.</p>
+<h2>Checkliste vor einer Veröffentlichung</h2>
+<ul>
+<li><input disabled="" type="checkbox"> Eine fachkundige Person versteht und verantwortet alle Codebeispiele.</li>
+<li><input disabled="" type="checkbox"> Endpunkt, Felder, Statuswerte und Verhältnisregeln wurden erneut in der offiziellen Dokumentation geprüft.</li>
+<li><input disabled="" type="checkbox"> Code wurde in einer autorisierten Testumgebung ausgeführt oder ausdrücklich als ungetesteter Entwurf markiert.</li>
+<li><input disabled="" type="checkbox"> Es gibt keine Affiliate-, Referral-, Tracking- oder Vertriebslinks.</li>
+<li><input disabled="" type="checkbox"> Der Beitrag dient nicht primär dem Linkaufbau oder der Bewerbung eines Unternehmens.</li>
+<li><input disabled="" type="checkbox"> AI-Unterstützung ist am Anfang offengelegt.</li>
+<li><input disabled="" type="checkbox"> Generierte UI, erfundene Funktionen und unbelegte Kennzahlen wurden entfernt.</li>
+<li><input disabled="" type="checkbox"> Echte Aufnahmen enthalten keine sensiblen Daten.</li>
+<li><input disabled="" type="checkbox"> Die lokale und die entfernte DEV-Historie enthalten keinen zweiten, fast gleichen MiniMax-H3-Beitrag.</li>
+</ul>
+<h2>Fazit</h2>
+<p>MiniMax H3 sollte im SaaS-Erklärvideo nicht die Benutzeroberfläche erfinden. Die API kann kurze Kontext- und Übergangsszenen erzeugen; der Produktbeleg kommt aus echten Screen Recordings und aktuellen Quellen. Technisch bedeutet das: dokumentierte V2-Anfrage, asynchrone Statusabfrage, getrennte Medienquellen und zwei Freigaben. Erst wenn eine fachkundige Person Code und Aussagezweck selbst geprüft hat, ist aus diesem Entwurf ein verantwortbarer DEV-Beitrag geworden.</p>
+<hr>
+<h2>Quellen</h2>
+<ul>
+<li><a href="https://platform.minimax.io/docs/guides/video-generation">MiniMax H3: Video Generation</a></li>
+<li><a href="https://platform.minimax.io/docs/api-reference/video-generation-v2-create">MiniMax H3: Create Video Generation Task</a></li>
+</ul>
+<p><strong>SEO-Titel:</strong> SaaS-Erklärvideos mit MiniMax H3: API, echte UI und Prüfgrenzen</p>
+<p><strong>Beschreibung:</strong> Technische Anleitung zur MiniMax-H3-V2-API und zur sauberen Trennung von generierten SaaS-Metaphern, echten Screen Recordings und überprüfbaren Aussagen.</p>
+<p><strong>Tags:</strong> <code>ai</code>, <code>webdev</code>, <code>api</code>, <code>tutorial</code></p>
+  </main>
+</body>
+</html>
