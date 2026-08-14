@@ -1,5 +1,7 @@
 # MiniMax H3 Multilingual Platform Deliverables
 
+[English](./README.md) | [简体中文](./README.zh-CN.md)
+
 This public repository contains eight platform-specific adaptations of a multilingual MiniMax H3 article set, together with submission notes, compliance audits, source manifests, and project review records.
 
 No article in this repository has been published to the target platforms. The files are editorial deliverables prepared for human review.
