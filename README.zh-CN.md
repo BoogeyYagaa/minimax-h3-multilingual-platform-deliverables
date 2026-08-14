@@ -1,6 +1,9 @@
-# MiniMax H3 多语言平台交付物
+<p align="right">
+  <a href="./README.md"><img src="https://img.shields.io/badge/Language-English-0969da?style=for-the-badge" alt="切换到英文"></a>
+  <a href="./README.zh-CN.md"><img src="https://img.shields.io/badge/%E8%AF%AD%E8%A8%80-%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-d73a49?style=for-the-badge" alt="阅读简体中文版"></a>
+</p>
 
-[English](./README.md) | 简体中文
+# MiniMax H3 多语言平台交付物
 
 本公开仓库包含一组 MiniMax H3 多语言文章的八个平台定制版本，以及投稿说明、合规审计、来源清单和项目审阅记录。
 
