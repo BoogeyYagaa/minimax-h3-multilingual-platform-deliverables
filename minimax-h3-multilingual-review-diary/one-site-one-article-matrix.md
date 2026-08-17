@@ -2,14 +2,14 @@
 
 **执行日期：** 2026年8月14日  
 **项目边界：** 8 篇原始文章 × 8 个唯一网站；保留原有 8 个 Locale；另建平台发布版，不修改原文。  
-**当前结果：** 8/8 个平台包已建立；截至 2026年8月17日，线上已发布 4 篇；日文稿的替代平台继续暂停。
+**当前结果：** 8/8 个平台包已建立；截至 2026年8月17日，线上已发布 5 篇；日文稿已改投 Tumblr 并公开核验。
 
 | Locale | 原始内容包 | 目标网站 | 平台发布包 | 平台正文 | 当前状态 |
 |---|---|---|---|---|---|
 | `en-US` | `minimax-h3-cinematic-product-videos/` | PromoteProject（替代 Indie Hackers） | `minimax-h3-product-launch-indiehackers-en/` | `article.indiehackers.en-us.md` | `PUBLISHED` — <https://www.promoteproject.com/article/226203/a-founders-shot-list-7-honest-ai-product-launch-clips> |
 | `es-419` | `minimax-h3-travel-food-videos-es/` | Dreamwidth | `minimax-h3-travel-journal-dreamwidth-es/` | `article.dreamwidth.es-419.md` | `PUBLISHED` — <https://bestimage.dreamwidth.org/482.html> |
 | `pt-BR` | `minimax-h3-ugc-ecommerce-videos-ptbr/` | Guides.co | `minimax-h3-ugc-guide-guides-ptbr/` | `article.guides.pt-br.md` | `APPLICATION SUBMITTED — AWAITING INVITE` |
-| `ja-JP` | `minimax-h3-anime-pv-ja/` | 待重新确定 | `minimax-h3-anime-pv-hatena-ja/` | `article.hatena.ja-jp.md` | `PAUSED — HATENA/NOTE/LIVEDOOR BLOCKED; TUMBLR DEFERRED` |
+| `ja-JP` | `minimax-h3-anime-pv-ja/` | Tumblr（替代 Hatena、note、Livedoor） | `minimax-h3-anime-pv-hatena-ja/` | `article.hatena.ja-jp.md` | `PUBLISHED` — <https://www.tumblr.com/bestimageai/825191446194929664/15%E7%A7%92%E3%81%AE%E3%82%A2%E3%83%8B%E3%83%A1pv%E3%82%92%E4%BD%9C%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE7%E3%82%AB%E3%83%83%E3%83%88%E8%A8%AD%E8%A8%88%E3%83%A1%E3%83%A2-minimax-h3> |
 | `de-DE` | `minimax-h3-saas-explainer-de/` | DEV | `minimax-h3-saas-explainer-dev-de/` | `article.dev.de-de.md` | `APPEAL SENT — AWAITING DEV RESPONSE; HUMAN TECHNICAL REVIEW REQUIRED` |
 | `fr-FR` | `minimax-h3-fashion-video-fr/` | OverBlog | `minimax-h3-fashion-directions-overblog-fr/` | `article.overblog.fr-fr.md` | `PUBLISHED` — <https://bestimage888.overblog.fr/7-directions-visuelles-film-mode-15-secondes> |
 | `zh-CN` | `minimax-h3-video-storyboard-guide-zh-cn/` | CSDN | `minimax-h3-storyboard-api-csdn-zh-cn/` | `article.csdn.zh-cn.md` | `PAUSED BY USER — WECHAT BINDING REQUIRED` |
@@ -17,9 +17,9 @@
 
 ## 当前发布与阻塞状态
 
-- PromoteProject、Dreamwidth、OverBlog 与 Medium 已公开发布，URL 已写入上表和各自的 `publication-record.md`。
+- PromoteProject、Dreamwidth、Tumblr、OverBlog 与 Medium 已公开发布，URL 已写入上表和各自的 `publication-record.md`。
 - Indie Hackers 因发帖权限受阻后改投 PromoteProject；公开页已核对标题、完整正文、披露和目标链接。
-- 日文稿在 Hatena、note 与 Livedoor 连续遇到账号、IP 或验证码门槛；Tumblr 注册入口可访问，但按用户指令搁置。CSDN 继续暂停。
+- 日文稿在 Hatena、note 与 Livedoor 连续遇到账号、IP 或验证码门槛后改投 Tumblr；公开页已核对标题、主图、正文、标签、AI/商业披露与第三方跟踪链接。CSDN 继续暂停。
 
 ## 保持暂停的 2 个平台包
 
@@ -30,8 +30,8 @@
 
 - 本地交付包未发现这八个候选平台已有 MiniMax H3 专用稿。
 - 这一结论只覆盖当前本地文件，不能证明远程账号从未发布；实际投稿前须人工检查账号历史和平台搜索结果。
-- 八个本地平台包均不含 Best Image AI、`via=shixi88` 或商业 CTA。PromoteProject 线上改写版另含一个已披露的第三方跟踪链接；本地原包未被覆盖。
-- 2026年8月17日实际登录并处理目标平台；仅记录已由公开页验证的 PromoteProject、Dreamwidth、OverBlog 与 Medium URL，不为未发布平台填写虚构 URL。
+- 八个本地平台包均不含 Best Image AI、`via=shixi88` 或商业 CTA。PromoteProject 与 Tumblr 线上改写版各含一个已披露的第三方跟踪链接；本地原包未被覆盖。
+- 2026年8月17日实际登录并处理目标平台；仅记录已由公开页验证的 PromoteProject、Dreamwidth、Tumblr、OverBlog 与 Medium URL，不为未发布平台填写虚构 URL。
 
 ## 每个平台包的标准文件
 

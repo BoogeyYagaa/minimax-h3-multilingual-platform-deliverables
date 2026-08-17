@@ -7,7 +7,7 @@
 
 This public repository contains eight platform-specific adaptations of a multilingual MiniMax H3 article set, together with submission notes, compliance audits, source manifests, and project review records.
 
-Four articles have now been published and verified on their final platforms. The remaining files are editorial deliverables, paused submissions, or platform-access requests; their status is recorded below.
+Five articles have now been published and verified on their final platforms. The remaining files are editorial deliverables, paused submissions, or platform-access requests; their status is recorded below.
 
 ## Third-party API access
 
@@ -22,7 +22,7 @@ For readers evaluating a unified third-party workflow, see [Affordable MiniMax H
 | en-US | Product launch videos | PromoteProject | [`minimax-h3-product-launch-indiehackers-en`](./minimax-h3-product-launch-indiehackers-en/) | [Published](https://www.promoteproject.com/article/226203/a-founders-shot-list-7-honest-ai-product-launch-clips) — replacement for blocked Indie Hackers submission |
 | es-419 | Travel and food videos | Dreamwidth | [`minimax-h3-travel-journal-dreamwidth-es`](./minimax-h3-travel-journal-dreamwidth-es/) | [Published](https://bestimage.dreamwidth.org/482.html) |
 | pt-BR | E-commerce UGC videos | Guides.co | [`minimax-h3-ugc-guide-guides-ptbr`](./minimax-h3-ugc-guide-guides-ptbr/) | Invite request submitted — awaiting platform review |
-| ja-JP | Anime promotional videos | Replacement pending | [`minimax-h3-anime-pv-hatena-ja`](./minimax-h3-anime-pv-hatena-ja/) | Paused — Hatena, note and Livedoor were blocked; Tumblr was deferred by the user |
+| ja-JP | Anime promotional videos | Tumblr | [`minimax-h3-anime-pv-hatena-ja`](./minimax-h3-anime-pv-hatena-ja/) | [Published](https://www.tumblr.com/bestimageai/825191446194929664/15%E7%A7%92%E3%81%AE%E3%82%A2%E3%83%8B%E3%83%A1pv%E3%82%92%E4%BD%9C%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE7%E3%82%AB%E3%83%83%E3%83%88%E8%A8%AD%E8%A8%88%E3%83%A1%E3%83%A2-minimax-h3) — replacement for blocked Hatena, note and Livedoor submissions |
 | de-DE | SaaS explainer videos | DEV | [`minimax-h3-saas-explainer-dev-de`](./minimax-h3-saas-explainer-dev-de/) | Account appeal sent — awaiting DEV response; human technical review still required |
 | fr-FR | Fashion video direction | OverBlog | [`minimax-h3-fashion-directions-overblog-fr`](./minimax-h3-fashion-directions-overblog-fr/) | [Published](https://bestimage888.overblog.fr/7-directions-visuelles-film-mode-15-secondes) |
 | zh-CN | Storyboard and API workflow | CSDN | [`minimax-h3-storyboard-api-csdn-zh-cn`](./minimax-h3-storyboard-api-csdn-zh-cn/) | Paused by user; WeChat binding still required |
@@ -48,7 +48,7 @@ Published platform directories also include a `publication-record.md` file with 
 ## Publication safeguards
 
 - Commercial tracking links and third-party calls to action were removed from all eight platform articles.
-- The published PromoteProject adaptation is the documented exception: it contains one disclosed third-party tracking link, while the original local Indie Hackers package remains unchanged.
+- The published PromoteProject and Tumblr adaptations are documented exceptions: each contains one disclosed third-party tracking link, while the original local platform packages remain unchanged.
 - Guides.co confirmed receipt of the contribution request; publication remains blocked until an invitation is approved.
 - The DEV suspension appeal was sent to support; posting remains blocked, and the article still requires human technical review before submission.
 - The OverBlog article was published after its rights, sponsorship, advertising-material, and link checks were completed; future edits require the same review.

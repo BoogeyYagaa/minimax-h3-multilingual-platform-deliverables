@@ -629,3 +629,31 @@ writer/output/minimax-h3-fashion-video-fr/
 ### 当前项目状态
 
 **公开发布数量增至 4：PromoteProject（`en-US`）、Dreamwidth（`es-419`）、OverBlog（`fr-FR`）与 Medium（`zh-TW`）。Guides.co 等待邀请，DEV 等待申诉回复及人工技术复核，`zh-CN` 继续暂停，`ja-JP` 暂待新的可用平台。**
+
+---
+
+## 二十三、第十八轮：Tumblr 日文稿发布与 Blogger 建站阻塞
+
+**执行日期：** 2026年8月17日
+**用户边界：** 简中继续暂停；Tumblr、Blogger 与 Substack 已登录；遇到建站、验证码、权限或风控阻塞时暂停等待人工处理。
+**本轮结论：** 日文稿已改投 Tumblr 并完成公开页核验；Blogger 已登录但停在首次建站命名流程，巴葡稿尚未上传；Substack 尚未继续操作。
+
+### Tumblr 发布结果
+
+- 公开标题：`15秒のアニメPVを作るための7カット設計メモ｜MiniMax H3`。
+- 公开 URL：<https://www.tumblr.com/bestimageai/825191446194929664/15%E7%A7%92%E3%81%AE%E3%82%A2%E3%83%8B%E3%83%A1pv%E3%82%92%E4%BD%9C%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE7%E3%82%AB%E3%83%83%E3%83%88%E8%A8%AD%E8%A8%88%E3%83%A1%E3%83%A2-minimax-h3>
+- 使用 Tumblr Markdown 编辑器发布；公开页已核对标题、完整日文正文、主图与描述性替代文本、官方 MiniMax 来源及 5 个标签。
+- 正文仅出现一次精确锚文本 `Affordable MiniMax H3 API`；明确披露其为第三方、非 MiniMax 官方入口，URL 包含 `via=shixi88`，并提示核对价格、模型可用性、隐私与输出权利。
+- Tumblr 的商业内容标记在公开页可见；AI 辅助与广告披露均保留。
+- 原 Hatena 平台正文和图片未覆盖；线上改写差异记录在同目录 `publication-record.md`。
+
+### Blogger 阻塞
+
+- Google/Blogger 账号已登录，但账号尚未创建博客。
+- 当前页面要求先确定公开博客名称，下一步还将选择永久 Blogspot 地址；此选择会影响长期品牌和 URL。
+- 未擅自填写名称、占用地址或上传巴葡正文；按用户要求停在该页面等待人工确认。
+- 暂拟名称 `BestImage AI Video Notes`，暂拟地址 `bestimage-ai-video-notes.blogspot.com`；可用性尚未验证。
+
+### 当前项目状态
+
+**公开发布数量增至 5：PromoteProject（`en-US`）、Dreamwidth（`es-419`）、Tumblr（`ja-JP`）、OverBlog（`fr-FR`）与 Medium（`zh-TW`）。`pt-BR` 等待 Blogger 建站确认，`de-DE` 的 Substack 尚未继续，`zh-CN` 继续暂停。**
