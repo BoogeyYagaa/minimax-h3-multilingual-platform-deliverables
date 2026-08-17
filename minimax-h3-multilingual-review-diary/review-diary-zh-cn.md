@@ -599,3 +599,33 @@ writer/output/minimax-h3-fashion-video-fr/
 ### 本轮状态
 
 **DEV：`APPEAL SENT — AWAITING DEV RESPONSE; HUMAN TECHNICAL REVIEW REQUIRED`。公开发布总数仍为 3。**
+
+---
+
+## 二十二、第十七轮：PromoteProject 发布与日文替代平台复核
+
+**执行日期：** 2026年8月17日
+**用户边界：** 简中继续暂停；日文稿遇到平台阻塞时暂停等待；仅把公开页可验证的结果写入 GitHub。
+**本轮结论：** 英文产品发布视频稿已改投 PromoteProject 并完成公开页核对；日文稿在多个候选平台受阻后暂缓，未记录虚构 URL。
+
+### PromoteProject 发布结果
+
+- Indie Hackers 因账号没有发帖权限未继续操作，英文稿改投 PromoteProject。
+- 公开标题：`A Founder’s Shot List: 7 Honest AI Product Launch Clips`。
+- 公开 URL：<https://www.promoteproject.com/article/226203/a-founders-shot-list-7-honest-ai-product-launch-clips>
+- 公开页已核对标题、完整正文、作者账号、MiniMax 官方来源、AI 辅助披露与标签。
+- 正文包含一次精确锚文本 `Affordable MiniMax H3 API`，链接指向第三方 Best Image AI 页面并保留 `via=shixi88`。
+- 正文明确披露该入口不是 MiniMax 官方端点，并要求读者在使用前核对模型可用性、控制项、价格、隐私条款与输出权利。
+- 本地 Indie Hackers 平台稿未被线上改写版覆盖；差异记录在该包的 `publication-record.md`。
+
+### 日文替代平台状态
+
+- **Hatena Blog：** 先前因异常活动检测进入人工开通流程，没有获得可发布博客。
+- **note：** 当前网络环境被平台拒绝注册，未尝试绕过 IP 风控。
+- **Livedoor Blog：** 登录和注册入口可访问，但注册流程出现无法解决的日文验证码；未完成注册或登录。
+- **Tumblr：** 注册入口可访问，支持邮箱、Google 或 Apple 登录；用户随后要求搁置，因此没有继续授权、完善账号或投稿。
+- 日文正文、图片及原 Hatena 交付包均未修改，也没有产生公开 URL。
+
+### 当前项目状态
+
+**公开发布数量增至 4：PromoteProject（`en-US`）、Dreamwidth（`es-419`）、OverBlog（`fr-FR`）与 Medium（`zh-TW`）。Guides.co 等待邀请，DEV 等待申诉回复及人工技术复核，`zh-CN` 继续暂停，`ja-JP` 暂待新的可用平台。**
