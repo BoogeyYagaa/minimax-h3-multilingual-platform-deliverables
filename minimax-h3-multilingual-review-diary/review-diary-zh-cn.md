@@ -572,3 +572,30 @@ writer/output/minimax-h3-fashion-video-fr/
 ### 本轮状态
 
 **Guides.co：`APPLICATION SUBMITTED — AWAITING INVITE`。公开发布总数仍为 3；收到邀请或编辑回复后才能继续。**
+
+---
+
+## 二十一、第十六轮：DEV 账号恢复申诉
+
+**执行日期：** 2026年8月17日
+**用户授权：** 明确允许向 `support@dev.to` 发送账号恢复申诉。
+**本轮结论：** DEV 账号申诉邮件已发送；账号是否恢复仍取决于平台回复，文章没有创建草稿或发布。
+
+### 邮件执行记录
+
+- 发件账号：`bestimage888@gmail.com`。
+- 收件人：`support@dev.to`。
+- 主题：`Request for review of suspended DEV account`。
+- 邮件如实说明登录后访问 `/new` 显示 suspended 并返回 `Forbidden`，以及尚未在 DEV 发布该文章。
+- 申诉请求人工复核和恢复步骤，并承诺投稿前保留 AI 协助披露、由人工核查 API 参数／端点／代码与事实、删除联盟及跟踪链接和商业 CTA，同时确保文章以技术教育而非推广为主要目的。
+- 未在公开仓库记录 Gmail 内部消息 ID、线程 ID或其他邮箱元数据。
+
+### 状态边界
+
+- 邮件发送成功不代表 DEV 已解除暂停。
+- 即使账号恢复，原有 `HOLD — HUMAN TECHNICAL REVIEW REQUIRED` 门槛仍然有效。
+- 在平台回复和人工技术责任确认前，不创建 DEV 草稿、不上传图片、不发布文章。
+
+### 本轮状态
+
+**DEV：`APPEAL SENT — AWAITING DEV RESPONSE; HUMAN TECHNICAL REVIEW REQUIRED`。公开发布总数仍为 3。**

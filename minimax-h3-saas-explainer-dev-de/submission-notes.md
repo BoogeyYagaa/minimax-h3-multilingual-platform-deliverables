@@ -2,7 +2,7 @@
 
 ## Status
 
-`HOLD — HUMAN TECHNICAL REVIEW REQUIRED`
+`APPEAL SENT — AWAITING DEV RESPONSE; HUMAN TECHNICAL REVIEW REQUIRED`
 
 An additional account-level block was confirmed on 2026-08-17: the logged-in DEV account is suspended and `/new` returns `Forbidden`. No draft can be created until DEV restores posting access.
 
@@ -37,4 +37,8 @@ This package must not be labeled publish-ready until every gate below is complet
 5. Recheck that no commercial CTA was introduced.
 6. Do not change status from HOLD in this file until the technical and policy review is recorded.
 
-The designated browser was already logged in to DEV. The editor was opened on 2026-08-17, but the suspended-account notice prevented draft creation or publication. Contacting DEV support or submitting an appeal requires separate user approval.
+The designated browser was already logged in to DEV. The editor was opened on 2026-08-17, but the suspended-account notice prevented draft creation or publication.
+
+With explicit user authorization, an account-restoration request titled `Request for review of suspended DEV account` was sent from the connected Gmail account to `support@dev.to` on 2026-08-17. It accurately described the `Forbidden` result, confirmed that no DEV article had been posted, and committed to AI disclosure, human fact-checking, removal of commercial/tracking links and a technical-education purpose. No internal Gmail identifiers are recorded here.
+
+Continue only after DEV replies or restores access. Account restoration would clear only the platform-level block; it would not clear the mandatory human technical review gates above.
