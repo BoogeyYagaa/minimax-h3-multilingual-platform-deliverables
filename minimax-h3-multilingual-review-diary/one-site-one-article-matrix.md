@@ -10,7 +10,7 @@
 | `es-419` | `minimax-h3-travel-food-videos-es/` | Dreamwidth | `minimax-h3-travel-journal-dreamwidth-es/` | `article.dreamwidth.es-419.md` | `PUBLISHED` — <https://bestimage.dreamwidth.org/482.html> |
 | `pt-BR` | `minimax-h3-ugc-ecommerce-videos-ptbr/` | Guides.co | `minimax-h3-ugc-guide-guides-ptbr/` | `article.guides.pt-br.md` | `APPLICATION SUBMITTED — AWAITING INVITE` |
 | `ja-JP` | `minimax-h3-anime-pv-ja/` | Hatena Blog | `minimax-h3-anime-pv-hatena-ja/` | `article.hatena.ja-jp.md` | `PENDING — BLOG OPENING REVIEW` |
-| `de-DE` | `minimax-h3-saas-explainer-de/` | DEV | `minimax-h3-saas-explainer-dev-de/` | `article.dev.de-de.md` | `HOLD — HUMAN TECHNICAL REVIEW REQUIRED` |
+| `de-DE` | `minimax-h3-saas-explainer-de/` | DEV | `minimax-h3-saas-explainer-dev-de/` | `article.dev.de-de.md` | `APPEAL SENT — AWAITING DEV RESPONSE; HUMAN TECHNICAL REVIEW REQUIRED` |
 | `fr-FR` | `minimax-h3-fashion-video-fr/` | OverBlog | `minimax-h3-fashion-directions-overblog-fr/` | `article.overblog.fr-fr.md` | `PUBLISHED` — <https://bestimage888.overblog.fr/7-directions-visuelles-film-mode-15-secondes> |
 | `zh-CN` | `minimax-h3-video-storyboard-guide-zh-cn/` | CSDN | `minimax-h3-storyboard-api-csdn-zh-cn/` | `article.csdn.zh-cn.md` | `BLOCKED — WECHAT BINDING REQUIRED` |
 | `zh-TW` | `minimax-h3-vertical-video-guide-zh-tw/` | Medium | `minimax-h3-vertical-video-medium-zh-tw/` | `article.medium.zh-tw.md`、`article.docx` | `PUBLISHED` — <https://medium.com/@bestimage888/15-%E7%A7%92%E4%B8%8D%E6%98%AF%E5%A1%9E%E6%BB%BF%E7%95%AB%E9%9D%A2-minimax-h3-%E7%9B%B4%E5%BC%8F%E5%BD%B1%E7%89%87%E7%9A%84-6-%E7%A8%AE-9-16-%E6%A7%8B%E5%9C%96%E6%B3%95-e03a45433b7f> |
@@ -24,7 +24,7 @@
 ## 保持暂停的 2 个平台包
 
 - Guides.co：`APPLICATION SUBMITTED — AWAITING INVITE`。平台已确认收到申请；邀请批准前不计入可发布数量。
-- DEV：`HOLD — HUMAN TECHNICAL REVIEW REQUIRED`。人工作者须复核技术准确性、AI 披露、内容责任与非商业推广目的。
+- DEV：账号恢复申诉已发至 `support@dev.to`，等待平台回复；人工作者仍须复核技术准确性、AI 披露、内容责任与非商业推广目的。
 
 ## 查重与发布边界
 

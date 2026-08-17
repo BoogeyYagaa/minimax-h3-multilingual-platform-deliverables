@@ -23,7 +23,7 @@ For readers evaluating a unified third-party workflow, see [Affordable MiniMax H
 | es-419 | Travel and food videos | Dreamwidth | [`minimax-h3-travel-journal-dreamwidth-es`](./minimax-h3-travel-journal-dreamwidth-es/) | [Published](https://bestimage.dreamwidth.org/482.html) |
 | pt-BR | E-commerce UGC videos | Guides.co | [`minimax-h3-ugc-guide-guides-ptbr`](./minimax-h3-ugc-guide-guides-ptbr/) | Invite request submitted — awaiting platform review |
 | ja-JP | Anime promotional videos | Hatena Blog | [`minimax-h3-anime-pv-hatena-ja`](./minimax-h3-anime-pv-hatena-ja/) | Blog-opening review pending |
-| de-DE | SaaS explainer videos | DEV | [`minimax-h3-saas-explainer-dev-de`](./minimax-h3-saas-explainer-dev-de/) | Blocked — account suspended; human technical review still required |
+| de-DE | SaaS explainer videos | DEV | [`minimax-h3-saas-explainer-dev-de`](./minimax-h3-saas-explainer-dev-de/) | Account appeal sent — awaiting DEV response; human technical review still required |
 | fr-FR | Fashion video direction | OverBlog | [`minimax-h3-fashion-directions-overblog-fr`](./minimax-h3-fashion-directions-overblog-fr/) | [Published](https://bestimage888.overblog.fr/7-directions-visuelles-film-mode-15-secondes) |
 | zh-CN | Storyboard and API workflow | CSDN | [`minimax-h3-storyboard-api-csdn-zh-cn`](./minimax-h3-storyboard-api-csdn-zh-cn/) | Paused by user; WeChat binding still required |
 | zh-TW | Vertical video composition | Medium | [`minimax-h3-vertical-video-medium-zh-tw`](./minimax-h3-vertical-video-medium-zh-tw/) | [Published](https://medium.com/@bestimage888/15-%E7%A7%92%E4%B8%8D%E6%98%AF%E5%A1%9E%E6%BB%BF%E7%95%AB%E9%9D%A2-minimax-h3-%E7%9B%B4%E5%BC%8F%E5%BD%B1%E7%89%87%E7%9A%84-6-%E7%A8%AE-9-16-%E6%A7%8B%E5%9C%96%E6%B3%95-e03a45433b7f) |
@@ -49,7 +49,7 @@ Published platform directories also include a `publication-record.md` file with 
 
 - Commercial tracking links and third-party calls to action were removed from all eight platform articles.
 - Guides.co confirmed receipt of the contribution request; publication remains blocked until an invitation is approved.
-- The DEV article requires human technical review before submission.
+- The DEV suspension appeal was sent to support; posting remains blocked, and the article still requires human technical review before submission.
 - The OverBlog article was published after its rights, sponsorship, advertising-material, and link checks were completed; future edits require the same review.
 - Platform policies, API availability, image paths, locale settings, and final URLs must be checked again immediately before publication.
 
