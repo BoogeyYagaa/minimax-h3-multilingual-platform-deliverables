@@ -546,3 +546,29 @@ writer/output/minimax-h3-fashion-video-fr/
 ### 本轮状态
 
 **目标平台公开发布数量增至 3；Medium 完成，Guides.co 与 DEV 继续受账号级阻塞，简中保持暂停。**
+
+---
+
+## 二十、第十五轮：Guides.co 贡献申请
+
+**执行日期：** 2026年8月17日
+**用户授权：** 同意先尝试提交 Guides.co 贡献申请。
+**本轮结论：** Guides.co 已确认收到贡献申请；文章没有上传或发布，状态改为等待邀请审核。
+
+### 平台规则变化
+
+- Guides.co 当前关闭公开注册，并在重建公共内容库期间归档公共账号与 Guides。
+- Guide 创建改为邀请制；没有邀请时无法直接进入编辑器发布。
+- 因此原“缺少登录密码”的判断不再是主要阻塞，当前门槛是平台批准贡献邀请。
+
+### 申请内容与结果
+
+- 表单类别：`I want to contribute or create guides`。
+- 使用联系邮箱 `bestimage888@gmail.com`，名称填写为 `Bestimage Editorial`。
+- 申请说明准确介绍了完整的巴西葡语稿、六阶段流程、七种 UGC 脚本、AI 披露、MiniMax 官方来源、原创配图，以及不含联盟链接或商业 CTA 的边界。
+- 提交后页面跳转至 <https://guides.co/help?submitted=1>，并显示 `Message received. Thanks — we will get back to you as soon as we can.`。
+- 没有上传正文、图片或其他文件，也没有将申请成功误记为文章发布。
+
+### 本轮状态
+
+**Guides.co：`APPLICATION SUBMITTED — AWAITING INVITE`。公开发布总数仍为 3；收到邀请或编辑回复后才能继续。**

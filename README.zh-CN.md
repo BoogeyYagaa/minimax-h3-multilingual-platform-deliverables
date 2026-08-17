@@ -21,7 +21,7 @@
 |---|---|---|---|---|
 | en-US | 产品发布视频 | Indie Hackers | [`minimax-h3-product-launch-indiehackers-en`](./minimax-h3-product-launch-indiehackers-en/) | 阻塞：账号尚无发帖权限 |
 | es-419 | 旅行与美食视频 | Dreamwidth | [`minimax-h3-travel-journal-dreamwidth-es`](./minimax-h3-travel-journal-dreamwidth-es/) | [已发布](https://bestimage.dreamwidth.org/482.html) |
-| pt-BR | 电商 UGC 视频 | Guides.co | [`minimax-h3-ugc-guide-guides-ptbr`](./minimax-h3-ugc-guide-guides-ptbr/) | 阻塞：需要登录凭据及发布权限 |
+| pt-BR | 电商 UGC 视频 | Guides.co | [`minimax-h3-ugc-guide-guides-ptbr`](./minimax-h3-ugc-guide-guides-ptbr/) | 已提交邀请申请，等待平台审核 |
 | ja-JP | 动漫宣传视频 | Hatena Blog | [`minimax-h3-anime-pv-hatena-ja`](./minimax-h3-anime-pv-hatena-ja/) | 已提交博客开通申请，等待审核 |
 | de-DE | SaaS 讲解视频 | DEV | [`minimax-h3-saas-explainer-dev-de`](./minimax-h3-saas-explainer-dev-de/) | 阻塞：账号已被暂停；仍需人工技术复核 |
 | fr-FR | 时尚视频视觉方向 | OverBlog | [`minimax-h3-fashion-directions-overblog-fr`](./minimax-h3-fashion-directions-overblog-fr/) | [已发布](https://bestimage888.overblog.fr/7-directions-visuelles-film-mode-15-secondes) |
@@ -48,7 +48,7 @@ Medium 内容包另外包含 Word 文档和三张章节配图。
 ## 发布前的安全门槛
 
 - 八篇平台正文均已移除商业跟踪链接和第三方 CTA。
-- Guides.co 在发布权限确认前保持暂停状态。
+- Guides.co 已确认收到贡献申请；获得邀请与发布权限前仍保持暂停。
 - DEV 文章必须完成人工技术复核后才能投稿。
 - OverBlog 文章已在完成内容权利、赞助关系、广告素材和外部链接检查后发布；后续修改仍须执行同样的复核。
 - 正式发布前，应再次检查平台政策、API 实时可用性、图片路径、Locale 设置和最终发布 URL。

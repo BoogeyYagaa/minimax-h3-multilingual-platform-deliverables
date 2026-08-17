@@ -8,7 +8,7 @@
 |---|---|---|---|---|---|
 | `en-US` | `minimax-h3-cinematic-product-videos/` | Indie Hackers | `minimax-h3-product-launch-indiehackers-en/` | `article.indiehackers.en-us.md` | `BLOCKED — POSTING PRIVILEGES REQUIRED` |
 | `es-419` | `minimax-h3-travel-food-videos-es/` | Dreamwidth | `minimax-h3-travel-journal-dreamwidth-es/` | `article.dreamwidth.es-419.md` | `PUBLISHED` — <https://bestimage.dreamwidth.org/482.html> |
-| `pt-BR` | `minimax-h3-ugc-ecommerce-videos-ptbr/` | Guides.co | `minimax-h3-ugc-guide-guides-ptbr/` | `article.guides.pt-br.md` | `HOLD — ACCESS REQUIRED` |
+| `pt-BR` | `minimax-h3-ugc-ecommerce-videos-ptbr/` | Guides.co | `minimax-h3-ugc-guide-guides-ptbr/` | `article.guides.pt-br.md` | `APPLICATION SUBMITTED — AWAITING INVITE` |
 | `ja-JP` | `minimax-h3-anime-pv-ja/` | Hatena Blog | `minimax-h3-anime-pv-hatena-ja/` | `article.hatena.ja-jp.md` | `PENDING — BLOG OPENING REVIEW` |
 | `de-DE` | `minimax-h3-saas-explainer-de/` | DEV | `minimax-h3-saas-explainer-dev-de/` | `article.dev.de-de.md` | `HOLD — HUMAN TECHNICAL REVIEW REQUIRED` |
 | `fr-FR` | `minimax-h3-fashion-video-fr/` | OverBlog | `minimax-h3-fashion-directions-overblog-fr/` | `article.overblog.fr-fr.md` | `PUBLISHED` — <https://bestimage888.overblog.fr/7-directions-visuelles-film-mode-15-secondes> |
@@ -23,7 +23,7 @@
 
 ## 保持暂停的 2 个平台包
 
-- Guides.co：`HOLD — ACCESS REQUIRED`。账号权限未确认前，不计入可发布数量。
+- Guides.co：`APPLICATION SUBMITTED — AWAITING INVITE`。平台已确认收到申请；邀请批准前不计入可发布数量。
 - DEV：`HOLD — HUMAN TECHNICAL REVIEW REQUIRED`。人工作者须复核技术准确性、AI 披露、内容责任与非商业推广目的。
 
 ## 查重与发布边界
