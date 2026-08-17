@@ -21,12 +21,12 @@
 |---|---|---|---|---|
 | en-US | 产品发布视频 | Indie Hackers | [`minimax-h3-product-launch-indiehackers-en`](./minimax-h3-product-launch-indiehackers-en/) | 阻塞：账号尚无发帖权限 |
 | es-419 | 旅行与美食视频 | Dreamwidth | [`minimax-h3-travel-journal-dreamwidth-es`](./minimax-h3-travel-journal-dreamwidth-es/) | [已发布](https://bestimage.dreamwidth.org/482.html) |
-| pt-BR | 电商 UGC 视频 | Guides.co | [`minimax-h3-ugc-guide-guides-ptbr`](./minimax-h3-ugc-guide-guides-ptbr/) | `HOLD — ACCESS REQUIRED`，等待访问权限 |
+| pt-BR | 电商 UGC 视频 | Guides.co | [`minimax-h3-ugc-guide-guides-ptbr`](./minimax-h3-ugc-guide-guides-ptbr/) | 阻塞：需要登录凭据及发布权限 |
 | ja-JP | 动漫宣传视频 | Hatena Blog | [`minimax-h3-anime-pv-hatena-ja`](./minimax-h3-anime-pv-hatena-ja/) | 已提交博客开通申请，等待审核 |
-| de-DE | SaaS 讲解视频 | DEV | [`minimax-h3-saas-explainer-dev-de`](./minimax-h3-saas-explainer-dev-de/) | `HOLD — HUMAN TECHNICAL REVIEW REQUIRED`，等待人工技术复核 |
+| de-DE | SaaS 讲解视频 | DEV | [`minimax-h3-saas-explainer-dev-de`](./minimax-h3-saas-explainer-dev-de/) | 阻塞：账号已被暂停；仍需人工技术复核 |
 | fr-FR | 时尚视频视觉方向 | OverBlog | [`minimax-h3-fashion-directions-overblog-fr`](./minimax-h3-fashion-directions-overblog-fr/) | [已发布](https://bestimage888.overblog.fr/7-directions-visuelles-film-mode-15-secondes) |
-| zh-CN | 分镜与 API 工作流 | CSDN | [`minimax-h3-storyboard-api-csdn-zh-cn`](./minimax-h3-storyboard-api-csdn-zh-cn/) | 阻塞：发布前需要绑定微信 |
-| zh-TW | 直式影片构图 | Medium | [`minimax-h3-vertical-video-medium-zh-tw`](./minimax-h3-vertical-video-medium-zh-tw/) | 阻塞：编辑器无法保存文章 |
+| zh-CN | 分镜与 API 工作流 | CSDN | [`minimax-h3-storyboard-api-csdn-zh-cn`](./minimax-h3-storyboard-api-csdn-zh-cn/) | 用户要求暂停；微信绑定门槛仍未解除 |
+| zh-TW | 直式影片构图 | Medium | [`minimax-h3-vertical-video-medium-zh-tw`](./minimax-h3-vertical-video-medium-zh-tw/) | 草稿已保存；发布前仍需上传 4 张配图 |
 
 项目记录存放在 [`minimax-h3-multilingual-review-diary`](./minimax-h3-multilingual-review-diary/) 目录。
 
