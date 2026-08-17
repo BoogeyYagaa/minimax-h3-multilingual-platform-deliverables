@@ -657,3 +657,53 @@ writer/output/minimax-h3-fashion-video-fr/
 ### 当前项目状态
 
 **公开发布数量增至 5：PromoteProject（`en-US`）、Dreamwidth（`es-419`）、Tumblr（`ja-JP`）、OverBlog（`fr-FR`）与 Medium（`zh-TW`）。`pt-BR` 等待 Blogger 建站确认，`de-DE` 的 Substack 尚未继续，`zh-CN` 继续暂停。**
+
+---
+
+## 二十四、第十九轮：Blogger 巴葡稿发布与 Substack 资料阻塞
+
+**执行日期：** 2026年8月17日
+**本轮结论：** Blogger 建站完成后，巴葡稿已公开发布并完成页面核验；Substack 登录有效，但首次发布前要求设置公开作者名称和 Handle，因此德文稿尚未上传。
+
+### Blogger 发布结果
+
+- 博客名称：`BestImage AI Video Notes`。
+- 公开标题：`MiniMax H3: 7 roteiros UGC para testar vídeos de produtos`。
+- 公开 URL：<https://bestimage-ai-video-notes.blogspot.com/2026/08/minimax-h3-7-roteiros-ugc-para-testar.html>
+- 发布前先发现 HTML 被当作普通文本以及旧正文重复的问题；清空编辑器后在原生 HTML 模式重新写入，并再次预览。
+- 最终公开页已核对葡语重音、主图、完整正文、6 个主步骤、7 个 UGC 脚本、5 个标签、官方 MiniMax 来源和 AI/广告披露。
+- 精确锚文本 `Affordable MiniMax H3 API` 仅出现一次；第三方身份、`via=shixi88`、价格与可用性复核、隐私、条款和输出权利均已披露。
+- 原 Guides.co 平台包未覆盖；Guides.co 邀请申请仍在等待，但不再是 `pt-BR` 的当前发布路径。
+
+### Substack 阻塞
+
+- 账号已登录，可打开 `Create → Article`。
+- 首次创建文章前，平台要求设置公开作者 `Name` 和永久 `Handle`。
+- 未擅自确定身份或占用 Handle；德文正文、图片和链接均未上传。
+- 建议名称 `BestImage AI Video Notes`，建议先尝试 Handle `bestimage-ai-video-notes`。
+
+### 当前项目状态
+
+**公开发布数量增至 6：PromoteProject（`en-US`）、Dreamwidth（`es-419`）、Blogger（`pt-BR`）、Tumblr（`ja-JP`）、OverBlog（`fr-FR`）与 Medium（`zh-TW`）。`de-DE` 等待 Substack 资料确认，`zh-CN` 继续暂停。**
+
+---
+
+## 二十五、第二十轮：Substack 德文稿发布与公开页复核
+
+**执行日期：** 2026年8月17日
+**用户边界：** 简中继续暂停；Substack 资料由用户完成创建；遇到验证码、条款或付费设置时暂停。
+**本轮结论：** 德文 SaaS 讲解稿已改投 Substack，面向所有读者免费公开，并完成从标题到文末来源的页面核验。
+
+### Substack 发布结果
+
+- 公开标题：`SaaS-Erklärvideos mit MiniMax H3: API, echte UI und Prüfgrenzen`。
+- 公开 URL：<https://bestimage.substack.com/p/saas-erklarvideos-mit-minimax-h3>
+- 发布前预览发现正文内主图会导致图后内容无法完整呈现，因此撤回正文插图；最终公开版不含该错误图片块，完整正文未受影响。
+- 公开页已核对德文字符、标题、副标题、AI 辅助披露、完整技术说明、未测试代码警示、结论及两条 MiniMax 官方来源。
+- 精确锚文本 `Affordable MiniMax H3 API` 仅出现一次；第三方、非官方、`via=shixi88`、模型可用性、价格、隐私、服务条款与输出权利均已披露。
+- 受众设置为 `Everyone`；未启用付费访问，且选择 `Publish without buttons`，没有额外加入订阅按钮 CTA。
+- 原 DEV 平台包、图片及账号申诉记录未被覆盖；DEV 账号恢复申诉仍是独立的访问问题。
+
+### 当前项目状态
+
+**公开发布数量增至 7：PromoteProject（`en-US`）、Dreamwidth（`es-419`）、Blogger（`pt-BR`）、Tumblr（`ja-JP`）、Substack（`de-DE`）、OverBlog（`fr-FR`）与 Medium（`zh-TW`）。仅 `zh-CN` 按用户要求继续暂停。**
