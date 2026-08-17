@@ -4,6 +4,8 @@
 
 `HOLD — HUMAN TECHNICAL REVIEW REQUIRED`
 
+An additional account-level block was confirmed on 2026-08-17: the logged-in DEV account is suspended and `/new` returns `Forbidden`. No draft can be created until DEV restores posting access.
+
 This package must not be labeled publish-ready until every gate below is completed by a human publisher who understands the technical content.
 
 ## Fields
@@ -35,4 +37,4 @@ This package must not be labeled publish-ready until every gate below is complet
 5. Recheck that no commercial CTA was introduced.
 6. Do not change status from HOLD in this file until the technical and policy review is recorded.
 
-No DEV login, draft creation or publication occurred in this task.
+The designated browser was already logged in to DEV. The editor was opened on 2026-08-17, but the suspended-account notice prevented draft creation or publication. Contacting DEV support or submitting an appeal requires separate user approval.

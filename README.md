@@ -21,12 +21,12 @@ For readers evaluating a unified third-party workflow, see [Affordable MiniMax H
 |---|---|---|---|---|
 | en-US | Product launch videos | Indie Hackers | [`minimax-h3-product-launch-indiehackers-en`](./minimax-h3-product-launch-indiehackers-en/) | Blocked — posting privileges required |
 | es-419 | Travel and food videos | Dreamwidth | [`minimax-h3-travel-journal-dreamwidth-es`](./minimax-h3-travel-journal-dreamwidth-es/) | [Published](https://bestimage.dreamwidth.org/482.html) |
-| pt-BR | E-commerce UGC videos | Guides.co | [`minimax-h3-ugc-guide-guides-ptbr`](./minimax-h3-ugc-guide-guides-ptbr/) | HOLD — ACCESS REQUIRED |
+| pt-BR | E-commerce UGC videos | Guides.co | [`minimax-h3-ugc-guide-guides-ptbr`](./minimax-h3-ugc-guide-guides-ptbr/) | Blocked — login credentials and publisher access required |
 | ja-JP | Anime promotional videos | Hatena Blog | [`minimax-h3-anime-pv-hatena-ja`](./minimax-h3-anime-pv-hatena-ja/) | Blog-opening review pending |
-| de-DE | SaaS explainer videos | DEV | [`minimax-h3-saas-explainer-dev-de`](./minimax-h3-saas-explainer-dev-de/) | HOLD — HUMAN TECHNICAL REVIEW REQUIRED |
+| de-DE | SaaS explainer videos | DEV | [`minimax-h3-saas-explainer-dev-de`](./minimax-h3-saas-explainer-dev-de/) | Blocked — account suspended; human technical review still required |
 | fr-FR | Fashion video direction | OverBlog | [`minimax-h3-fashion-directions-overblog-fr`](./minimax-h3-fashion-directions-overblog-fr/) | [Published](https://bestimage888.overblog.fr/7-directions-visuelles-film-mode-15-secondes) |
-| zh-CN | Storyboard and API workflow | CSDN | [`minimax-h3-storyboard-api-csdn-zh-cn`](./minimax-h3-storyboard-api-csdn-zh-cn/) | Blocked — WeChat binding required |
-| zh-TW | Vertical video composition | Medium | [`minimax-h3-vertical-video-medium-zh-tw`](./minimax-h3-vertical-video-medium-zh-tw/) | Blocked — story save error |
+| zh-CN | Storyboard and API workflow | CSDN | [`minimax-h3-storyboard-api-csdn-zh-cn`](./minimax-h3-storyboard-api-csdn-zh-cn/) | Paused by user; WeChat binding still required |
+| zh-TW | Vertical video composition | Medium | [`minimax-h3-vertical-video-medium-zh-tw`](./minimax-h3-vertical-video-medium-zh-tw/) | Draft saved — four image uploads required before publication |
 
 Project records are stored in [`minimax-h3-multilingual-review-diary`](./minimax-h3-multilingual-review-diary/).
 
