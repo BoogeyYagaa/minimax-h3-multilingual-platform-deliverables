@@ -453,3 +453,51 @@ writer/output/minimax-h3-fashion-video-fr/
 - 转换没有改变文章文字、官方链接、AI 披露、HOLD 门槛或商业 CTA 处理原则。
 - 完整 HTML 用于本地预览和内容移交，不代表目标平台会保留 `<head>` 或内嵌样式；投稿时仍须按各包 `submission-notes.md` 操作。
 - 本轮新增格式不构成实际发布，线上发布数量仍为 0。
+
+---
+
+## 十六、第十一轮：平台账号门槛处理与首批公开发布
+
+**执行日期：** 2026年8月17日
+**执行边界：** 仅操作用户指定的 BitBrowser 指纹浏览器；不操作 Guides.co 与 DEV；不购买权限、不绕过验证码或平台风控。
+**本轮结论：** **OverBlog 与 Dreamwidth 已公开发布并完成公开页核对；Hatena 已提交人工开通申请；其余目标仍受平台账户或保存接口门槛限制。**
+
+### 已公开发布并核对
+
+- **OverBlog（`fr-FR`）：** 《7 directions visuelles pour un film de mode de 15 secondes》已公开，正文、主图、图片说明与 AI 透明度声明均在公开页显示。URL：<https://bestimage888.overblog.fr/7-directions-visuelles-film-mode-15-secondes>
+- **Dreamwidth（`es-419`）：** 完成邮箱验证后发布《Un cuaderno de viaje imaginario: 8 escenas para contar comida y lugares con MiniMax H3》。公开页已核对标题、完整正文、主图、AI 披露、官方来源和 5 个标签。URL：<https://bestimage.dreamwidth.org/482.html>
+
+### 已提交审核
+
+- **Hatena Blog（`ja-JP`）：** 平台检测到“通常とは異なるアクティビティ”，未允许直接创建博客。已按用户确认提交人工开通申请，说明日文技术／创意解说用途、原创编辑、AI 披露和无垃圾群发／联盟跟踪链接；平台提示通常需 1—2 个工作日审核。文章尚未发布。
+
+### 当前阻塞项
+
+- **Indie Hackers（`en-US`）：** 新账号尚未获得发帖权限；平台要求通过正常社区参与获得权限或购买 Plus。本轮未购买、未刷评论、未发布。
+- **CSDN（`zh-CN`）：** 标题和 Markdown 正文已进入编辑器，但发布前强制完成微信绑定；未绑定前不能发布。
+- **Medium（`zh-TW`）：** 新文章编辑器可打开，但持续显示“Something is wrong and we cannot save your story”；无法确认草稿保存，因此未强行发布。
+- **Guides.co（`pt-BR`）：** 继续 `HOLD — ACCESS REQUIRED`。
+- **DEV（`de-DE`）：** 继续 `HOLD — HUMAN TECHNICAL REVIEW REQUIRED`。
+
+### 本轮状态
+
+**目标平台公开发布 2 篇，Hatena 人工开通申请 1 项；其余 5 篇未发布。所有公开 URL 均来自实际平台结果，不以本地稿件或草稿状态代替发布成功。**
+
+---
+
+## 十七、第十二轮：GitHub 锚文本补充
+
+**执行日期：** 2026年8月17日
+**输入：** 用户要求补充精确锚文本 `Affordable MiniMax H3 API`。
+**本轮结论：** 已在公开仓库英文及简中 README 的显眼位置加入该锚文本与目标链接；八篇第三方平台正文保持不变。
+
+### 修改与边界
+
+- 新增链接指向 Best Image AI 的 MiniMax H3 Text-to-Video 页面，并保留 `via=shixi88` 跟踪参数。
+- 同处披露 Best Image AI 为非官方第三方服务以及链接含跟踪参数。
+- 明确 `Affordable` 不构成已经核实的比较价格结论；使用前仍须核对实时价格、模型可用性、隐私政策与服务条款。
+- 未向 Dreamwidth、OverBlog 或其余平台投稿稿件补入商业 CTA，避免逆转既有平台合规结论。
+
+### 本轮状态
+
+**GitHub 仓库说明已补充精确锚文本；第三方平台文章与线上页面未修改。**

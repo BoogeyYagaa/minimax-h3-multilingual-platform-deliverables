@@ -2,7 +2,11 @@
 
 ## Status
 
-`READY FOR MANUAL PLATFORM REVIEW — MEDIUM RISK`
+`PUBLISHED — VERIFIED`
+
+- Published: 2026-08-17
+- Public URL: <https://bestimage888.overblog.fr/7-directions-visuelles-film-mode-15-secondes>
+- Verification: public title, complete article, image, caption and AI transparency disclosure confirmed.
 
 ## Fields
 
@@ -30,4 +34,4 @@
 4. Keep only the official MiniMax documentation link.
 5. Recheck OverBlog terms on the publication date.
 
-No login, post creation or publication was performed.
+Publication was completed after the mandatory gates were checked. See `publication-record.md` for the final result.
