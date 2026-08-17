@@ -21,7 +21,7 @@ For readers evaluating a unified third-party workflow, see [Affordable MiniMax H
 |---|---|---|---|---|
 | en-US | Product launch videos | Indie Hackers | [`minimax-h3-product-launch-indiehackers-en`](./minimax-h3-product-launch-indiehackers-en/) | Blocked — posting privileges required |
 | es-419 | Travel and food videos | Dreamwidth | [`minimax-h3-travel-journal-dreamwidth-es`](./minimax-h3-travel-journal-dreamwidth-es/) | [Published](https://bestimage.dreamwidth.org/482.html) |
-| pt-BR | E-commerce UGC videos | Guides.co | [`minimax-h3-ugc-guide-guides-ptbr`](./minimax-h3-ugc-guide-guides-ptbr/) | Blocked — login credentials and publisher access required |
+| pt-BR | E-commerce UGC videos | Guides.co | [`minimax-h3-ugc-guide-guides-ptbr`](./minimax-h3-ugc-guide-guides-ptbr/) | Invite request submitted — awaiting platform review |
 | ja-JP | Anime promotional videos | Hatena Blog | [`minimax-h3-anime-pv-hatena-ja`](./minimax-h3-anime-pv-hatena-ja/) | Blog-opening review pending |
 | de-DE | SaaS explainer videos | DEV | [`minimax-h3-saas-explainer-dev-de`](./minimax-h3-saas-explainer-dev-de/) | Blocked — account suspended; human technical review still required |
 | fr-FR | Fashion video direction | OverBlog | [`minimax-h3-fashion-directions-overblog-fr`](./minimax-h3-fashion-directions-overblog-fr/) | [Published](https://bestimage888.overblog.fr/7-directions-visuelles-film-mode-15-secondes) |
@@ -48,7 +48,7 @@ Published platform directories also include a `publication-record.md` file with 
 ## Publication safeguards
 
 - Commercial tracking links and third-party calls to action were removed from all eight platform articles.
-- Guides.co remains blocked until publishing access is confirmed.
+- Guides.co confirmed receipt of the contribution request; publication remains blocked until an invitation is approved.
 - The DEV article requires human technical review before submission.
 - The OverBlog article was published after its rights, sponsorship, advertising-material, and link checks were completed; future edits require the same review.
 - Platform policies, API availability, image paths, locale settings, and final URLs must be checked again immediately before publication.
