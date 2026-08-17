@@ -2,7 +2,7 @@
 
 **执行日期：** 2026年8月14日  
 **项目边界：** 8 篇原始文章 × 8 个唯一网站；保留原有 8 个 Locale；另建平台发布版，不修改原文。  
-**当前结果：** 8/8 个平台包已建立；截至 2026年8月17日，线上已发布 2 篇，Hatena 开通申请审核中。
+**当前结果：** 8/8 个平台包已建立；截至 2026年8月17日，线上已发布 3 篇，Hatena 开通申请审核中。
 
 | Locale | 原始内容包 | 目标网站 | 平台发布包 | 平台正文 | 当前状态 |
 |---|---|---|---|---|---|
@@ -13,13 +13,13 @@
 | `de-DE` | `minimax-h3-saas-explainer-de/` | DEV | `minimax-h3-saas-explainer-dev-de/` | `article.dev.de-de.md` | `HOLD — HUMAN TECHNICAL REVIEW REQUIRED` |
 | `fr-FR` | `minimax-h3-fashion-video-fr/` | OverBlog | `minimax-h3-fashion-directions-overblog-fr/` | `article.overblog.fr-fr.md` | `PUBLISHED` — <https://bestimage888.overblog.fr/7-directions-visuelles-film-mode-15-secondes> |
 | `zh-CN` | `minimax-h3-video-storyboard-guide-zh-cn/` | CSDN | `minimax-h3-storyboard-api-csdn-zh-cn/` | `article.csdn.zh-cn.md` | `BLOCKED — WECHAT BINDING REQUIRED` |
-| `zh-TW` | `minimax-h3-vertical-video-guide-zh-tw/` | Medium | `minimax-h3-vertical-video-medium-zh-tw/` | `article.medium.zh-tw.md`、`article.docx` | `BLOCKED — STORY SAVE ERROR` |
+| `zh-TW` | `minimax-h3-vertical-video-guide-zh-tw/` | Medium | `minimax-h3-vertical-video-medium-zh-tw/` | `article.medium.zh-tw.md`、`article.docx` | `PUBLISHED` — <https://medium.com/@bestimage888/15-%E7%A7%92%E4%B8%8D%E6%98%AF%E5%A1%9E%E6%BB%BF%E7%95%AB%E9%9D%A2-minimax-h3-%E7%9B%B4%E5%BC%8F%E5%BD%B1%E7%89%87%E7%9A%84-6-%E7%A8%AE-9-16-%E6%A7%8B%E5%9C%96%E6%B3%95-e03a45433b7f> |
 
 ## 当前发布与阻塞状态
 
 - Dreamwidth 与 OverBlog 已公开发布，URL 已写入上表和各自的 `publication-record.md`。
 - Hatena Blog 已提交博客开通申请，等待平台人工审核。
-- Indie Hackers 等待发帖权限，CSDN 等待微信绑定，Medium 因编辑器保存错误暂停。
+- Indie Hackers 等待发帖权限，CSDN 按用户指令暂停；Medium 已完成发布。
 
 ## 保持暂停的 2 个平台包
 

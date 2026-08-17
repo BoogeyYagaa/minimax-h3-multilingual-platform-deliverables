@@ -520,3 +520,29 @@ writer/output/minimax-h3-fashion-video-fr/
 ### 当前状态
 
 **公开发布数量仍为 2。Medium 已从“无法保存”推进为“草稿已保存、待上传图片”；Guides.co 等待登录与发布权限；DEV 等待账号恢复与人工技术责任确认。**
+
+---
+
+## 十九、第十四轮：Medium 完成发布
+
+**执行日期：** 2026年8月17日
+**用户边界：** 简中继续暂停；Guides.co、DEV 继续执行可行操作；Medium 重试。
+**本轮结论：** Medium 的 `zh-TW` 文章已完成图片上传、章节归位、预览主图设置与公开发布；Guides.co 和 DEV 的账号级阻塞未被绕过。
+
+### Medium 发布结果
+
+- 4 张 1600×900 AI 概念图均已上传，并分别放在对应章节图片说明之后。
+- 预览页使用首张工作室构图图作为主图；标题与副标题显示正常。
+- 正文保留繁中 Locale、AI 辅助与 AI 图片披露、两个 MiniMax 官方技术来源；没有商业 CTA 或跟踪参数。
+- 平台返回 `Your story has been published and sent!`。
+- 公开 URL：<https://medium.com/@bestimage888/15-%E7%A7%92%E4%B8%8D%E6%98%AF%E5%A1%9E%E6%BB%BF%E7%95%AB%E9%9D%A2-minimax-h3-%E7%9B%B4%E5%BC%8F%E5%BD%B1%E7%89%87%E7%9A%84-6-%E7%A8%AE-9-16-%E6%A7%8B%E5%9C%96%E6%B3%95-e03a45433b7f>
+
+### 其余平台状态
+
+- **CSDN（`zh-CN`）：** 按用户指令暂停，没有继续发布。
+- **Guides.co（`pt-BR`）：** 登录页没有可用会话或已存密码；未擅自重置密码，继续等待登录凭据与发布权限。
+- **DEV（`de-DE`）：** 已登录账号仍显示 suspended，`/new` 返回 `Forbidden`；未擅自代表用户发送支持邮件或申诉，人工技术复核门槛仍有效。
+
+### 本轮状态
+
+**目标平台公开发布数量增至 3；Medium 完成，Guides.co 与 DEV 继续受账号级阻塞，简中保持暂停。**
