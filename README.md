@@ -9,6 +9,12 @@ This public repository contains eight platform-specific adaptations of a multili
 
 Two articles have now been published and verified on their target platforms. The remaining files are editorial deliverables or blocked submissions; their status is recorded below.
 
+## Third-party API access
+
+For readers evaluating a unified third-party workflow, see [Affordable MiniMax H3 API](https://bestimage.ai/models/minimax/minimax-h3-text-to-video/?via=shixi88).
+
+**Disclosure:** Best Image AI is a third-party service, not an official MiniMax endpoint. The link contains the tracking parameter `via=shixi88`. The anchor text is not a verified comparative-pricing claim; check current model availability, controls, pricing, privacy terms, and service terms directly before use.
+
 ## Platform mapping
 
 | Locale | Topic | Target platform | Directory | Status |

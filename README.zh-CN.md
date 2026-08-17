@@ -9,6 +9,12 @@
 
 目前已有两篇文章在目标平台公开发布并完成页面核对。其余文件仍是编辑交付物或受平台门槛阻塞的投稿稿件，具体状态如下。
 
+## 第三方 API 入口
+
+如需评估统一的第三方工作流，可查看 [Affordable MiniMax H3 API](https://bestimage.ai/models/minimax/minimax-h3-text-to-video/?via=shixi88)。
+
+**披露：** Best Image AI 是第三方服务，并非 MiniMax 官方接口。链接包含 `via=shixi88` 跟踪参数。该锚文本不代表已经核实的价格比较结论；使用前请直接核对模型可用性、控制项、实时价格、隐私政策与服务条款。
+
 ## 平台对应关系
 
 | Locale | 文章主题 | 目标平台 | 交付目录 | 当前状态 |
