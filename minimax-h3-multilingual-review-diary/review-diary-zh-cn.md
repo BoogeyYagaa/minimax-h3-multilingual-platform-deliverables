@@ -599,3 +599,111 @@ writer/output/minimax-h3-fashion-video-fr/
 ### 本轮状态
 
 **DEV：`APPEAL SENT — AWAITING DEV RESPONSE; HUMAN TECHNICAL REVIEW REQUIRED`。公开发布总数仍为 3。**
+
+---
+
+## 二十二、第十七轮：PromoteProject 发布与日文替代平台复核
+
+**执行日期：** 2026年8月17日
+**用户边界：** 简中继续暂停；日文稿遇到平台阻塞时暂停等待；仅把公开页可验证的结果写入 GitHub。
+**本轮结论：** 英文产品发布视频稿已改投 PromoteProject 并完成公开页核对；日文稿在多个候选平台受阻后暂缓，未记录虚构 URL。
+
+### PromoteProject 发布结果
+
+- Indie Hackers 因账号没有发帖权限未继续操作，英文稿改投 PromoteProject。
+- 公开标题：`A Founder’s Shot List: 7 Honest AI Product Launch Clips`。
+- 公开 URL：<https://www.promoteproject.com/article/226203/a-founders-shot-list-7-honest-ai-product-launch-clips>
+- 公开页已核对标题、完整正文、作者账号、MiniMax 官方来源、AI 辅助披露与标签。
+- 正文包含一次精确锚文本 `Affordable MiniMax H3 API`，链接指向第三方 Best Image AI 页面并保留 `via=shixi88`。
+- 正文明确披露该入口不是 MiniMax 官方端点，并要求读者在使用前核对模型可用性、控制项、价格、隐私条款与输出权利。
+- 本地 Indie Hackers 平台稿未被线上改写版覆盖；差异记录在该包的 `publication-record.md`。
+
+### 日文替代平台状态
+
+- **Hatena Blog：** 先前因异常活动检测进入人工开通流程，没有获得可发布博客。
+- **note：** 当前网络环境被平台拒绝注册，未尝试绕过 IP 风控。
+- **Livedoor Blog：** 登录和注册入口可访问，但注册流程出现无法解决的日文验证码；未完成注册或登录。
+- **Tumblr：** 注册入口可访问，支持邮箱、Google 或 Apple 登录；用户随后要求搁置，因此没有继续授权、完善账号或投稿。
+- 日文正文、图片及原 Hatena 交付包均未修改，也没有产生公开 URL。
+
+### 当前项目状态
+
+**公开发布数量增至 4：PromoteProject（`en-US`）、Dreamwidth（`es-419`）、OverBlog（`fr-FR`）与 Medium（`zh-TW`）。Guides.co 等待邀请，DEV 等待申诉回复及人工技术复核，`zh-CN` 继续暂停，`ja-JP` 暂待新的可用平台。**
+
+---
+
+## 二十三、第十八轮：Tumblr 日文稿发布与 Blogger 建站阻塞
+
+**执行日期：** 2026年8月17日
+**用户边界：** 简中继续暂停；Tumblr、Blogger 与 Substack 已登录；遇到建站、验证码、权限或风控阻塞时暂停等待人工处理。
+**本轮结论：** 日文稿已改投 Tumblr 并完成公开页核验；Blogger 已登录但停在首次建站命名流程，巴葡稿尚未上传；Substack 尚未继续操作。
+
+### Tumblr 发布结果
+
+- 公开标题：`15秒のアニメPVを作るための7カット設計メモ｜MiniMax H3`。
+- 公开 URL：<https://www.tumblr.com/bestimageai/825191446194929664/15%E7%A7%92%E3%81%AE%E3%82%A2%E3%83%8B%E3%83%A1pv%E3%82%92%E4%BD%9C%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE7%E3%82%AB%E3%83%83%E3%83%88%E8%A8%AD%E8%A8%88%E3%83%A1%E3%83%A2-minimax-h3>
+- 使用 Tumblr Markdown 编辑器发布；公开页已核对标题、完整日文正文、主图与描述性替代文本、官方 MiniMax 来源及 5 个标签。
+- 正文仅出现一次精确锚文本 `Affordable MiniMax H3 API`；明确披露其为第三方、非 MiniMax 官方入口，URL 包含 `via=shixi88`，并提示核对价格、模型可用性、隐私与输出权利。
+- Tumblr 的商业内容标记在公开页可见；AI 辅助与广告披露均保留。
+- 原 Hatena 平台正文和图片未覆盖；线上改写差异记录在同目录 `publication-record.md`。
+
+### Blogger 阻塞
+
+- Google/Blogger 账号已登录，但账号尚未创建博客。
+- 当前页面要求先确定公开博客名称，下一步还将选择永久 Blogspot 地址；此选择会影响长期品牌和 URL。
+- 未擅自填写名称、占用地址或上传巴葡正文；按用户要求停在该页面等待人工确认。
+- 暂拟名称 `BestImage AI Video Notes`，暂拟地址 `bestimage-ai-video-notes.blogspot.com`；可用性尚未验证。
+
+### 当前项目状态
+
+**公开发布数量增至 5：PromoteProject（`en-US`）、Dreamwidth（`es-419`）、Tumblr（`ja-JP`）、OverBlog（`fr-FR`）与 Medium（`zh-TW`）。`pt-BR` 等待 Blogger 建站确认，`de-DE` 的 Substack 尚未继续，`zh-CN` 继续暂停。**
+
+---
+
+## 二十四、第十九轮：Blogger 巴葡稿发布与 Substack 资料阻塞
+
+**执行日期：** 2026年8月17日
+**本轮结论：** Blogger 建站完成后，巴葡稿已公开发布并完成页面核验；Substack 登录有效，但首次发布前要求设置公开作者名称和 Handle，因此德文稿尚未上传。
+
+### Blogger 发布结果
+
+- 博客名称：`BestImage AI Video Notes`。
+- 公开标题：`MiniMax H3: 7 roteiros UGC para testar vídeos de produtos`。
+- 公开 URL：<https://bestimage-ai-video-notes.blogspot.com/2026/08/minimax-h3-7-roteiros-ugc-para-testar.html>
+- 发布前先发现 HTML 被当作普通文本以及旧正文重复的问题；清空编辑器后在原生 HTML 模式重新写入，并再次预览。
+- 最终公开页已核对葡语重音、主图、完整正文、6 个主步骤、7 个 UGC 脚本、5 个标签、官方 MiniMax 来源和 AI/广告披露。
+- 精确锚文本 `Affordable MiniMax H3 API` 仅出现一次；第三方身份、`via=shixi88`、价格与可用性复核、隐私、条款和输出权利均已披露。
+- 原 Guides.co 平台包未覆盖；Guides.co 邀请申请仍在等待，但不再是 `pt-BR` 的当前发布路径。
+
+### Substack 阻塞
+
+- 账号已登录，可打开 `Create → Article`。
+- 首次创建文章前，平台要求设置公开作者 `Name` 和永久 `Handle`。
+- 未擅自确定身份或占用 Handle；德文正文、图片和链接均未上传。
+- 建议名称 `BestImage AI Video Notes`，建议先尝试 Handle `bestimage-ai-video-notes`。
+
+### 当前项目状态
+
+**公开发布数量增至 6：PromoteProject（`en-US`）、Dreamwidth（`es-419`）、Blogger（`pt-BR`）、Tumblr（`ja-JP`）、OverBlog（`fr-FR`）与 Medium（`zh-TW`）。`de-DE` 等待 Substack 资料确认，`zh-CN` 继续暂停。**
+
+---
+
+## 二十五、第二十轮：Substack 德文稿发布与公开页复核
+
+**执行日期：** 2026年8月17日
+**用户边界：** 简中继续暂停；Substack 资料由用户完成创建；遇到验证码、条款或付费设置时暂停。
+**本轮结论：** 德文 SaaS 讲解稿已改投 Substack，面向所有读者免费公开，并完成从标题到文末来源的页面核验。
+
+### Substack 发布结果
+
+- 公开标题：`SaaS-Erklärvideos mit MiniMax H3: API, echte UI und Prüfgrenzen`。
+- 公开 URL：<https://bestimage.substack.com/p/saas-erklarvideos-mit-minimax-h3>
+- 发布前预览发现正文内主图会导致图后内容无法完整呈现，因此撤回正文插图；最终公开版不含该错误图片块，完整正文未受影响。
+- 公开页已核对德文字符、标题、副标题、AI 辅助披露、完整技术说明、未测试代码警示、结论及两条 MiniMax 官方来源。
+- 精确锚文本 `Affordable MiniMax H3 API` 仅出现一次；第三方、非官方、`via=shixi88`、模型可用性、价格、隐私、服务条款与输出权利均已披露。
+- 受众设置为 `Everyone`；未启用付费访问，且选择 `Publish without buttons`，没有额外加入订阅按钮 CTA。
+- 原 DEV 平台包、图片及账号申诉记录未被覆盖；DEV 账号恢复申诉仍是独立的访问问题。
+
+### 当前项目状态
+
+**公开发布数量增至 7：PromoteProject（`en-US`）、Dreamwidth（`es-419`）、Blogger（`pt-BR`）、Tumblr（`ja-JP`）、Substack（`de-DE`）、OverBlog（`fr-FR`）与 Medium（`zh-TW`）。仅 `zh-CN` 按用户要求继续暂停。**
