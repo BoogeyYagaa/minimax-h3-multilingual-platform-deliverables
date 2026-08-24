@@ -612,7 +612,7 @@ writer/output/minimax-h3-fashion-video-fr/
 
 - Indie Hackers 因账号没有发帖权限未继续操作，英文稿改投 PromoteProject。
 - 公开标题：`A Founder’s Shot List: 7 Honest AI Product Launch Clips`。
-- 公开 URL：<https://www.promoteproject.com/article/226203/a-founders-shot-list-7-honest-ai-product-launch-clips>
+- 公开 URL：<https://www.promoteproject.com/article/226203/minimax-h3-product-launch-videos-7-honest-clips-for-founders>
 - 公开页已核对标题、完整正文、作者账号、MiniMax 官方来源、AI 辅助披露与标签。
 - 正文包含一次精确锚文本 `Affordable MiniMax H3 API`，链接指向第三方 Best Image AI 页面并保留 `via=shixi88`。
 - 正文明确披露该入口不是 MiniMax 官方端点，并要求读者在使用前核对模型可用性、控制项、价格、隐私条款与输出权利。

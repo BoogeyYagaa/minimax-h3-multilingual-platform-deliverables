@@ -5,7 +5,7 @@
 - **Locale:** `en-US`
 - **Publication date:** 2026-08-17
 - **Public title:** `A Founder’s Shot List: 7 Honest AI Product Launch Clips`
-- **Public URL:** <https://www.promoteproject.com/article/226203/a-founders-shot-list-7-honest-ai-product-launch-clips>
+- **Public URL:** <https://www.promoteproject.com/article/226203/minimax-h3-product-launch-videos-7-honest-clips-for-founders>
 - **Account shown on page:** `bestimage888`
 - **Source package:** `minimax-h3-product-launch-indiehackers-en/`
 

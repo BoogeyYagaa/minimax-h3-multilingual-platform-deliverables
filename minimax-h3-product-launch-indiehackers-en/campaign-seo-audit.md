@@ -3,7 +3,7 @@
 **Audit date:** 2026-08-24  
 **Source preserved:** `article.indiehackers.en-us.md` (`SHA-256 bfa2b1f8b3d012a34ffbbd0af5830049a4ec6c0f2f6894d889d1b4bb15604ccd`)  
 **Local candidate:** `published.promoteproject.en-us.md` and `.html`  
-**Public URL:** <https://www.promoteproject.com/article/226203/a-founders-shot-list-7-honest-ai-product-launch-clips>
+**Public URL:** <https://www.promoteproject.com/article/226203/minimax-h3-product-launch-videos-7-honest-clips-for-founders>
 
 ## Result
 

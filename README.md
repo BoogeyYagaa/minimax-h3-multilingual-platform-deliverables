@@ -19,7 +19,7 @@ For readers evaluating a unified third-party workflow, see [Affordable MiniMax H
 
 | Locale | Topic | Target platform | Directory | Status |
 |---|---|---|---|---|
-| en-US | Product launch videos | PromoteProject | [`minimax-h3-product-launch-indiehackers-en`](./minimax-h3-product-launch-indiehackers-en/) | [Published](https://www.promoteproject.com/article/226203/a-founders-shot-list-7-honest-ai-product-launch-clips) — replacement for blocked Indie Hackers submission |
+| en-US | Product launch videos | PromoteProject | [`minimax-h3-product-launch-indiehackers-en`](./minimax-h3-product-launch-indiehackers-en/) | [Published](https://www.promoteproject.com/article/226203/minimax-h3-product-launch-videos-7-honest-clips-for-founders) — replacement for blocked Indie Hackers submission |
 | es-419 | Travel and food videos | Dreamwidth | [`minimax-h3-travel-journal-dreamwidth-es`](./minimax-h3-travel-journal-dreamwidth-es/) | [Published](https://bestimage.dreamwidth.org/482.html) |
 | pt-BR | E-commerce UGC videos | Blogger | [`minimax-h3-ugc-guide-guides-ptbr`](./minimax-h3-ugc-guide-guides-ptbr/) | [Published](https://bestimage-ai-video-notes.blogspot.com/2026/08/minimax-h3-7-roteiros-ugc-para-testar.html) — replacement for invite-only Guides.co |
 | ja-JP | Anime promotional videos | Tumblr | [`minimax-h3-anime-pv-hatena-ja`](./minimax-h3-anime-pv-hatena-ja/) | [Published](https://www.tumblr.com/bestimageai/825191446194929664/15%E7%A7%92%E3%81%AE%E3%82%A2%E3%83%8B%E3%83%A1pv%E3%82%92%E4%BD%9C%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE7%E3%82%AB%E3%83%83%E3%83%88%E8%A8%AD%E8%A8%88%E3%83%A1%E3%83%A2-minimax-h3) — replacement for blocked Hatena, note and Livedoor submissions |

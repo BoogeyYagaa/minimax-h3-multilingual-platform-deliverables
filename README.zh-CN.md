@@ -19,7 +19,7 @@
 
 | Locale | 文章主题 | 目标平台 | 交付目录 | 当前状态 |
 |---|---|---|---|---|
-| en-US | 产品发布视频 | PromoteProject | [`minimax-h3-product-launch-indiehackers-en`](./minimax-h3-product-launch-indiehackers-en/) | [已发布](https://www.promoteproject.com/article/226203/a-founders-shot-list-7-honest-ai-product-launch-clips)，替代受阻的 Indie Hackers 投稿 |
+| en-US | 产品发布视频 | PromoteProject | [`minimax-h3-product-launch-indiehackers-en`](./minimax-h3-product-launch-indiehackers-en/) | [已发布](https://www.promoteproject.com/article/226203/minimax-h3-product-launch-videos-7-honest-clips-for-founders)，替代受阻的 Indie Hackers 投稿 |
 | es-419 | 旅行与美食视频 | Dreamwidth | [`minimax-h3-travel-journal-dreamwidth-es`](./minimax-h3-travel-journal-dreamwidth-es/) | [已发布](https://bestimage.dreamwidth.org/482.html) |
 | pt-BR | 电商 UGC 视频 | Blogger | [`minimax-h3-ugc-guide-guides-ptbr`](./minimax-h3-ugc-guide-guides-ptbr/) | [已发布](https://bestimage-ai-video-notes.blogspot.com/2026/08/minimax-h3-7-roteiros-ugc-para-testar.html)，替代仅限邀请的 Guides.co |
 | ja-JP | 动漫宣传视频 | Tumblr | [`minimax-h3-anime-pv-hatena-ja`](./minimax-h3-anime-pv-hatena-ja/) | [已发布](https://www.tumblr.com/bestimageai/825191446194929664/15%E7%A7%92%E3%81%AE%E3%82%A2%E3%83%8B%E3%83%A1pv%E3%82%92%E4%BD%9C%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE7%E3%82%AB%E3%83%83%E3%83%88%E8%A8%AD%E8%A8%88%E3%83%A1%E3%83%A2-minimax-h3)，替代受阻的 Hatena、note 与 Livedoor 投稿 |
