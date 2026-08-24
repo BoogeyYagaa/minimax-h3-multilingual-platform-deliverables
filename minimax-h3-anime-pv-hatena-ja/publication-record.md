@@ -19,4 +19,4 @@
 
 ## Local-package boundary
 
-The original Hatena platform article and image were not overwritten. The Tumblr copy changed the title, referenced the public repository image, added one disclosed third-party link, and removed the Hatena-specific tag footer.
+The original Hatena platform article and image were not overwritten. The Tumblr copy changed the title, referenced the public repository image, added one disclosed third-party link, and uses Tumblr-specific tags. On 2026-08-24, the local `published.tumblr.ja-jp.md/.html` mirror was aligned with the verified public wording and link placement.

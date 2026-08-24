@@ -737,3 +737,22 @@ writer/output/minimax-h3-fashion-video-fr/
 - Substack：`REVISION COMPLETE — HUMAN TECHNICAL AND LIVE UPDATE REVIEW REQUIRED`。
 - Dreamwidth、OverBlog、Medium：`HOLD — LIVE UPDATE POLICY REVIEW REQUIRED`。
 - 本轮线上修改数为 `0`；本地 published copy 不能被描述为已同步到公开页。
+
+---
+
+## 二十七、第二十二轮：Tumblr 公开页与本地 published copy 对齐
+
+**执行日期：** 2026年8月24日
+
+**公开页面：** <https://www.tumblr.com/bestimageai/825191446194929664/15%E7%A7%92%E3%81%AE%E3%82%A2%E3%83%8B%E3%83%A1pv%E3%82%92%E4%BD%9C%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE7%E3%82%AB%E3%83%83%E3%83%88%E8%A8%AD%E8%A8%88%E3%83%A1%E3%83%A2-minimax-h3>
+**本轮结论：** 公开页此前已完成 Campaign SEO 更新，但本地 `published.tumblr.ja-jp.md/.html` 仍保留更新前的链接位置和结尾措辞，现已按公开页最终内容修正。
+
+### 已关闭差异
+
+- 将 MiniMax 官方视频生成文档链接移回线上实际使用的开头说明段。
+- 将第三方 Best Image AI CTA、跟踪参数说明及核验边界改为线上实际措辞。
+- 删除线上不存在的独立“参考资料”章节，避免本地镜像多出正文。
+- 保留原始 `article.hatena.ja-jp.md/.html` 不动；只修订 Tumblr published mirror。
+- 重新核对标题、正文段落、两个链接、制作说明和五个 Tumblr 标签。
+
+**当前状态：** `LIVE CONTENT MIRROR VERIFIED`。
