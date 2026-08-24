@@ -742,6 +742,8 @@ writer/output/minimax-h3-fashion-video-fr/
 
 ## 二十七、第二十二轮：Tumblr 公开页与本地 published copy 对齐
 
+> **更正（2026年8月24日）：** 本节同步方向错误，结论已撤回。正确基线是本地 `published.tumblr.ja-jp.md/.html`，公开 Tumblr 页面当时仍是旧稿。修复与线上复核见第二十四轮。
+
 **执行日期：** 2026年8月24日
 
 **公开页面：** <https://www.tumblr.com/bestimageai/825191446194929664/15%E7%A7%92%E3%81%AE%E3%82%A2%E3%83%8B%E3%83%A1pv%E3%82%92%E4%BD%9C%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE7%E3%82%AB%E3%83%83%E3%83%88%E8%A8%AD%E8%A8%88%E3%83%A1%E3%83%A2-minimax-h3>
@@ -775,3 +777,30 @@ writer/output/minimax-h3-fashion-video-fr/
 - 八篇基础 Locale 内容包不属于本次平台交付包删除范围。
 
 **当前状态：** `PUBLISHED COPIES ONLY — ORIGINAL PLATFORM ARTICLES REMOVED`。
+
+---
+
+## 二十九、第二十四轮：纠正 Tumblr 同步方向并更新公开页
+
+**执行日期：** 2026年8月24日
+
+**用户澄清：** 本地 `published.tumblr.ja-jp.html` 才是已批准的正确版本；Tumblr 公开页是旧稿，不能让本地反向匹配线上旧内容。
+
+### 本地恢复
+
+- 撤回第二十二轮的反向同步结果，从误操作前的已批准版本恢复 `published.tumblr.ja-jp.md/.html`。
+- 恢复后 HTML SHA-256 为 `224d3d0e97dd330e2fa3420fe22f380aae7b71029505f5d7e94d90fb74552e3c`。
+- 恢复后 Markdown SHA-256 为 `6f94616820df03173716b2877a90835a3a0035068f33351dbeba8a05df747a83`。
+- Desktop、`writer/output` 与 GitHub 发布镜像目录中的两份正文哈希一致。
+- 原始 `article*` 平台稿继续保持删除，未因本次恢复重新引入。
+
+### Tumblr 公开页更新
+
+- 保留原标题、主图、替代文本和五个公开标签。
+- 将 CTA 恢复为本地 published copy 的最终日文措辞，并保留唯一目标链接 `Affordable MiniMax H3 API`。
+- 目标 `href` 为 `https://bestimage.ai/models/minimax/minimax-h3-text-to-video/?via=shixi88`，第三方身份、跟踪参数和价格边界披露均保留。
+- 移除开头规格说明段中的官方文档链接，并新增独立 H2 `参考資料`，把官方链接收拢到该区。
+- 制作说明保持斜体。Tumblr 不提供原生表格块，因此两张表和七个 H3 小节在线上按平台支持的文本布局呈现；可见文字与本地正确版本一致。
+- 保存后强制刷新公开页，确认新 CTA、目标链接、`参考資料`、官方参考链接和制作说明均已生效。
+
+**当前状态：** `LIVE UPDATE VERIFIED — MATCHES PUBLISHED MIRROR`（存在 Tumblr 平台渲染差异，不存在正文版本差异）。
