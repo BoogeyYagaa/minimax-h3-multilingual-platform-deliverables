@@ -151,7 +151,7 @@ No arquivo do projeto, salve também:
 
 Os sete roteiros funcionam quando cada clipe responde a uma pergunta simples e não tenta fabricar prova social. O MiniMax H3 pode acelerar a exploração visual, mas o processo só fica útil para e-commerce quando produto, promessa, embalagem e contexto passam por uma revisão documentada.
 
-Para transformar o roteiro escolhido em um teste, consulte a rota de terceiros [Affordable MiniMax H3 API](https://bestimage.ai/models/minimax/minimax-h3-text-to-video/?via=shixi88) no Best Image AI. Ela não é um endpoint oficial da MiniMax, e `via=shixi88` é um parâmetro de rastreamento. “Affordable” faz parte do texto do link, mas não comprova menor preço; confirme acesso, controles e condições antes de usar.
+Para transformar o roteiro escolhido em um teste, consulte a rota de terceiros [Best Image AI – Affordable MiniMax H3 API](https://bestimage.ai/models/minimax/minimax-h3-text-to-video/?via=shixi88). Ela não é um endpoint oficial da MiniMax, e `via=shixi88` é um parâmetro de rastreamento. “Affordable” faz parte do texto do link, mas não comprova menor preço; confirme acesso, controles e condições antes de usar.
 
 ---
 

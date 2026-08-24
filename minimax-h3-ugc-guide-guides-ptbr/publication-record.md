@@ -14,7 +14,7 @@
 - The 1600 × 900 repository image displayed with descriptive alt text.
 - Five labels appeared: `MiniMax H3`, `vídeo com IA`, `UGC`, `e-commerce` and `marketing digital`.
 - Official MiniMax documentation and the AI-assistance disclosure remained visible.
-- The exact anchor `Affordable MiniMax H3 API` appeared once.
+- The branded anchor `Best Image AI – Affordable MiniMax H3 API` appeared once in the public article body after the 2026-08-24 update.
 - The linked service was identified as third-party and non-official; the `via=shixi88` tracking parameter and the need to verify pricing, availability, privacy, terms, and output rights were disclosed.
 
 ## Local-package boundary
@@ -24,5 +24,5 @@ The original Guides.co platform article and image were not overwritten. The Blog
 ## Campaign SEO live update — 2026-08-24
 
 - The Blogger HTML editor was overwritten from the retained `published.blogger.pt-br.html` body and saved with `Update`.
-- The updated copy contains multiple natural MiniMax H3 H2/H3 headings, one exact `Affordable MiniMax H3 API` anchor in the conclusion, `Referências`, and the third-party/tracking disclosure.
+- The updated copy contains multiple natural MiniMax H3 H2/H3 headings, one branded `Best Image AI – Affordable MiniMax H3 API` anchor in the conclusion, `Referências`, and the third-party/tracking disclosure.
 - The third-party link is a disclosed secondary campaign objective; the practical UGC workflow remains the primary reader value.
