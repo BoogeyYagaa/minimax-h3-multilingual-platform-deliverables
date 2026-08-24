@@ -19,3 +19,9 @@
 ## Local-package boundary
 
 The original DEV platform article and image were not overwritten. The Substack copy retained the technical-review warning, added one disclosed third-party link, and used a platform-specific title, subtitle, and social description. The unresolved DEV account appeal remains a separate platform-access record.
+
+## Campaign SEO live synchronization — 2026-08-24
+
+- The complete Substack body was replaced from `published.substack.de-de.html` as rich text, preserving headings, code blocks, the 24 August disclosure, references and the single target link.
+- The post was updated for `Everyone`; the exact target anchor and `href` were present in the resulting public page source.
+- The technical examples remain explicitly untested and still require a qualified human to take responsibility before production use.

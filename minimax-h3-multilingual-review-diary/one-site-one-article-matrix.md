@@ -6,14 +6,14 @@
 
 | Locale | 原始内容包 | 目标网站 | 平台发布包 | 平台正文 | 当前状态 |
 |---|---|---|---|---|---|
-| `en-US` | `minimax-h3-cinematic-product-videos/` | PromoteProject（替代 Indie Hackers） | `minimax-h3-product-launch-indiehackers-en/` | `published.promoteproject.en-us.md` | `PUBLISHED` — <https://www.promoteproject.com/article/226203/minimax-h3-product-launch-videos-7-honest-clips-for-founders> |
-| `es-419` | `minimax-h3-travel-food-videos-es/` | Dreamwidth | `minimax-h3-travel-journal-dreamwidth-es/` | `published.dreamwidth.es-419.md` | `PUBLISHED` — <https://bestimage.dreamwidth.org/482.html> |
-| `pt-BR` | `minimax-h3-ugc-ecommerce-videos-ptbr/` | Blogger（替代 Guides.co） | `minimax-h3-ugc-guide-guides-ptbr/` | `published.blogger.pt-br.md` | `PUBLISHED` — <https://bestimage-ai-video-notes.blogspot.com/2026/08/minimax-h3-7-roteiros-ugc-para-testar.html> |
+| `en-US` | `minimax-h3-cinematic-product-videos/` | PromoteProject（替代 Indie Hackers） | `minimax-h3-product-launch-indiehackers-en/` | `published.promoteproject.en-us.md` | `PUBLISHED — LIVE REVISION COMPLETED 2026-08-24` — <https://www.promoteproject.com/article/226203/minimax-h3-product-launch-videos-7-honest-clips-for-founders> |
+| `es-419` | `minimax-h3-travel-food-videos-es/` | Dreamwidth | `minimax-h3-travel-journal-dreamwidth-es/` | `published.dreamwidth.es-419.md` | `PUBLISHED OLD COPY — LIVE REVISION BLOCKED BY 403` — <https://bestimage.dreamwidth.org/482.html> |
+| `pt-BR` | `minimax-h3-ugc-ecommerce-videos-ptbr/` | Blogger（替代 Guides.co） | `minimax-h3-ugc-guide-guides-ptbr/` | `published.blogger.pt-br.md` | `PUBLISHED — LIVE MIRROR VERIFIED 2026-08-24` — <https://bestimage-ai-video-notes.blogspot.com/2026/08/minimax-h3-7-roteiros-ugc-para-testar.html> |
 | `ja-JP` | `minimax-h3-anime-pv-ja/` | Tumblr（替代 Hatena、note、Livedoor） | `minimax-h3-anime-pv-hatena-ja/` | `published.tumblr.ja-jp.md` | `PUBLISHED — LIVE REVISION VERIFIED 2026-08-24` — <https://www.tumblr.com/bestimageai/825191446194929664/15%E7%A7%92%E3%81%AE%E3%82%A2%E3%83%8B%E3%83%A1pv%E3%82%92%E4%BD%9C%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE7%E3%82%AB%E3%83%83%E3%83%88%E8%A8%AD%E8%A8%88%E3%83%A1%E3%83%A2-minimax-h3> |
-| `de-DE` | `minimax-h3-saas-explainer-de/` | Substack（替代 DEV） | `minimax-h3-saas-explainer-dev-de/` | `published.substack.de-de.md` | `PUBLISHED` — <https://bestimage.substack.com/p/saas-erklarvideos-mit-minimax-h3> |
-| `fr-FR` | `minimax-h3-fashion-video-fr/` | OverBlog | `minimax-h3-fashion-directions-overblog-fr/` | `published.overblog.fr-fr.md` | `PUBLISHED` — <https://bestimage888.overblog.fr/7-directions-visuelles-film-mode-15-secondes> |
+| `de-DE` | `minimax-h3-saas-explainer-de/` | Substack（替代 DEV） | `minimax-h3-saas-explainer-dev-de/` | `published.substack.de-de.md` | `PUBLISHED — LIVE REVISION COMPLETED 2026-08-24` — <https://bestimage.substack.com/p/saas-erklarvideos-mit-minimax-h3> |
+| `fr-FR` | `minimax-h3-fashion-video-fr/` | OverBlog | `minimax-h3-fashion-directions-overblog-fr/` | `published.overblog.fr-fr.md` | `PUBLISHED — LIVE MIRROR VERIFIED 2026-08-24` — <https://bestimage888.overblog.fr/7-directions-visuelles-film-mode-15-secondes> |
 | `zh-CN` | `minimax-h3-video-storyboard-guide-zh-cn/` | CSDN | `minimax-h3-storyboard-api-csdn-zh-cn/` | 无正文镜像 | `PAUSED — ORIGINAL PLATFORM DRAFT REMOVED` |
-| `zh-TW` | `minimax-h3-vertical-video-guide-zh-tw/` | Medium | `minimax-h3-vertical-video-medium-zh-tw/` | `published.medium.zh-tw.md`、`published.medium.zh-tw.docx` | `PUBLISHED` — <https://medium.com/@bestimage888/15-%E7%A7%92%E4%B8%8D%E6%98%AF%E5%A1%9E%E6%BB%BF%E7%95%AB%E9%9D%A2-minimax-h3-%E7%9B%B4%E5%BC%8F%E5%BD%B1%E7%89%87%E7%9A%84-6-%E7%A8%AE-9-16-%E6%A7%8B%E5%9C%96%E6%B3%95-e03a45433b7f> |
+| `zh-TW` | `minimax-h3-vertical-video-guide-zh-tw/` | Medium | `minimax-h3-vertical-video-medium-zh-tw/` | `published.medium.zh-tw.md`、`published.medium.zh-tw.docx` | `PUBLISHED — LIVE REVISION VERIFIED 2026-08-24` — <https://medium.com/@bestimage888/15-%E7%A7%92%E4%B8%8D%E6%98%AF%E5%A1%9E%E6%BB%BF%E7%95%AB%E9%9D%A2-minimax-h3-%E7%9B%B4%E5%BC%8F%E5%BD%B1%E7%89%87%E7%9A%84-6-%E7%A8%AE-9-16-%E6%A7%8B%E5%9C%96%E6%B3%95-e03a45433b7f> |
 
 ## 当前发布与阻塞状态
 
@@ -32,7 +32,7 @@
 
 - 本地交付包未发现这八个候选平台已有 MiniMax H3 专用稿。
 - 这一结论只覆盖当前本地文件，不能证明远程账号从未发布；实际投稿前须人工检查账号历史和平台搜索结果。
-- 七个已发布平台包的 retained `published.*` 正文各含一个已披露的 Best Image AI 目标链接；原始 `article*` 平台稿已删除。Tumblr 的本地 published copy 已于 2026年8月24日同步至公开页，其余平台仍按各自审计状态处理。
+- 七个已发布平台包的 retained `published.*` 正文各含一个已披露的 Best Image AI 目标链接；原始 `article*` 平台稿已删除。除 Dreamwidth 因 403 仍保留旧公开稿外，其余六个公开页均已同步或验证匹配。
 - 2026年8月17日实际登录并处理目标平台；仅记录已由公开页验证的 PromoteProject、Dreamwidth、Blogger、Tumblr、Substack、OverBlog 与 Medium URL，不为未发布平台填写虚构 URL。
 
 ## 每个平台包的标准文件
@@ -57,4 +57,4 @@
 - 七个已发布 Locale 均新增独立 `published.<actual-platform>.<locale>.md/.html`；Medium 另含 `.docx`。
 - `published.*` 是仓库中唯一保留的正文副本；原始 `article*` 平台稿已于 2026年8月24日删除。
 - 七篇本地候选稿各含一个已披露的 Best Image AI 目标链接；精确锚文本 4 篇，自然变体 3 篇。
-- Dreamwidth、OverBlog、Medium 的本地候选稿保持政策复核 HOLD；详见 `campaign-seo-revision-matrix.md` 与各包 `campaign-seo-audit.md`。
+- Dreamwidth 因 403 保持 HOLD；OverBlog 与 Medium 已完成公开页匹配或更新。详见 `campaign-seo-revision-matrix.md` 与各包 `campaign-seo-audit.md`。

@@ -804,3 +804,27 @@ writer/output/minimax-h3-fashion-video-fr/
 - 保存后强制刷新公开页，确认新 CTA、目标链接、`参考資料`、官方参考链接和制作说明均已生效。
 
 **当前状态：** `LIVE UPDATE VERIFIED — MATCHES PUBLISHED MIRROR`（存在 Tumblr 平台渲染差异，不存在正文版本差异）。
+
+---
+
+## 三十、第二十五轮：其余平台公开页与 retained published copy 对齐
+
+**执行日期：** 2026年8月24日
+
+**用户澄清：** 不只有 Tumblr 存在线上旧稿问题；其余公开篇目也必须以本地 `published.*` 为正确基线逐页复核。
+
+### 执行结果
+
+- PromoteProject：从 `published.promoteproject.en-us.html` 整体覆盖正文，平台返回 `Post succesfully updated`；公开 URL 使用包含 `minimax-h3-product-launch-videos` 的新 slug。
+- Blogger：公开编辑器和页面已含 retained mirror 的关键词 H2、唯一目标链接、`Referências`、结论关键词与披露，无需重复覆盖。
+- Substack：从 `published.substack.de-de.html` 以富文本整体覆盖完整正文并更新；保留技术审阅门槛、未测试声明、一个目标链接和两条官方来源。
+- OverBlog：公开 HTML 源码已含修正标题、关键词 H2、本地化目标链接、`Références`、结论与透明度说明，无需重复覆盖。
+- Medium：先撤销定位错误的局部编辑，再从 `published.medium.zh-tw.html` 以 UTF-8 富文本整体覆盖；平台返回 `Your changes have been published.`，四张图片、目标链接和参考资料均保留。
+- Tumblr：已在上一轮完成，不重复改动。
+- Dreamwidth：公开页会话交接和直接编辑地址均返回 `403 Denied`；本地终稿未能回写，公开页不能标记为已匹配。
+
+### 最终边界
+
+- 6/7 个已发布 Locale 的公开页已与 retained mirror 同步或经源码确认匹配。
+- Dreamwidth 是唯一未关闭项，状态为 `HOLD — DREAMWIDTH 403; LOCAL MIRROR NOT YET LIVE`。
+- 本轮未恢复任何已删除的 `article*` 平台稿；`published.*` 继续作为唯一正文镜像。

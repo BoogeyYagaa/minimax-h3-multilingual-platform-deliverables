@@ -4,7 +4,7 @@
 - **Platform:** PromoteProject
 - **Locale:** `en-US`
 - **Publication date:** 2026-08-17
-- **Public title:** `A Founder’s Shot List: 7 Honest AI Product Launch Clips`
+- **Public title:** `MiniMax H3 Product Launch Videos: 7 Honest Clips for Founders`
 - **Public URL:** <https://www.promoteproject.com/article/226203/minimax-h3-product-launch-videos-7-honest-clips-for-founders>
 - **Account shown on page:** `bestimage888`
 - **Source package:** `minimax-h3-product-launch-indiehackers-en/`
@@ -20,4 +20,4 @@
 
 ## Difference from the local package
 
-The published PromoteProject version uses a platform-specific title and adds one disclosed third-party tracking link. The original Indie Hackers Markdown, HTML and audit files remain unchanged apart from status notes; this record does not claim that the original Indie Hackers article itself was published.
+The published PromoteProject version uses a platform-specific title and one disclosed third-party tracking link. On 2026-08-24 the public body was replaced from `published.promoteproject.en-us.html`; PromoteProject returned `Post succesfully updated`. The retained `published.*` files are the body-copy mirror, and the superseded `article*` platform draft has been deleted at the user's direction.

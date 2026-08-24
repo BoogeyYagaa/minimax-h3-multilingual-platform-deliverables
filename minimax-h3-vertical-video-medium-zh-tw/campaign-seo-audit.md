@@ -14,6 +14,6 @@
 - Official documentation is consolidated at the end of the last H2, while all four section images remain at section endings.
 - The Word copy matches the editorial changes. Accessibility audit: high 0, medium 0, low 0. LibreOffice produced a five-page render but substituted CJK glyphs; Pages opened the same file as five pages and exposed the full Traditional Chinese text, images and three hyperlinks without missing content.
 - Medium prohibits content whose primary purpose is external traffic or search-rank manipulation, and its AI policy restricts AI-generated SEO/affiliate promotion. Human policy review is mandatory before any live update: <https://help.medium.com/hc/en-us/articles/213477928-Medium-Rules> and <https://help.medium.com/hc/en-us/articles/22576852947223-Artificial-Intelligence-AI-content-policy>.
-- Original Markdown and DOCX remain unchanged; the live page was not edited.
+- On 2026-08-24 the editor was rebuilt from the retained HTML mirror as rich text, preserving the four images, target link and references. Medium returned `Your changes have been published.`
 
-**Local status:** `HOLD — LIVE UPDATE POLICY REVIEW REQUIRED`.
+**Status:** `LIVE UPDATE VERIFIED — MATCHES RETAINED HTML MIRROR`.

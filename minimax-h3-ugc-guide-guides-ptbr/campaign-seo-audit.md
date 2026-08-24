@@ -13,6 +13,6 @@
 - `MiniMax H3` appears in the opening, a prompt H2, the body and the conclusion; normalized visible-text count is 7.
 - One target link uses the exact anchor `Affordable MiniMax H3 API` with third-party, tracking and price-boundary disclosure.
 - Official documentation is consolidated under `Referências`.
-- Original Markdown remains unchanged; the live page was not edited.
+- The public editor and rendered page were rechecked on 2026-08-24 and already matched the retained mirror; no redundant overwrite was made.
 
-**Local status:** `REVISION COMPLETE — MANUAL LIVE UPDATE REVIEW REQUIRED`.
+**Status:** `LIVE COPY VERIFIED — ALREADY MATCHED RETAINED MIRROR`.

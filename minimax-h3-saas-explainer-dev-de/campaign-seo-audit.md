@@ -14,6 +14,6 @@
 - One target link uses the exact anchor `Affordable MiniMax H3 API`; third-party status, tracking and price boundary are disclosed.
 - Official links are consolidated under `Quellen`; the untested-code warning and human technical-review gate remain.
 - Substack says publications cannot be set up solely to advertise outside services; the article must remain independently useful: <https://support.substack.com/hc/en-us/articles/360037455072-Can-I-use-affiliate-links-or-advertising-in-my-emails>.
-- Original Markdown remains unchanged; the live page was not edited.
+- On 2026-08-24 the full body was replaced from the retained HTML mirror as rich text and updated for `Everyone`; the technical-responsibility warning remains.
 
-**Local status:** `REVISION COMPLETE — HUMAN TECHNICAL AND LIVE UPDATE REVIEW REQUIRED`.
+**Status:** `LIVE UPDATE COMPLETED — HUMAN TECHNICAL RESPONSIBILITY RETAINED`.

@@ -14,6 +14,6 @@
 - One target link uses the natural anchor `une option d’API MiniMax H3 via Best Image AI`; third-party status, tracking and price boundary are disclosed.
 - Official documentation is consolidated under `Références`.
 - OverBlog restricts spamdexing and abusive promotional use; a live update requires human review of rights, editorial independence and the current Terms of Use: <https://www.over-blog.com/terms-of-use>.
-- Original Markdown remains unchanged; the live page was not edited.
+- Public HTML source was rechecked on 2026-08-24 and already matched the retained mirror; no redundant overwrite was made.
 
-**Local status:** `HOLD — LIVE UPDATE POLICY REVIEW REQUIRED`.
+**Status:** `LIVE COPY VERIFIED — ALREADY MATCHED RETAINED MIRROR`.

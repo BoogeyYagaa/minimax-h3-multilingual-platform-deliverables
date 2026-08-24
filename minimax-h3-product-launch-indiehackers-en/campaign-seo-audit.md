@@ -14,6 +14,6 @@
 - One target link is present with the exact anchor `Affordable MiniMax H3 API`.
 - The link is identified as third-party and tracked; the anchor is explicitly not treated as proof of a lowest price.
 - Official documentation is consolidated under `References`.
-- Original Markdown remains byte-for-byte unchanged; the live page was not edited in this task.
+- The public editor was replaced from the retained HTML mirror on 2026-08-24 and returned `Post succesfully updated`.
 
-**Local status:** `REVISION COMPLETE — MANUAL LIVE UPDATE REVIEW REQUIRED`.
+**Status:** `LIVE UPDATE COMPLETED — PLATFORM CONFIRMATION RECORDED`.
