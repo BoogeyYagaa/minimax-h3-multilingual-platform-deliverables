@@ -1,5 +1,7 @@
 # Campaign SEO audit — Blogger pt-BR
 
+**Retention update (2026-08-24):** The original `article*` platform draft files were deleted at the user's direction. The retained `published.*` files are the sole body-copy mirrors; historical hashes below are audit metadata only.
+
 **Audit date:** 2026-08-24  
 **Source preserved:** `article.guides.pt-br.md` (`SHA-256 421630718cf3b3da60ea2480932b978c01c8dfb4661388162041ed92e1928636`)  
 **Local candidate:** `published.blogger.pt-br.md` and `.html`  

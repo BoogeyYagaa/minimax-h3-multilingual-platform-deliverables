@@ -1,5 +1,7 @@
 # Campaign SEO audit — Medium zh-TW
 
+**Retention update (2026-08-24):** The original `article*` platform draft files were deleted at the user's direction. The retained `published.*` files are the sole body-copy mirrors; historical hashes below are audit metadata only.
+
 **Audit date:** 2026-08-24  
 **Source preserved:** `article.medium.zh-tw.md` (`SHA-256 cd310731640330d5e737ac7d431271735e4ef28ffae6659698063a7e3e9ca382`) and `article.docx` (`SHA-256 cf976d5285fa46daffaad6f6d2d535181febabdb87ec849fab9f05b49c1e2ebd`)  
 **Local candidate:** `published.medium.zh-tw.md`, `.html` and `.docx`  

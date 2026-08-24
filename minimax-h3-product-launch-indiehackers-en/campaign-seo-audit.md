@@ -1,5 +1,7 @@
 # Campaign SEO audit — PromoteProject en-US
 
+**Retention update (2026-08-24):** The original `article*` platform draft files were deleted at the user's direction. The retained `published.*` files are the sole body-copy mirrors; historical hashes below are audit metadata only.
+
 **Audit date:** 2026-08-24  
 **Source preserved:** `article.indiehackers.en-us.md` (`SHA-256 bfa2b1f8b3d012a34ffbbd0af5830049a4ec6c0f2f6894d889d1b4bb15604ccd`)  
 **Local candidate:** `published.promoteproject.en-us.md` and `.html`  

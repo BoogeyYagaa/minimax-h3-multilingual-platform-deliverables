@@ -1,5 +1,7 @@
 # Campaign SEO audit — OverBlog fr-FR
 
+**Retention update (2026-08-24):** The original `article*` platform draft files were deleted at the user's direction. The retained `published.*` files are the sole body-copy mirrors; historical hashes below are audit metadata only.
+
 **Audit date:** 2026-08-24  
 **Source preserved:** `article.overblog.fr-fr.md` (`SHA-256 dd1bfe9b9fda9882132859c375d3e62b72d67bd598622ab27f576d8e546c05b9`)  
 **Local candidate:** `published.overblog.fr-fr.md` and `.html`  

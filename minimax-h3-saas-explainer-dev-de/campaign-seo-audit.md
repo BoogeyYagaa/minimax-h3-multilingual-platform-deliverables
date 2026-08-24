@@ -1,5 +1,7 @@
 # Campaign SEO audit — Substack de-DE
 
+**Retention update (2026-08-24):** The original `article*` platform draft files were deleted at the user's direction. The retained `published.*` files are the sole body-copy mirrors; historical hashes below are audit metadata only.
+
 **Audit date:** 2026-08-24  
 **Source preserved:** `article.dev.de-de.md` (`SHA-256 37671ca967b05989591720ceafb059d2c40795f220f0d02532c0492293c97a79`)  
 **Local candidate:** `published.substack.de-de.md` and `.html`  

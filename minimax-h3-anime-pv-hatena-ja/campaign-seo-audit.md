@@ -1,5 +1,7 @@
 # Campaign SEO audit — Tumblr ja-JP
 
+**Retention update (2026-08-24):** The original `article*` platform draft files were deleted at the user's direction. The retained `published.*` files are the sole body-copy mirrors; historical hashes below are audit metadata only.
+
 **Audit date:** 2026-08-24  
 **Source preserved:** `article.hatena.ja-jp.md` (`SHA-256 df5908d308cc8e8b534d7897703a5c6fa1f338915b8849b8467eb75c3705af36`)  
 **Published mirror:** `published.tumblr.ja-jp.md` and `.html`

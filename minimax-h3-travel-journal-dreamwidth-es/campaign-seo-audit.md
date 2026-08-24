@@ -1,5 +1,7 @@
 # Campaign SEO audit — Dreamwidth es-419
 
+**Retention update (2026-08-24):** The original `article*` platform draft files were deleted at the user's direction. The retained `published.*` files are the sole body-copy mirrors; historical hashes below are audit metadata only.
+
 **Audit date:** 2026-08-24  
 **Source preserved:** `article.dreamwidth.es-419.md` (`SHA-256 bd5f3ed2bf1e8e45017d7c9871b77d92bb8bc03896142825f546021aa85fd247`)  
 **Local candidate:** `published.dreamwidth.es-419.md` and `.html`  

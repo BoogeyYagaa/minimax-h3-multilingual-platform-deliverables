@@ -753,7 +753,25 @@ writer/output/minimax-h3-fashion-video-fr/
 - 将第三方 Best Image AI CTA、跟踪参数说明及核验边界改为线上实际措辞。
 - 删除线上不存在的独立“参考资料”章节，避免本地镜像多出正文。
 - 按 Tumblr 当前渲染结果，将两个表格和七个编号小节还原为线上实际段落结构，并把五个标签记录为公开标签链接。
-- 保留原始 `article.hatena.ja-jp.md/.html` 不动；只修订 Tumblr published mirror。
+- 本轮对齐时尚未删除原始 Hatena 平台稿；其后已按用户要求统一清除，详见下一轮记录。
 - 重新核对标题、正文段落、两个链接、制作说明和五个 Tumblr 标签。
 
 **当前状态：** `LIVE CONTENT MIRROR VERIFIED`。
+
+---
+
+## 二十八、第二十三轮：删除原始 article 平台稿
+
+**执行日期：** 2026年8月24日
+
+**用户要求：** 原始 `article*` 全部删除，避免与最终发布稿形成重复内容污染。
+
+### 删除范围
+
+- 删除 8 个平台包中的全部原始 `article*.md/.html`。
+- 删除 Medium 原始 `article.docx`。
+- 七个已发布 Locale 只保留 `published.*` Markdown、HTML及必要的 published-copy DOCX。
+- `zh-CN` 尚未发布，因此不保留正文，只保留图片、说明、审计和来源元数据。
+- 八篇基础 Locale 内容包不属于本次平台交付包删除范围。
+
+**当前状态：** `PUBLISHED COPIES ONLY — ORIGINAL PLATFORM ARTICLES REMOVED`。

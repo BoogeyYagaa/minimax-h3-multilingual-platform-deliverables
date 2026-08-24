@@ -1,19 +1,19 @@
 # MiniMax H3 一站一文分配矩阵
 
 **执行日期：** 2026年8月14日  
-**项目边界：** 8 篇原始文章 × 8 个唯一网站；保留原有 8 个 Locale；另建平台发布版，不修改原文。  
+**项目边界：** 8 个 Locale × 8 个唯一网站；仓库只保留最终 `published.*` 正文镜像，原始 `article*` 平台稿已删除。
 **当前结果：** 8/8 个平台包已建立；截至 2026年8月17日，线上已发布 7 篇；日文稿、巴葡稿和德文稿分别改投 Tumblr、Blogger、Substack 并公开核验。
 
 | Locale | 原始内容包 | 目标网站 | 平台发布包 | 平台正文 | 当前状态 |
 |---|---|---|---|---|---|
-| `en-US` | `minimax-h3-cinematic-product-videos/` | PromoteProject（替代 Indie Hackers） | `minimax-h3-product-launch-indiehackers-en/` | `article.indiehackers.en-us.md` | `PUBLISHED` — <https://www.promoteproject.com/article/226203/minimax-h3-product-launch-videos-7-honest-clips-for-founders> |
-| `es-419` | `minimax-h3-travel-food-videos-es/` | Dreamwidth | `minimax-h3-travel-journal-dreamwidth-es/` | `article.dreamwidth.es-419.md` | `PUBLISHED` — <https://bestimage.dreamwidth.org/482.html> |
-| `pt-BR` | `minimax-h3-ugc-ecommerce-videos-ptbr/` | Blogger（替代 Guides.co） | `minimax-h3-ugc-guide-guides-ptbr/` | `article.guides.pt-br.md` | `PUBLISHED` — <https://bestimage-ai-video-notes.blogspot.com/2026/08/minimax-h3-7-roteiros-ugc-para-testar.html> |
-| `ja-JP` | `minimax-h3-anime-pv-ja/` | Tumblr（替代 Hatena、note、Livedoor） | `minimax-h3-anime-pv-hatena-ja/` | `article.hatena.ja-jp.md` | `PUBLISHED` — <https://www.tumblr.com/bestimageai/825191446194929664/15%E7%A7%92%E3%81%AE%E3%82%A2%E3%83%8B%E3%83%A1pv%E3%82%92%E4%BD%9C%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE7%E3%82%AB%E3%83%83%E3%83%88%E8%A8%AD%E8%A8%88%E3%83%A1%E3%83%A2-minimax-h3> |
-| `de-DE` | `minimax-h3-saas-explainer-de/` | Substack（替代 DEV） | `minimax-h3-saas-explainer-dev-de/` | `article.dev.de-de.md` | `PUBLISHED` — <https://bestimage.substack.com/p/saas-erklarvideos-mit-minimax-h3> |
-| `fr-FR` | `minimax-h3-fashion-video-fr/` | OverBlog | `minimax-h3-fashion-directions-overblog-fr/` | `article.overblog.fr-fr.md` | `PUBLISHED` — <https://bestimage888.overblog.fr/7-directions-visuelles-film-mode-15-secondes> |
-| `zh-CN` | `minimax-h3-video-storyboard-guide-zh-cn/` | CSDN | `minimax-h3-storyboard-api-csdn-zh-cn/` | `article.csdn.zh-cn.md` | `PAUSED BY USER — WECHAT BINDING REQUIRED` |
-| `zh-TW` | `minimax-h3-vertical-video-guide-zh-tw/` | Medium | `minimax-h3-vertical-video-medium-zh-tw/` | `article.medium.zh-tw.md`、`article.docx` | `PUBLISHED` — <https://medium.com/@bestimage888/15-%E7%A7%92%E4%B8%8D%E6%98%AF%E5%A1%9E%E6%BB%BF%E7%95%AB%E9%9D%A2-minimax-h3-%E7%9B%B4%E5%BC%8F%E5%BD%B1%E7%89%87%E7%9A%84-6-%E7%A8%AE-9-16-%E6%A7%8B%E5%9C%96%E6%B3%95-e03a45433b7f> |
+| `en-US` | `minimax-h3-cinematic-product-videos/` | PromoteProject（替代 Indie Hackers） | `minimax-h3-product-launch-indiehackers-en/` | `published.promoteproject.en-us.md` | `PUBLISHED` — <https://www.promoteproject.com/article/226203/minimax-h3-product-launch-videos-7-honest-clips-for-founders> |
+| `es-419` | `minimax-h3-travel-food-videos-es/` | Dreamwidth | `minimax-h3-travel-journal-dreamwidth-es/` | `published.dreamwidth.es-419.md` | `PUBLISHED` — <https://bestimage.dreamwidth.org/482.html> |
+| `pt-BR` | `minimax-h3-ugc-ecommerce-videos-ptbr/` | Blogger（替代 Guides.co） | `minimax-h3-ugc-guide-guides-ptbr/` | `published.blogger.pt-br.md` | `PUBLISHED` — <https://bestimage-ai-video-notes.blogspot.com/2026/08/minimax-h3-7-roteiros-ugc-para-testar.html> |
+| `ja-JP` | `minimax-h3-anime-pv-ja/` | Tumblr（替代 Hatena、note、Livedoor） | `minimax-h3-anime-pv-hatena-ja/` | `published.tumblr.ja-jp.md` | `PUBLISHED` — <https://www.tumblr.com/bestimageai/825191446194929664/15%E7%A7%92%E3%81%AE%E3%82%A2%E3%83%8B%E3%83%A1pv%E3%82%92%E4%BD%9C%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE7%E3%82%AB%E3%83%83%E3%83%88%E8%A8%AD%E8%A8%88%E3%83%A1%E3%83%A2-minimax-h3> |
+| `de-DE` | `minimax-h3-saas-explainer-de/` | Substack（替代 DEV） | `minimax-h3-saas-explainer-dev-de/` | `published.substack.de-de.md` | `PUBLISHED` — <https://bestimage.substack.com/p/saas-erklarvideos-mit-minimax-h3> |
+| `fr-FR` | `minimax-h3-fashion-video-fr/` | OverBlog | `minimax-h3-fashion-directions-overblog-fr/` | `published.overblog.fr-fr.md` | `PUBLISHED` — <https://bestimage888.overblog.fr/7-directions-visuelles-film-mode-15-secondes> |
+| `zh-CN` | `minimax-h3-video-storyboard-guide-zh-cn/` | CSDN | `minimax-h3-storyboard-api-csdn-zh-cn/` | 无正文镜像 | `PAUSED — ORIGINAL PLATFORM DRAFT REMOVED` |
+| `zh-TW` | `minimax-h3-vertical-video-guide-zh-tw/` | Medium | `minimax-h3-vertical-video-medium-zh-tw/` | `published.medium.zh-tw.md`、`published.medium.zh-tw.docx` | `PUBLISHED` — <https://medium.com/@bestimage888/15-%E7%A7%92%E4%B8%8D%E6%98%AF%E5%A1%9E%E6%BB%BF%E7%95%AB%E9%9D%A2-minimax-h3-%E7%9B%B4%E5%BC%8F%E5%BD%B1%E7%89%87%E7%9A%84-6-%E7%A8%AE-9-16-%E6%A7%8B%E5%9C%96%E6%B3%95-e03a45433b7f> |
 
 ## 当前发布与阻塞状态
 
@@ -37,8 +37,8 @@
 
 ## 每个平台包的标准文件
 
-- `article.<platform>.<locale>.md`
-- `article.<platform>.<locale>.html`（独立本地预览版，内嵌响应式 CSS）
+- 已发布 Locale：`published.<actual-platform>.<locale>.md/.html`
+- 未发布的 `zh-CN`：仅保留图片、说明、审计和来源记录，不保留正文
 - `submission-notes.md`
 - `platform-audit.md`
 - `source-manifest.md`
@@ -55,6 +55,6 @@
 ## 2026年8月24日 Campaign SEO 本地 published copy
 
 - 七个已发布 Locale 均新增独立 `published.<actual-platform>.<locale>.md/.html`；Medium 另含 `.docx`。
-- 新文件不覆盖平台原稿，线上页面本轮未修改。
+- `published.*` 是仓库中唯一保留的正文副本；原始 `article*` 平台稿已于 2026年8月24日删除。
 - 七篇本地候选稿各含一个已披露的 Best Image AI 目标链接；精确锚文本 4 篇，自然变体 3 篇。
 - Dreamwidth、OverBlog、Medium 的本地候选稿保持政策复核 HOLD；详见 `campaign-seo-revision-matrix.md` 与各包 `campaign-seo-audit.md`。

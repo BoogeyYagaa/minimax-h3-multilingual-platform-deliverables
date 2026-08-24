@@ -5,9 +5,9 @@
 
 # MiniMax H3 Multilingual Platform Deliverables
 
-This public repository contains eight platform-specific adaptations of a multilingual MiniMax H3 article set, together with submission notes, compliance audits, source manifests, and project review records.
+This public repository contains the verified `published.*` mirrors for seven live MiniMax H3 platform posts, plus metadata and assets for one paused locale.
 
-Seven articles have now been published and verified on their final platforms. The remaining files are editorial deliverables, paused submissions, or platform-access requests; their status is recorded below.
+Original `article*` platform drafts were removed on 2026-08-24 to prevent duplicate-content pollution. The paused `zh-CN` package therefore contains no article body.
 
 ## Third-party API access
 
@@ -32,23 +32,23 @@ Project records are stored in [`minimax-h3-multilingual-review-diary`](./minimax
 
 ## Package contents
 
-Each platform directory includes:
+Published platform directories include:
 
-- a platform-adapted Markdown article;
-- an HTML publishing copy;
+- a `published.<actual-platform>.<locale>.md` mirror;
+- a matching standalone `published.*.html` mirror;
 - submission instructions;
 - a platform compliance audit;
 - a source manifest;
 - platform image assets.
 
-The Medium package also includes a Word document and three section images.
+The Medium package also includes a published-copy Word document and three section images.
 
 Published platform directories also include a `publication-record.md` file with the verified public URL and publication checks.
 
 ## Publication safeguards
 
-- Commercial tracking links and third-party calls to action were removed from all eight platform articles.
-- The published PromoteProject, Tumblr, Blogger and Substack adaptations are documented exceptions: each contains one disclosed third-party tracking link, while the original local platform packages remain unchanged.
+- Each retained published mirror records the final disclosed-link configuration used for its platform.
+- No original `article*` platform body remains in the repository; `published.*` is the sole retained body-copy namespace.
 - Guides.co confirmed receipt of the contribution request; publication remains blocked until an invitation is approved.
 - The DEV suspension appeal remains unresolved; the German article was instead published on Substack with its code examples explicitly marked as untested drafts and with technical-review limits disclosed.
 - The OverBlog article was published after its rights, sponsorship, advertising-material, and link checks were completed; future edits require the same review.
