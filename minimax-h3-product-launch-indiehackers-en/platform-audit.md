@@ -13,7 +13,7 @@
 - Length: long-form community post, approximately 1,200 words.
 - Tone: founder-friendly, restrained, discussion-led.
 - Must include: use decision table, 30-minute checklist, product-truth gate, closing question.
-- Must avoid: sales CTA, affiliate link, invented test result, false customer story.
+- Must avoid: undisclosed promotion, unsupported price claims, invented test results and false customer stories.
 - Source: official MiniMax H3 documentation only.
 - Output: Indie Hackers-ready Markdown.
 
@@ -23,7 +23,7 @@
 |---|---|---|
 | Platform intent | Pass | Leads with a founder decision framework and ends with a discussion question. |
 | Originality | Pass | Rebuilt around placement decisions, preparation time and rejection criteria rather than the source article’s SEO list structure. |
-| Commercial links | Pass | No Best Image AI URL, tracking parameter, affiliate link or commercial CTA. |
+| Commercial links | Pass with disclosure | One Best Image AI campaign link uses `via=shixi88`; third-party status, tracking and price boundary are disclosed. |
 | Product truth | Pass | Explicitly rejects fake features, testimonials and unsupported outcomes. |
 | Model facts | Pass | Multimodal inputs, 768P/2K and 4–15 seconds cite MiniMax official documentation. |
 | AI transparency | Pass | Disclosure appears at the end of the post. |

@@ -14,10 +14,12 @@
 - The public URL opens without requiring the editor.
 - The public page shows the expected English title and complete founder-oriented shot-list article.
 - The MiniMax official documentation link remains present.
-- The exact anchor `Affordable MiniMax H3 API` links to the third-party Best Image AI page.
+- The branded anchor `Best Image AI – Affordable MiniMax H3 API` links to the third-party Best Image AI page.
 - The article states that the destination is not an official MiniMax endpoint and instructs readers to verify availability, controls, pricing, privacy terms and output rights.
 - The AI-assistance disclosure states that the article was fact-checked and that the third-party URL contains `via=shixi88`.
 
 ## Difference from the local package
 
 The published PromoteProject version uses a platform-specific title and one disclosed third-party tracking link. On 2026-08-24 the public body was replaced from `published.promoteproject.en-us.html`; PromoteProject returned `Post succesfully updated`. The retained `published.*` files are the body-copy mirror, and the superseded `article*` platform draft has been deleted at the user's direction.
+
+The anchor was corrected again on 2026-08-24 to include the Best Image AI brand name. Public verification returned HTTP 200, one branded target anchor, and no remaining unbranded `Affordable MiniMax H3 API` anchor.

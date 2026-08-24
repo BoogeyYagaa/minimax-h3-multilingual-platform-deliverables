@@ -11,10 +11,12 @@
 
 - Title/H1 changed to `MiniMax H3 Product Launch Videos: 7 Honest Clips for Founders`.
 - `MiniMax H3` now appears in the first paragraph, a relevant H2, the middle, and the conclusion; normalized visible-text count is 7.
-- One target link is present with the exact anchor `Affordable MiniMax H3 API`.
+- One target link is present with the branded anchor `Best Image AI – Affordable MiniMax H3 API`.
 - The link is identified as third-party and tracked; the anchor is explicitly not treated as proof of a lowest price.
 - The exact-anchor CTA is in the final discussion section, making external promotion a disclosed secondary campaign objective.
 - Official documentation is consolidated under `References`.
 - The public editor was replaced from the retained HTML mirror on 2026-08-24 and returned `Post succesfully updated`.
 
-**Status:** `LIVE UPDATE COMPLETED — PLATFORM CONFIRMATION RECORDED`.
+**Status:** `LIVE UPDATE COMPLETED — PUBLIC BRAND ANCHOR VERIFIED`.
+
+On 2026-08-24, the public article was updated again because the prior anchor omitted the Best Image AI brand name. A cache-busted public fetch returned HTTP 200 and confirmed one visible `Best Image AI – Affordable MiniMax H3 API` anchor pointing to the required tracked target URL; the superseded unbranded exact anchor is absent.
