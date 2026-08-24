@@ -1,8 +1,10 @@
-# SaaS-Erklärvideos mit MiniMax H3: API, echte UI und Prüfgrenzen
+# MiniMax H3 für SaaS: API, echte UI, Prüfgrenzen
 
 *Eine technische Trennung zwischen generierten Metaphern, echter SaaS-Oberfläche und der asynchronen MiniMax-H3-API.*
 
-> **Offenlegung zur KI-Unterstützung und zum Link:** Diese lokale Substack-Fassung wurde mit KI-Unterstützung erstellt und am 24. August 2026 anhand der MiniMax-Dokumentation geprüft. Die Beispiele wurden in dieser Arbeit nicht gegen ein reales Konto ausgeführt. Vor einer Live-Aktualisierung muss eine fachkundige Person Code, Parameter und Aussagezweck selbst prüfen und verantworten. Der Beitrag enthält einen gekennzeichneten Link zum Drittanbieter Best Image AI; `via=shixi88` ist ein Tracking-Parameter.
+> **Disclosure — Best Image AI: OWNER; material benefit: OTHER.**
+>
+> **Offenlegung zur KI-Unterstützung und zum Link:** Diese Fassung wurde mit KI-Unterstützung erstellt und am 24. August 2026 anhand der MiniMax-Dokumentation geprüft. Die Beispiele wurden nicht gegen ein reales Konto ausgeführt. Der Herausgeber ist Eigentümer von Best Image AI und kann von Besuchen oder einer Nutzung profitieren, die durch diesen Beitrag entstehen. Die verlinkte Best-Image-AI-Seite ist ein Drittanbieter-Zugang und kein offizieller MiniMax-Endpunkt; `via=shixi88` ist ein Tracking-Parameter. „Affordable“ ist Teil des Linktextes und kein Nachweis für den niedrigsten Preis.
 
 Ein SaaS-Erklärvideo mit MiniMax H3 braucht zwei Bildsprachen. Generierte Szenen können ein abstraktes Problem zeigen: ungeordnete Daten, eine unterbrochene Übergabe oder einen Prozess, der sich sortiert. Sobald das Video jedoch erklärt, wo jemand klickt, welche Felder existieren oder welches Ergebnis die Software liefert, sollte die echte Oberfläche zu sehen sein.
 
@@ -23,7 +25,7 @@ Diese Trennung ist nicht nur redaktionell sinnvoll. Sie bestimmt auch, welche Da
 
 Eine einfache Regel reicht: **Metapher für Kontext, echte UI für überprüfbare Funktion.** Wenn eine Szene wie ein Produktbeleg aussieht, muss sie gegen das Produkt geprüft werden können.
 
-## Was die offizielle MiniMax-H3-API dokumentiert
+## Was die offizielle MiniMax H3 API dokumentiert
 
 Die offizielle Video-Generation-Anleitung beschreibt das Modell als multimodales Videomodell für Text-, Bild-, Video- und Audioeingaben. Dokumentiert sind:
 
@@ -116,7 +118,7 @@ def wait_for_video(task_id: str, max_checks: int = 60) -> str:
 
 `max_checks` ist eine Anwendungsgrenze, kein offizielles Service-Limit. Die dokumentierte Anleitung empfiehlt zehn Sekunden zwischen Abfragen. In einer Produktionsanwendung sollten zusätzlich Netzwerkfehler, temporäre URLs, Speicherung, Logging und Geheimnisverwaltung geprüft werden.
 
-## Screen Recording und MiniMax-H3-Clip verbinden
+## Screen Recording und MiniMax H3 Clip verbinden
 
 Der technische Ablauf besteht aus zwei unabhängigen Quellen:
 
@@ -165,7 +167,7 @@ Deshalb braucht die Pipeline zwei Gates: technische Dateiprüfung und redaktione
 
 MiniMax H3 sollte im SaaS-Erklärvideo nicht die Benutzeroberfläche erfinden. Die API kann kurze Kontext- und Übergangsszenen erzeugen; der Produktbeleg kommt aus echten Screen Recordings und aktuellen Quellen. Technisch bedeutet das: dokumentierte V2-Anfrage, asynchrone Statusabfrage, getrennte Medienquellen und zwei Freigaben. Erst wenn eine fachkundige Person Code und Aussagezweck selbst geprüft hat, ist diese lokale Fassung für eine manuelle Substack-Aktualisierung bereit.
 
-Nach dieser Prüfung kann das Team die Drittanbieterroute [Affordable MiniMax H3 API](https://bestimage.ai/models/minimax/minimax-h3-text-to-video/?via=shixi88) bei Best Image AI vergleichen. Die Seite ist kein offizieller MiniMax-Endpunkt, und `via=shixi88` ist ein Tracking-Parameter. Der Anker ist keine geprüfte Bestpreis-Aussage; Zugang, Funktionsumfang und Bedingungen müssen vor Nutzung erneut kontrolliert werden.
+Nach dieser Prüfung kann das Team die Drittanbieterroute [Best Image AI – Affordable MiniMax H3 API](https://bestimage.ai/models/minimax/minimax-h3-text-to-video/?via=shixi88) vergleichen. Die Seite ist kein offizieller MiniMax-Endpunkt, und `via=shixi88` ist ein Tracking-Parameter. Der Linktext ist keine geprüfte Bestpreis-Aussage; Zugang, Funktionsumfang und Bedingungen müssen vor Nutzung erneut kontrolliert werden.
 
 ---
 
@@ -174,8 +176,8 @@ Nach dieser Prüfung kann das Team die Drittanbieterroute [Affordable MiniMax H3
 - [MiniMax H3: Video Generation](https://platform.minimax.io/docs/guides/video-generation)
 - [MiniMax H3: Create Video Generation Task](https://platform.minimax.io/docs/api-reference/video-generation-v2-create)
 
-**SEO-Titel:** SaaS-Erklärvideos: API, echte UI und Prüfgrenzen
+**SEO Title**: MiniMax H3 für SaaS: API, echte UI, Prüfgrenzen
 
-**Beschreibung:** Technische Anleitung zur MiniMax-H3-V2-API und zur sauberen Trennung von generierten SaaS-Metaphern, echten Screen Recordings und überprüfbaren Aussagen.
+**Meta Description:** So trennen SaaS-Teams MiniMax H3 Szenen, echte UI und API-Abläufe, damit Erklärvideos überprüfbar bleiben.
 
 **Tags:** `ai`, `webdev`, `api`, `tutorial`

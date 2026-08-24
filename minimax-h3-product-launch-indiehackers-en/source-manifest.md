@@ -2,8 +2,8 @@
 
 ## Authoritative retained copy — 2026-08-24
 
-- Markdown: `published.promoteproject.en-us.md` — SHA-256 `a4adcc2f7e4e4e5275d2a183b985151eb51feeeb70632fdca073f9b77168851d`
-- HTML: `published.promoteproject.en-us.html` — SHA-256 `c8a355b2a29adceb475b0ac8ef754fca4fcfa5f5b68833a91ebab555cd609131`
+- Markdown: `published.promoteproject.en-us.md` — SHA-256 `c0b9a581562f08f4dd401fae9da54b84ab10a8241b34cba509f53a76aa39eb99`
+- HTML: `published.promoteproject.en-us.html` — SHA-256 `c1c718f3e7ebda56be6cfe15695a2bb59815063d0ab89ce1fb5ec3fb0d289230` (final cache-busted public response captured after Manifest `97bc2d60` publication)
 - Public URL: <https://www.promoteproject.com/article/226203/minimax-h3-product-launch-videos-7-honest-clips-for-founders>
 - Campaign link: one branded `Best Image AI – Affordable MiniMax H3 API` anchor with third-party and tracking disclosure.
 - The historical `article*` platform drafts named below were deleted at the user's direction; their entries are provenance only and do not describe the retained body.

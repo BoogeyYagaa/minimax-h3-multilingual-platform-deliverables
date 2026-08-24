@@ -4,7 +4,7 @@
 - **Platform:** PromoteProject
 - **Locale:** `en-US`
 - **Publication date:** 2026-08-17
-- **Public title:** `MiniMax H3 Product Launch Videos: 7 Honest Clips for Founders`
+- **Public title:** `MiniMax H3 Product Launch Videos: 7 Honest Clips`
 - **Public URL:** <https://www.promoteproject.com/article/226203/minimax-h3-product-launch-videos-7-honest-clips-for-founders>
 - **Account shown on page:** `bestimage888`
 - **Source package:** `minimax-h3-product-launch-indiehackers-en/`
@@ -22,4 +22,4 @@
 
 The published PromoteProject version uses a platform-specific title and one disclosed third-party tracking link. On 2026-08-24 the public body was replaced from `published.promoteproject.en-us.html`; PromoteProject returned `Post succesfully updated`. The retained `published.*` files are the body-copy mirror, and the superseded `article*` platform draft has been deleted at the user's direction.
 
-The anchor was corrected again on 2026-08-24 to include the Best Image AI brand name. Public verification returned HTTP 200, one branded target anchor, and no remaining unbranded `Affordable MiniMax H3 API` anchor.
+The Manifest `97bc2d60` V2 revision was published on 2026-08-24. Independent public verification returned HTTP 200, the 48-character title, 16 exact `MiniMax H3` occurrences, one `Best Image AI – Affordable MiniMax H3 API` target anchor, and the exact `OWNER` / `OTHER` disclosure. The retained HTML is the cache-busted public response captured after publication.

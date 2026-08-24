@@ -4,7 +4,7 @@
 - **Publication date:** 2026-08-17
 - **Locale:** `de-DE`
 - **Public URL:** <https://bestimage.substack.com/p/saas-erklarvideos-mit-minimax-h3>
-- **Title:** SaaS-Erklärvideos mit MiniMax H3: API, echte UI und Prüfgrenzen
+- **Title:** MiniMax H3 für SaaS: API, echte UI, Prüfgrenzen
 - **Replacement path:** Substack replaced the suspended DEV submission path.
 
 ## Public-page verification
@@ -12,7 +12,7 @@
 - The complete German article displayed from the AI-assistance disclosure through the two official MiniMax sources.
 - The title and subtitle rendered with the intended German characters.
 - The article separates generated SaaS metaphors from verifiable screen recordings and explicitly marks the API examples as untested drafts.
-- The exact anchor `Affordable MiniMax H3 API` appeared once.
+- The exact branded anchor `Best Image AI – Affordable MiniMax H3 API` appeared once.
 - The linked service was identified as third-party and non-official; the `via=shixi88` tracking parameter and the need to verify availability, pricing, privacy, service terms, and output rights were disclosed.
 - The post was published for everyone without paid access or an added subscription-button CTA.
 
@@ -26,3 +26,9 @@ The original DEV platform article and image were not overwritten. The Substack c
 - The post was updated for `Everyone`; the exact target anchor and `href` were present in the resulting public page source.
 - The exact-anchor CTA remains in the conclusion, so external promotion is a disclosed secondary campaign objective.
 - The technical examples remain explicitly untested and still require a qualified human to take responsibility before production use.
+
+## Manifest V2 verification — 2026-08-24
+
+- Manifest `97bc2d60` was published after restoring the clean 12:34 Substack revision from version history.
+- Independent public verification returned the 47-character V2 title, the intended German meta description, 21 exact `MiniMax H3` occurrences, one complete branded target anchor, and one exact `OWNER` / `OTHER` disclosure.
+- The public response contains no residual `vergleBest` text from the discarded editor draft. The retained HTML is the cache-busted public response captured after the successful update.

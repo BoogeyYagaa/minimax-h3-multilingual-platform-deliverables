@@ -26,3 +26,5 @@ The original Guides.co platform article and image were not overwritten. The Blog
 - The Blogger HTML editor was overwritten from the retained `published.blogger.pt-br.html` body and saved with `Update`.
 - The updated copy contains multiple natural MiniMax H3 H2/H3 headings, one branded `Best Image AI – Affordable MiniMax H3 API` anchor in the conclusion, `Referências`, and the third-party/tracking disclosure.
 - The third-party link is a disclosed secondary campaign objective; the practical UGC workflow remains the primary reader value.
+- Manifest `97bc2d60` was published and independently checked from the public URL. The final response contains the intended title, the 145-character search description, intact Brazilian Portuguese accents, one branded target anchor, and the exact `OWNER` / `OTHER` disclosure.
+- Blogger's site-level `Enable search description` setting was enabled so the post-level description is emitted in public HTML.

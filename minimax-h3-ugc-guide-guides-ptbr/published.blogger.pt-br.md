@@ -159,4 +159,12 @@ Para transformar o roteiro escolhido em um teste, consulte a rota de terceiros [
 
 - [Documentação oficial de geração de vídeo do MiniMax H3](https://platform.minimax.io/docs/guides/video-generation) — consultada em 24 de agosto de 2026.
 
-**Nota de transparência:** este guia foi preparado com assistência de IA e revisado com base na fonte citada em 24 de agosto de 2026. Contém um link identificado para o serviço de terceiros Best Image AI com o parâmetro de rastreamento `via=shixi88`; nenhuma alegação de menor preço foi verificada.
+**Nota de transparência:** este guia foi preparado com assistência de IA e revisado com base na fonte citada em 24 de agosto de 2026. Nenhum novo teste de provedor ou resultado foi realizado nesta revisão.
+
+**Disclosure — Best Image AI: OWNER; material benefit: OTHER.**
+
+**Divulgação:** o responsável por esta publicação é proprietário da Best Image AI e pode se beneficiar de visitas ou do uso gerado por este artigo. A página vinculada da Best Image AI é uma rota de terceiros, não um endpoint oficial da MiniMax, e `via=shixi88` é um parâmetro de rastreamento. “Affordable” faz parte do texto do link e não comprova o menor preço.
+
+**SEO Title**: MiniMax H3: 7 roteiros UGC para testar vídeos de produtos
+
+**Meta Description:** Aprenda a testar vídeos UGC com MiniMax H3 usando sete roteiros, prompts editáveis e uma revisão prática de produto, publicidade e autenticidade.
