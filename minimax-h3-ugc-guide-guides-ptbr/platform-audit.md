@@ -23,7 +23,7 @@
 | Guide structure | Pass | Six sequential chapters, reusable template and publication checklist. |
 | Locale | Pass | Brazilian Portuguese terminology and examples. |
 | Authenticity | Pass | Repeated boundary between conceptual UGC language and real testimony. |
-| Commercial links | Pass | No Best Image AI URL or tracking parameter. |
+| Commercial links | Updated | One Best Image AI campaign link is present; ownership and tracking disclosure text was removed at the user's direction. |
 | Model facts | Pass | MiniMax official documentation supports modalities, resolutions and duration. |
 | Access | Hold | Guides.co requires publisher access/contact workflow before the editor can be confirmed. |
 | Local duplicate check | Pass with boundary | No local MiniMax H3 Guides.co package found; remote account history needs manual confirmation. |
@@ -33,7 +33,7 @@
 - Voice target: Brazilian operational guide for a working e-commerce team.
 - Patterns revised: converted a seven-item SEO article into a six-stage process with uneven, task-driven sections.
 - Meaning and verified claims preserved: yes.
-- Facts, links and disclosure rechecked: yes.
+- Facts, links and AI-assistance note rechecked: yes.
 - Remaining risk: editor fields and publication permissions cannot be validated without approved account access.
 
 ## Sources

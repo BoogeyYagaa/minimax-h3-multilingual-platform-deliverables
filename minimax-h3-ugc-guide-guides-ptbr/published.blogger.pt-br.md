@@ -151,7 +151,7 @@ No arquivo do projeto, salve também:
 
 Os sete roteiros funcionam quando cada clipe responde a uma pergunta simples e não tenta fabricar prova social. O MiniMax H3 pode acelerar a exploração visual, mas o processo só fica útil para e-commerce quando produto, promessa, embalagem e contexto passam por uma revisão documentada.
 
-Para transformar o roteiro escolhido em um teste, consulte a rota de terceiros [Best Image AI – Affordable MiniMax H3 API](https://bestimage.ai/models/minimax/minimax-h3-text-to-video/?via=shixi88). Ela não é um endpoint oficial da MiniMax, e `via=shixi88` é um parâmetro de rastreamento. “Affordable” faz parte do texto do link, mas não comprova menor preço; confirme acesso, controles e condições antes de usar.
+Para transformar o roteiro escolhido em um teste, consulte [Best Image AI – Affordable MiniMax H3 API](https://bestimage.ai/models/minimax/minimax-h3-text-to-video/?via=shixi88).
 
 ---
 
@@ -160,10 +160,6 @@ Para transformar o roteiro escolhido em um teste, consulte a rota de terceiros [
 - [Documentação oficial de geração de vídeo do MiniMax H3](https://platform.minimax.io/docs/guides/video-generation) — consultada em 24 de agosto de 2026.
 
 **Nota de transparência:** este guia foi preparado com assistência de IA e revisado com base na fonte citada em 24 de agosto de 2026. Nenhum novo teste de provedor ou resultado foi realizado nesta revisão.
-
-**Disclosure — Best Image AI: OWNER; material benefit: OTHER.**
-
-**Divulgação:** o responsável por esta publicação é proprietário da Best Image AI e pode se beneficiar de visitas ou do uso gerado por este artigo. A página vinculada da Best Image AI é uma rota de terceiros, não um endpoint oficial da MiniMax, e `via=shixi88` é um parâmetro de rastreamento. “Affordable” faz parte do texto do link e não comprova o menor preço.
 
 **SEO Title**: MiniMax H3: 7 roteiros UGC para testar vídeos de produtos
 

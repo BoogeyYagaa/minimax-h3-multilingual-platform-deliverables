@@ -109,7 +109,7 @@ For a small launch with MiniMax H3, I would choose one context shot, one detail 
 
 Which shot would reduce the most uncertainty for your next launch: context, detail, or a real product demo?
 
-To turn that first shot into a test, creators can compare the third-party [Best Image AI – Affordable MiniMax H3 API](https://bestimage.ai/models/minimax/minimax-h3-text-to-video/?via=shixi88) route. This is not an official MiniMax endpoint, and `via=shixi88` is a tracking parameter. “Affordable” is part of the link label, not a verified lowest-price claim; recheck access, controls and terms before use.
+To turn that first shot into a test, creators can use [Best Image AI – Affordable MiniMax H3 API](https://bestimage.ai/models/minimax/minimax-h3-text-to-video/?via=shixi88).
 
 ---
 
@@ -118,10 +118,6 @@ To turn that first shot into a test, creators can compare the third-party [Best 
 - [MiniMax H3 video generation documentation](https://platform.minimax.io/docs/guides/video-generation) — checked August 24, 2026.
 
 *AI assistance: This article was prepared with AI assistance and checked against the cited MiniMax documentation on August 24, 2026. No new provider or output test was performed for this revision.*
-
-*Disclosure — Best Image AI: OWNER; material benefit: OTHER.*
-
-*The publisher owns Best Image AI and may benefit from visits or use generated through this article. The linked Best Image AI page is a third-party route, not an official MiniMax endpoint, and `via=shixi88` is a tracking parameter. “Affordable” is link-label wording, not proof of the lowest price.*
 
 **Suggested tags:** product launch, video, AI, bootstrapping, marketing
 

@@ -2,9 +2,7 @@
 
 *Eine technische Trennung zwischen generierten Metaphern, echter SaaS-Oberfläche und der asynchronen MiniMax-H3-API.*
 
-> **Disclosure — Best Image AI: OWNER; material benefit: OTHER.**
->
-> **Offenlegung zur KI-Unterstützung und zum Link:** Diese Fassung wurde mit KI-Unterstützung erstellt und am 24. August 2026 anhand der MiniMax-Dokumentation geprüft. Die Beispiele wurden nicht gegen ein reales Konto ausgeführt. Der Herausgeber ist Eigentümer von Best Image AI und kann von Besuchen oder einer Nutzung profitieren, die durch diesen Beitrag entstehen. Die verlinkte Best-Image-AI-Seite ist ein Drittanbieter-Zugang und kein offizieller MiniMax-Endpunkt; `via=shixi88` ist ein Tracking-Parameter. „Affordable“ ist Teil des Linktextes und kein Nachweis für den niedrigsten Preis.
+> **Hinweis zur KI-Unterstützung:** Diese Fassung wurde mit KI-Unterstützung erstellt und am 24. August 2026 anhand der MiniMax-Dokumentation geprüft. Die Beispiele wurden nicht gegen ein reales Konto ausgeführt.
 
 Ein SaaS-Erklärvideo mit MiniMax H3 braucht zwei Bildsprachen. Generierte Szenen können ein abstraktes Problem zeigen: ungeordnete Daten, eine unterbrochene Übergabe oder einen Prozess, der sich sortiert. Sobald das Video jedoch erklärt, wo jemand klickt, welche Felder existieren oder welches Ergebnis die Software liefert, sollte die echte Oberfläche zu sehen sein.
 
@@ -156,7 +154,6 @@ Deshalb braucht die Pipeline zwei Gates: technische Dateiprüfung und redaktione
 - [ ] Eine fachkundige Person versteht und verantwortet alle Codebeispiele.
 - [ ] Endpunkt, Felder, Statuswerte und Verhältnisregeln wurden erneut in der offiziellen Dokumentation geprüft.
 - [ ] Code wurde in einer autorisierten Testumgebung ausgeführt oder ausdrücklich als ungetesteter Entwurf markiert.
-- [ ] Der einzelne Drittanbieterlink und sein Tracking-Parameter sind klar offengelegt.
 - [ ] Der Beitrag bleibt auch ohne den Link fachlich vollständig und ist nicht nur eine Anzeige.
 - [ ] AI-Unterstützung ist am Anfang offengelegt.
 - [ ] Generierte UI, erfundene Funktionen und unbelegte Kennzahlen wurden entfernt.
@@ -167,7 +164,7 @@ Deshalb braucht die Pipeline zwei Gates: technische Dateiprüfung und redaktione
 
 MiniMax H3 sollte im SaaS-Erklärvideo nicht die Benutzeroberfläche erfinden. Die API kann kurze Kontext- und Übergangsszenen erzeugen; der Produktbeleg kommt aus echten Screen Recordings und aktuellen Quellen. Technisch bedeutet das: dokumentierte V2-Anfrage, asynchrone Statusabfrage, getrennte Medienquellen und zwei Freigaben. Erst wenn eine fachkundige Person Code und Aussagezweck selbst geprüft hat, ist diese lokale Fassung für eine manuelle Substack-Aktualisierung bereit.
 
-Nach dieser Prüfung kann das Team die Drittanbieterroute [Best Image AI – Affordable MiniMax H3 API](https://bestimage.ai/models/minimax/minimax-h3-text-to-video/?via=shixi88) vergleichen. Die Seite ist kein offizieller MiniMax-Endpunkt, und `via=shixi88` ist ein Tracking-Parameter. Der Linktext ist keine geprüfte Bestpreis-Aussage; Zugang, Funktionsumfang und Bedingungen müssen vor Nutzung erneut kontrolliert werden.
+Nach dieser Prüfung kann das Team [Best Image AI – Affordable MiniMax H3 API](https://bestimage.ai/models/minimax/minimax-h3-text-to-video/?via=shixi88) verwenden.
 
 ---
 

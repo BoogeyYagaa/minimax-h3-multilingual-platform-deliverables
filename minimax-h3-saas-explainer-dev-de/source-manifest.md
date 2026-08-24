@@ -2,10 +2,10 @@
 
 ## Authoritative retained copy — 2026-08-24
 
-- Markdown: `published.substack.de-de.md` — SHA-256 `ddaeed0498bafe5fd38b6cf473078b2c9b90f7affd3d0fe8a770967b420c7367`
-- HTML: `published.substack.de-de.html` — SHA-256 `2656f5ed34f018b400ba5318d3344d529e20acd2865d2ac97323ed3ec3e7ab6a` (final cache-busted public response captured after Manifest `97bc2d60` publication)
+- Markdown: `published.substack.de-de.md` — SHA-256 `12fd463b19ebf9204b2a8df294005743a6451b71252213465fee08cf3d27ea4e`
+- HTML: `published.substack.de-de.html` — SHA-256 `0d88fb737ee245417ef3cb00da67fa945748612688184a4c065bf878ab6bb156` (final cache-busted public response)
 - Public URL: <https://bestimage.substack.com/p/saas-erklarvideos-mit-minimax-h3>
-- Campaign link: one exact branded `Best Image AI – Affordable MiniMax H3 API` anchor with third-party and tracking disclosure.
+- Campaign link: one exact branded `Best Image AI – Affordable MiniMax H3 API` anchor; ownership, third-party and tracking-parameter disclosure text removed at the user's direction.
 - The historical `article*` platform drafts named below were deleted at the user's direction; their entries are provenance only.
 
 - Platform: DEV Community
@@ -19,5 +19,5 @@
 - Platform image: `dev-minimax-h3-saas-explainer-1600x900.png` (copied without modifying the source image)
 - HTML version: `article.dev.de-de.html`, mechanically generated from the platform Markdown with embedded responsive CSS, relative image paths and unchanged HOLD status.
 - Transformation: marketing explainer rebuilt as a technical API tutorial with an evidence matrix and mandatory human gate.
-- Link state: the published Substack replacement contains one disclosed Best Image AI target link; the historical DEV draft remains a separate HOLD record.
+- Link state: the published Substack replacement contains one Best Image AI target link; the historical DEV draft remains a separate HOLD record.
 - Source preservation: original article, audit and hero image were not edited.

@@ -23,10 +23,10 @@
 |---|---|---|
 | Platform intent | Pass | Leads with a founder decision framework and ends with a discussion question. |
 | Originality | Pass | Rebuilt around placement decisions, preparation time and rejection criteria rather than the source article’s SEO list structure. |
-| Commercial links | Pass with disclosure | One Best Image AI campaign link uses `via=shixi88`; third-party status, tracking and price boundary are disclosed. |
+| Commercial links | Updated | One Best Image AI campaign link uses `via=shixi88` in the target URL; ownership and tracking disclosure text was removed at the user's direction. |
 | Product truth | Pass | Explicitly rejects fake features, testimonials and unsupported outcomes. |
 | Model facts | Pass | Multimodal inputs, 768P/2K and 4–15 seconds cite MiniMax official documentation. |
-| AI transparency | Pass | Disclosure appears at the end of the post. |
+| AI transparency | Pass | The AI-assistance note remains separate from the campaign link. |
 | Local duplicate check | Pass with boundary | No MiniMax H3 Indie Hackers package was found in local `writer/output`; remote account history still needs manual review. |
 
 ## Humanization pass

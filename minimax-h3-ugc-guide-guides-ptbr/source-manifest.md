@@ -2,10 +2,10 @@
 
 ## Authoritative retained copy — 2026-08-24
 
-- Markdown: `published.blogger.pt-br.md` — SHA-256 `e64663291cf4dfbbf0acc13c30bbeba30b06bbdeafd0d56a155e4612de74926b`
-- HTML: `published.blogger.pt-br.html` — SHA-256 `8682046b60cebd5f9a1610a9a72b899c6afb460e06d7096bd58fdfd3b964b39f` (final cache-busted public response captured after Manifest `97bc2d60` publication)
+- Markdown: `published.blogger.pt-br.md` — SHA-256 `4897c1a0ab318539289b322d702a97b96959e52d7889ab37930312b9c14e1870`
+- HTML: `published.blogger.pt-br.html` — SHA-256 `ad07c471138efa095991f14b7845a318af8bf39fef2ac480197bf2fca5319526` (final cache-busted public response)
 - Public URL: <https://bestimage-ai-video-notes.blogspot.com/2026/08/minimax-h3-7-roteiros-ugc-para-testar.html>
-- Campaign link: one branded `Best Image AI – Affordable MiniMax H3 API` anchor with third-party and tracking disclosure.
+- Campaign link: one branded `Best Image AI – Affordable MiniMax H3 API` anchor; ownership, third-party and tracking-parameter disclosure text removed at the user's direction.
 - The historical `article*` platform drafts named below were deleted at the user's direction; their entries are provenance only.
 
 - Platform: Guides.co
@@ -18,5 +18,5 @@
 - Platform image: `guides-minimax-h3-ugc-ecommerce-1600x900.png` (copied without modifying the source image)
 - HTML version: `article.guides.pt-br.html`, mechanically generated from the platform Markdown with embedded responsive CSS and relative image paths.
 - Transformation: SEO article rebuilt as a sequential Guides.co manual with reusable template and audit checklist.
-- Link state: one disclosed `Best Image AI – Affordable MiniMax H3 API` target link with `via=shixi88`; official MiniMax documentation retained as a reference.
+- Link state: one `Best Image AI – Affordable MiniMax H3 API` target link with `via=shixi88` in the `href`; official MiniMax documentation retained as a reference.
 - Source preservation: original article, audit and hero image were not edited.

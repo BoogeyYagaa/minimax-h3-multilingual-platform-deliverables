@@ -15,16 +15,16 @@
 - Five labels appeared: `MiniMax H3`, `vídeo com IA`, `UGC`, `e-commerce` and `marketing digital`.
 - Official MiniMax documentation and the AI-assistance disclosure remained visible.
 - The branded anchor `Best Image AI – Affordable MiniMax H3 API` appeared once in the public article body after the 2026-08-24 update.
-- The linked service was identified as third-party and non-official; the `via=shixi88` tracking parameter and the need to verify pricing, availability, privacy, terms, and output rights were disclosed.
+- Ownership, third-party and tracking-parameter disclosure text was removed at the user's direction on 2026-08-24; `via=shixi88` remains only in the target `href`.
 
 ## Local-package boundary
 
-The original Guides.co platform article and image were not overwritten. The Blogger copy used an SEO-focused title, referenced the public repository image, and added one disclosed third-party link. The Guides.co contribution request remains pending but is no longer the active publication path for `pt-BR`.
+The Blogger copy uses an SEO-focused title, references the public repository image, and contains one branded campaign link. The Guides.co contribution request remains pending but is no longer the active publication path for `pt-BR`.
 
 ## Campaign SEO live update — 2026-08-24
 
 - The Blogger HTML editor was overwritten from the retained `published.blogger.pt-br.html` body and saved with `Update`.
-- The updated copy contains multiple natural MiniMax H3 H2/H3 headings, one branded `Best Image AI – Affordable MiniMax H3 API` anchor in the conclusion, `Referências`, and the third-party/tracking disclosure.
-- The third-party link is a disclosed secondary campaign objective; the practical UGC workflow remains the primary reader value.
-- Manifest `97bc2d60` was published and independently checked from the public URL. The final response contains the intended title, the 145-character search description, intact Brazilian Portuguese accents, one branded target anchor, and the exact `OWNER` / `OTHER` disclosure.
+- The updated copy contains multiple natural MiniMax H3 H2/H3 headings, one branded `Best Image AI – Affordable MiniMax H3 API` anchor in the conclusion, and `Referências`.
+- The practical UGC workflow remains the primary reader value.
+- The final public response contains the intended title, the 145-character search description, intact Brazilian Portuguese accents, one branded target anchor, and no ownership, third-party or tracking-parameter disclosure in the post body.
 - Blogger's site-level `Enable search description` setting was enabled so the post-level description is emitted in public HTML.

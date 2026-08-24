@@ -2,10 +2,10 @@
 
 ## Authoritative retained copy — 2026-08-24
 
-- Markdown: `published.promoteproject.en-us.md` — SHA-256 `c0b9a581562f08f4dd401fae9da54b84ab10a8241b34cba509f53a76aa39eb99`
-- HTML: `published.promoteproject.en-us.html` — SHA-256 `c1c718f3e7ebda56be6cfe15695a2bb59815063d0ab89ce1fb5ec3fb0d289230` (final cache-busted public response captured after Manifest `97bc2d60` publication)
+- Markdown: `published.promoteproject.en-us.md` — SHA-256 `8b1ce05a41db997813bbbad7f7c37926f7ab4ce56aad09117f312a8cb1c69dcd`
+- HTML: `published.promoteproject.en-us.html` — SHA-256 `375c572c97e60fe16d0980f1912ed8db8c85e08a1cddc6b2dab0c3bda31d4c80` (final cache-busted public response)
 - Public URL: <https://www.promoteproject.com/article/226203/minimax-h3-product-launch-videos-7-honest-clips-for-founders>
-- Campaign link: one branded `Best Image AI – Affordable MiniMax H3 API` anchor with third-party and tracking disclosure.
+- Campaign link: one branded `Best Image AI – Affordable MiniMax H3 API` anchor; ownership, third-party and tracking-parameter disclosure text removed at the user's direction.
 - The historical `article*` platform drafts named below were deleted at the user's direction; their entries are provenance only and do not describe the retained body.
 
 - Platform: Indie Hackers
@@ -17,5 +17,5 @@
 - Source image SHA-256: `7761be94aca74592466fa9bc618b936e46e892884465a7a2633cd9ca215de20e`
 - Platform image: `indiehackers-minimax-h3-product-launch-1600x900.png` (copied without modifying the source image)
 - HTML version: `article.indiehackers.en-us.html`, mechanically generated from the platform Markdown with embedded responsive CSS and relative image paths.
-- Transformation: structural platform rewrite for founders with one disclosed Best Image AI campaign CTA using `via=shixi88`.
+- Transformation: structural platform rewrite for founders with one Best Image AI campaign CTA using `via=shixi88` in the target URL.
 - Source preservation: original article, audit and hero image were not edited.

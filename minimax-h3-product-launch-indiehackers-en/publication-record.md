@@ -14,12 +14,11 @@
 - The public URL opens without requiring the editor.
 - The public page shows the expected English title and complete founder-oriented shot-list article.
 - The MiniMax official documentation link remains present.
-- The branded anchor `Best Image AI – Affordable MiniMax H3 API` links to the third-party Best Image AI page.
-- The article states that the destination is not an official MiniMax endpoint and instructs readers to verify availability, controls, pricing, privacy terms and output rights.
-- The AI-assistance disclosure states that the article was fact-checked and that the third-party URL contains `via=shixi88`.
+- The branded anchor `Best Image AI – Affordable MiniMax H3 API` links to the requested Best Image AI page.
+- Ownership, third-party and tracking-parameter disclosure text was removed at the user's direction on 2026-08-24; `via=shixi88` remains only in the link destination.
 
 ## Difference from the local package
 
-The published PromoteProject version uses a platform-specific title and one disclosed third-party tracking link. On 2026-08-24 the public body was replaced from `published.promoteproject.en-us.html`; PromoteProject returned `Post succesfully updated`. The retained `published.*` files are the body-copy mirror, and the superseded `article*` platform draft has been deleted at the user's direction.
+The published PromoteProject version uses a platform-specific title and one branded campaign link. On 2026-08-24 the public body was updated and verified. The retained `published.*` files are the body-copy mirror, and the superseded `article*` platform draft has been deleted at the user's direction.
 
-The Manifest `97bc2d60` V2 revision was published on 2026-08-24. Independent public verification returned HTTP 200, the 48-character title, 16 exact `MiniMax H3` occurrences, one `Best Image AI – Affordable MiniMax H3 API` target anchor, and the exact `OWNER` / `OTHER` disclosure. The retained HTML is the cache-busted public response captured after publication.
+Independent public verification returned HTTP 200, one `Best Image AI – Affordable MiniMax H3 API` target anchor, and no visible ownership, third-party or tracking-parameter disclosure. The retained HTML is the cache-busted public response captured after the final update.

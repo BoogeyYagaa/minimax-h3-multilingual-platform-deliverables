@@ -11,11 +11,11 @@
 
 - H1 synchronized with the current public title.
 - `MiniMax H3` appears in the opening, a prompt H2, the body and the conclusion; normalized visible-text count is 7.
-- One target link uses the branded anchor `Best Image AI – Affordable MiniMax H3 API` with third-party, tracking and price-boundary disclosure.
+- One target link uses the branded anchor `Best Image AI – Affordable MiniMax H3 API`; disclosure text was removed at the user's direction.
 - Official documentation is consolidated under `Referências`.
 - The retained Markdown and HTML mirrors were synchronized before the Blogger HTML editor was updated.
-- The disclosed CTA appears in the conclusion, making external promotion an explicit secondary purpose.
+- The CTA appears in the conclusion.
 
 **Status:** `LIVE UPDATE COMPLETED — BLOGGER UPDATE SAVED`.
 
-The Blogger HTML editor was updated on 2026-08-24 and the public page was rechecked after saving. The branded target anchor, target `href`, conclusion keyword and disclosure are live; the public response reported `last-modified: Mon, 24 Aug 2026 05:40:12 GMT`.
+The Blogger HTML editor was updated on 2026-08-24 and the public post body was rechecked after saving. The branded target anchor and target `href` are live; no ownership, third-party or tracking-parameter disclosure remains in the post body.
