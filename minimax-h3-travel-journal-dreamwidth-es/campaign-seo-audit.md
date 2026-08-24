@@ -1,0 +1,17 @@
+# Campaign SEO audit — Dreamwidth es-419
+
+**Audit date:** 2026-08-24  
+**Source preserved:** `article.dreamwidth.es-419.md` (`SHA-256 bd5f3ed2bf1e8e45017d7c9871b77d92bb8bc03896142825f546021aa85fd247`)  
+**Local candidate:** `published.dreamwidth.es-419.md` and `.html`  
+**Public URL:** <https://bestimage.dreamwidth.org/482.html>
+
+## Result
+
+- Existing title/H1 retained; the opening, prompt H2 and closing discussion now distribute `MiniMax H3` naturally.
+- Normalized visible-text count is 7.
+- One target link uses the natural anchor `una opción de API de MiniMax H3 en Best Image AI`; third-party status, tracking and price boundary are disclosed.
+- Official documentation is consolidated under `Referencias`.
+- Dreamwidth prohibits spam and content designed mainly to drive third-party traffic or manipulate rankings; the campaign intent therefore requires human policy review against the current Terms of Service: <https://www.dreamwidth.org/legal/tos>.
+- Original Markdown remains unchanged; the live page was not edited.
+
+**Local status:** `HOLD — LIVE UPDATE POLICY REVIEW REQUIRED`.

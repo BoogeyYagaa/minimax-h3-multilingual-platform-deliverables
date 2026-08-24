@@ -51,3 +51,10 @@
 - 页面样式完全内嵌，不调用第三方 CDN；文章图片继续使用同目录相对路径。
 - HTML 只是可独立打开的预览与移交格式。实际平台若过滤 `<head>`、`<style>` 或完整文档标签，应只取正文并在平台预览中人工检查。
 - Guides.co 与 DEV 的 HTML 不解除原有 HOLD。HTML 中的交付状态元数据记录的是 2026年8月14日打包时的状态；当前发布结果以上表及 `publication-record.md` 为准。
+
+## 2026年8月24日 Campaign SEO 本地 published copy
+
+- 七个已发布 Locale 均新增独立 `published.<actual-platform>.<locale>.md/.html`；Medium 另含 `.docx`。
+- 新文件不覆盖平台原稿，线上页面本轮未修改。
+- 七篇本地候选稿各含一个已披露的 Best Image AI 目标链接；精确锚文本 4 篇，自然变体 3 篇。
+- Dreamwidth、OverBlog、Medium 的本地候选稿保持政策复核 HOLD；详见 `campaign-seo-revision-matrix.md` 与各包 `campaign-seo-audit.md`。

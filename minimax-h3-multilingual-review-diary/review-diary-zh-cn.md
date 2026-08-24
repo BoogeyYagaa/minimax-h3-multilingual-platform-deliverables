@@ -707,3 +707,33 @@ writer/output/minimax-h3-fashion-video-fr/
 ### 当前项目状态
 
 **公开发布数量增至 7：PromoteProject（`en-US`）、Dreamwidth（`es-419`）、Blogger（`pt-BR`）、Tumblr（`ja-JP`）、Substack（`de-DE`）、OverBlog（`fr-FR`）与 Medium（`zh-TW`）。仅 `zh-CN` 按用户要求继续暂停。**
+
+---
+
+## 二十六、第二十一轮：七篇已发布稿的 Campaign SEO 本地修订
+
+**执行日期：** 2026年8月24日  
+**用户边界：** 先修改本地；不登录平台，不改线上页面。  
+**本轮结论：** 七个已发布 Locale 均新增独立 `published copy`，完成标题、关键词分布、目标链接、第三方披露和官方来源收拢；七份原稿及线上页面保持不动。
+
+### 主要修订
+
+- 英文与法文 Title/H1 补入 `MiniMax H3`；其余合格标题保持或与当前公开标题同步。
+- 七篇均在开头、关键词型 H2、正文与结尾之间建立自然分布；未对德文稿继续机械堆词。
+- 七篇各含一个目标链接：英语、巴葡、日语、德语使用精确锚文本，西语、法语、繁中使用本地化自然变体。
+- 每篇明确 Best Image AI 为第三方服务，`via=shixi88` 为跟踪参数；`Affordable` 不作为最低价、实时价格或价格优势证据。
+- 官方文档统一收拢到文末参考资料，继续为规格和 API 行为提供可追溯来源。
+- 每个平台包新增 `campaign-seo-audit.md`，并建立 `campaign-seo-revision-matrix.md`。
+
+### Word 与 HTML
+
+- 七篇均生成独立 published-copy HTML，页面 Title 与 H1 同步，正文保留相对图片路径。
+- Medium 另生成 `published.medium.zh-tw.docx`；无障碍审计为 high 0、medium 0、low 0。
+- LibreOffice 的五页预览出现 CJK 字体替换，未据此错误判定内容缺失；改用 Pages 打开同一文件，确认五页结构、完整繁中正文、四张图片与三个链接均存在。
+
+### 状态边界
+
+- PromoteProject、Blogger、Tumblr：`REVISION COMPLETE — MANUAL LIVE UPDATE REVIEW REQUIRED`。
+- Substack：`REVISION COMPLETE — HUMAN TECHNICAL AND LIVE UPDATE REVIEW REQUIRED`。
+- Dreamwidth、OverBlog、Medium：`HOLD — LIVE UPDATE POLICY REVIEW REQUIRED`。
+- 本轮线上修改数为 `0`；本地 published copy 不能被描述为已同步到公开页。
