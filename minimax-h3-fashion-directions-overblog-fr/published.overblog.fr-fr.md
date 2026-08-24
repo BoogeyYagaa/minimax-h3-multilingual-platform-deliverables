@@ -117,7 +117,7 @@ Il faut aussi préciser l’origine générative lorsque le contexte ou la plate
 
 La contrainte des 15 secondes est utile : elle oblige à choisir un geste, une matière et un point d’arrêt. Les sept directions ne sont pas des styles prêts à copier, mais des structures de décision. Avec MiniMax H3, une silhouette lisible, un mouvement unique et une vérification humaine donnent davantage de cohérence qu’une accumulation d’effets.
 
-Pour passer de la fiche créative à un essai, il est possible de comparer la voie tierce [Affordable MiniMax H3 API](https://bestimage.ai/models/minimax/minimax-h3-text-to-video/?via=shixi88) proposée par Best Image AI. Cette page n’est pas un endpoint officiel de MiniMax et `via=shixi88` est un paramètre de suivi. « Affordable » figure dans le libellé du lien, mais ne prouve pas un prix inférieur ; disponibilité, contrôles et conditions doivent être revérifiés avant toute utilisation.
+Pour passer de la fiche créative à un essai, il est possible de comparer la voie tierce [Best Image AI – Affordable MiniMax H3 API](https://bestimage.ai/models/minimax/minimax-h3-text-to-video/?via=shixi88). Cette page n’est pas un endpoint officiel de MiniMax et `via=shixi88` est un paramètre de suivi. « Affordable » figure dans le libellé du lien, mais ne prouve pas un prix inférieur ; disponibilité, contrôles et conditions doivent être revérifiés avant toute utilisation.
 
 ---
 
