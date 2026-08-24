@@ -752,6 +752,7 @@ writer/output/minimax-h3-fashion-video-fr/
 - 将 MiniMax 官方视频生成文档链接移回线上实际使用的开头说明段。
 - 将第三方 Best Image AI CTA、跟踪参数说明及核验边界改为线上实际措辞。
 - 删除线上不存在的独立“参考资料”章节，避免本地镜像多出正文。
+- 按 Tumblr 当前渲染结果，将两个表格和七个编号小节还原为线上实际段落结构，并把五个标签记录为公开标签链接。
 - 保留原始 `article.hatena.ja-jp.md/.html` 不动；只修订 Tumblr published mirror。
 - 重新核对标题、正文段落、两个链接、制作说明和五个 Tumblr 标签。
 

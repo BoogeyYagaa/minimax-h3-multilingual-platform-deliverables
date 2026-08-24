@@ -11,6 +11,7 @@
 - The keyword remains natural in the opening and conclusion; normalized visible-text count is 7.
 - One target link uses the exact anchor `Affordable MiniMax H3 API` with third-party, tracking and price-boundary disclosure.
 - The official documentation link appears in the opening explanation, matching the public Tumblr post; platform tags identify Tumblr rather than Hatena.
+- Tumblr renders the two tabular blocks and the seven numbered cut labels as paragraphs; the local published mirror now preserves that public structure instead of the richer pre-publication table/H3 markup.
 - Tumblr permits personal affiliate links only when the blog is not primarily affiliate marketing; recheck the current guidance before a live update: <https://help.tumblr.com/knowledge-base/how-affiliate-links-work-on-tumblr/>.
 - Original Hatena Markdown remains unchanged. The Tumblr live page and the local published mirror were compared on 2026-08-24; title, body wording, link placement, disclosures and tags now correspond.
 
