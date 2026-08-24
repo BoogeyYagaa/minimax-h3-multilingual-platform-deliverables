@@ -13,6 +13,9 @@
 - `MiniMax H3` appears in the opening, a prompt H2, the body and the conclusion; normalized visible-text count is 7.
 - One target link uses the exact anchor `Affordable MiniMax H3 API` with third-party, tracking and price-boundary disclosure.
 - Official documentation is consolidated under `Referências`.
-- The public editor and rendered page were rechecked on 2026-08-24 and already matched the retained mirror; no redundant overwrite was made.
+- The retained Markdown and HTML mirrors were synchronized before the Blogger HTML editor was updated.
+- The disclosed CTA appears in the conclusion, making external promotion an explicit secondary purpose.
 
-**Status:** `LIVE COPY VERIFIED — ALREADY MATCHED RETAINED MIRROR`.
+**Status:** `LIVE UPDATE COMPLETED — BLOGGER UPDATE SAVED`.
+
+The Blogger HTML editor was replaced from the retained final body on 2026-08-24. The editor then showed `Update` as disabled, confirming that the new keyword headings, exact target anchor, target `href`, conclusion keyword and disclosure had been saved.

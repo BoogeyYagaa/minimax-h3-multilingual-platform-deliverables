@@ -11,9 +11,10 @@
 - Complete article body displayed after loading the public page.
 - 1600 × 900 article image displayed with its French alt text and caption.
 - AI-assistance and editorial transparency disclosure remained visible.
-- One localized target link is present and clearly identified as a third-party route; `via=shixi88` and the non-lowest-price boundary are disclosed.
+- One exact campaign anchor, `Affordable MiniMax H3 API`, is present and clearly identified as a third-party route; `via=shixi88` and the non-lowest-price boundary are disclosed.
 
 ## Campaign SEO live verification — 2026-08-24
 
-- Public HTML source confirmed the keyword H2 `1. MiniMax H3 et la matière comme espace`, the localized Best Image AI anchor and target `href`, `Références`, the conclusion keyword and transparency note.
-- The OverBlog editor and public source already matched `published.overblog.fr-fr.md/.html`; no redundant overwrite was made.
+- The OverBlog source editor was replaced from `published.overblog.fr-fr.html` and saved with `Aktualisieren`.
+- The saved copy contains the MiniMax H3 title, multiple keyword H2s, the exact campaign anchor and target `href`, `Références`, the conclusion keyword and transparency note.
+- The CTA sits in the conclusion and is treated as a disclosed secondary campaign objective.

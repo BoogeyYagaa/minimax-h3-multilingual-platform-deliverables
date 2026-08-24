@@ -10,10 +10,13 @@
 ## Result
 
 - Existing H1 retained; `MiniMax H3` now appears in the first paragraph, a mode-specific H2 and the conclusion. Normalized visible-text count is 6.
-- One target link uses the natural anchor `Best Image AI 的 MiniMax H3 API 選項`; third-party status, tracking and price boundary are disclosed.
+- One target link uses the exact campaign anchor `Affordable MiniMax H3 API`; third-party status, tracking and price boundary are disclosed.
+- The exact-anchor CTA appears in the conclusion, making external promotion an explicit secondary objective.
 - Official documentation is consolidated at the end of the last H2, while all four section images remain at section endings.
 - The Word copy matches the editorial changes. Accessibility audit: high 0, medium 0, low 0. LibreOffice produced a five-page render but substituted CJK glyphs; Pages opened the same file as five pages and exposed the full Traditional Chinese text, images and three hyperlinks without missing content.
 - Medium prohibits content whose primary purpose is external traffic or search-rank manipulation, and its AI policy restricts AI-generated SEO/affiliate promotion. Human policy review is mandatory before any live update: <https://help.medium.com/hc/en-us/articles/213477928-Medium-Rules> and <https://help.medium.com/hc/en-us/articles/22576852947223-Artificial-Intelligence-AI-content-policy>.
-- On 2026-08-24 the editor was rebuilt from the retained HTML mirror as rich text, preserving the four images, target link and references. Medium returned `Your changes have been published.`
+- The retained Markdown and HTML mirrors are authoritative; the deleted original platform drafts were not restored. The DOCX was not used as the source for this live revision.
 
 **Status:** `LIVE UPDATE VERIFIED — MATCHES RETAINED HTML MIRROR`.
+
+On 2026-08-24 the Medium editor was rebuilt from `published.medium.zh-tw.html` as rich text, preserving the four images, multiple keyword H2/H3 headings, exact target anchor, conclusion keyword and reference links. Medium returned to the public URL with `postPublishedType=repub`, confirming the update.

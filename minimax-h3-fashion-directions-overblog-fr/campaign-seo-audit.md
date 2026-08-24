@@ -11,9 +11,12 @@
 
 - Title/H1 changed to `MiniMax H3 : 7 directions visuelles pour un film de mode de 15 secondes`.
 - The first paragraph, one H2, the middle and the conclusion now include the keyword naturally; normalized visible-text count is 8.
-- One target link uses the natural anchor `une option d’API MiniMax H3 via Best Image AI`; third-party status, tracking and price boundary are disclosed.
+- One target link uses the exact campaign anchor `Affordable MiniMax H3 API`; third-party status, tracking and price boundary are disclosed.
+- The exact-anchor CTA appears in the conclusion, making external promotion an explicit secondary objective.
 - Official documentation is consolidated under `Références`.
 - OverBlog restricts spamdexing and abusive promotional use; a live update requires human review of rights, editorial independence and the current Terms of Use: <https://www.over-blog.com/terms-of-use>.
-- Public HTML source was rechecked on 2026-08-24 and already matched the retained mirror; no redundant overwrite was made.
+- The retained Markdown and HTML mirrors are authoritative; the deleted original platform drafts were not restored.
 
-**Status:** `LIVE COPY VERIFIED — ALREADY MATCHED RETAINED MIRROR`.
+**Status:** `LIVE UPDATE COMPLETED — OVERBLOG UPDATE SAVED`.
+
+The OverBlog source editor was replaced from the retained final HTML on 2026-08-24 and saved with `Aktualisieren`. The exact target anchor, target URL, keyword conclusion, `Références` and transparency disclosure were present in the saved editor state.

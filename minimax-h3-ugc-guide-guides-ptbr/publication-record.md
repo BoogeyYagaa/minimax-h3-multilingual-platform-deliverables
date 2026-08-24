@@ -21,7 +21,8 @@
 
 The original Guides.co platform article and image were not overwritten. The Blogger copy used an SEO-focused title, referenced the public repository image, and added one disclosed third-party link. The Guides.co contribution request remains pending but is no longer the active publication path for `pt-BR`.
 
-## Campaign SEO live verification — 2026-08-24
+## Campaign SEO live update — 2026-08-24
 
-- The public page already matched the retained `published.blogger.pt-br.md/.html` markers: the MiniMax H3 keyword H2, one exact target anchor, `Referências`, the conclusion keyword and the third-party/tracking disclosure.
-- No second overwrite was made because the public copy was already the approved final version.
+- The Blogger HTML editor was overwritten from the retained `published.blogger.pt-br.html` body and saved with `Update`.
+- The updated copy contains multiple natural MiniMax H3 H2/H3 headings, one exact `Affordable MiniMax H3 API` anchor in the conclusion, `Referências`, and the third-party/tracking disclosure.
+- The third-party link is a disclosed secondary campaign objective; the practical UGC workflow remains the primary reader value.

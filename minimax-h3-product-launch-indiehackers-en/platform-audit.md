@@ -4,8 +4,6 @@
 
 `READY FOR MANUAL PLATFORM REVIEW`
 
-This verdict applies to the original Indie Hackers package. Indie Hackers publication did not occur. A separately adjusted version was published on PromoteProject; see `publication-record.md` for the verified URL, title and disclosed link difference.
-
 ## Task card
 
 - Reader: bootstrapped founders preparing a launch without a production team.

@@ -10,7 +10,7 @@ MiniMax H3 aparece aquí como herramienta de bocetado. La documentación de Mini
 
 <cut text="Abrir el cuaderno: ocho escenas, prompts y notas de autenticidad">
 
-## Página 1: la ciudad antes del ruido
+## Página 1 con MiniMax H3: la ciudad antes del ruido
 
 La primera escena ocurre cuando las calles todavía no han decidido si están vacías o a punto de llenarse. Una bicicleta cruza el fondo, una cortina metálica sube y la luz alcanza solo la parte alta de las fachadas.
 
@@ -52,7 +52,7 @@ La cámara queda fija mientras la luz, la ropa y algunos elementos del espacio s
 
 Para publicarla, añadiría una etiqueta visible como “escena imaginada” y evitaría fechas, uniformes o monumentos específicos que no hayan sido investigados.
 
-## Página 8: una postal que deja espacio para una nota
+## Página 8 con MiniMax H3: una postal que deja espacio para una nota
 
 El último plano no necesita un eslogan generado. Basta con una composición estable y un área limpia donde después pueda escribirse el nombre correcto del lugar, la fuente o una aclaración editorial.
 
@@ -62,15 +62,15 @@ La postal funciona mejor cuando admite corrección. El texto exacto, los nombres
 
 Estas versiones en español son borradores creativos. La documentación consultada acepta descripciones de texto, pero no promete resultados equivalentes para cada idioma.
 
-### Mercado costero imaginario
+### Prompt MiniMax H3: mercado costero imaginario
 
 > 8 segundos, 16:9. Primer plano observacional en un mercado costero ficticio al amanecer. Una persona coloca cítricos en cajas de madera mientras el resto del espacio abre lentamente. La cámara avanza con suavidad a la altura de las manos y termina en una vista estable de la mesa. Luz lateral cálida, sonido de cajas, pasos y aves lejanas. No generar carteles legibles, nombres de lugares ni símbolos culturales específicos.
 
-### Trayecto regional sin destino identificado
+### Prompt MiniMax H3: trayecto regional sin destino identificado
 
 > 10 segundos, 9:16. Vista desde el interior de un tren regional imaginario. El borde de la ventana permanece fijo mientras campos húmedos, estaciones pequeñas y colinas con niebla pasan al fondo. Movimiento natural del vagón, reflejos suaves y sonido rítmico de las vías. No incluir monumentos, nombres de estaciones ni señales legibles. Terminar cuando el paisaje se abre hacia un valle amplio.
 
-## Lo que revisaría antes de compartir una escena
+## Qué revisar antes de compartir una escena de MiniMax H3
 
 - ¿La entrada dice con claridad que la escena es generada o imaginaria?
 - ¿Un nombre, receta, edificio o costumbre podría interpretarse como dato real?
@@ -79,11 +79,13 @@ Estas versiones en español son borradores creativos. La documentación consulta
 - ¿Una recomendación implica acceso, seguridad o disponibilidad no comprobados?
 - ¿Los rótulos y nombres se añadirán después desde fuentes verificadas?
 
-Este cuaderno no sustituye una conversación con residentes, cocineros, historiadores o guías locales. Solo sirve para ordenar una intención visual antes de decidir si merece convertirse en información pública. Si se evalúa una vía de acceso distinta de la oficial, [una opción de API de MiniMax H3 en Best Image AI](https://bestimage.ai/models/minimax/minimax-h3-text-to-video/?via=shixi88) conduce a un servicio de terceros; `via=shixi88` es un parámetro de seguimiento y no demuestra que sea la opción más barata. Hay que verificar disponibilidad y condiciones antes de usarla.
+Este cuaderno no sustituye una conversación con residentes, cocineros, historiadores o guías locales. Solo sirve para ordenar una intención visual antes de decidir si merece convertirse en información pública.
 
-## Una pregunta para dejar abierta
+## Conclusión: qué debe aclarar una escena con MiniMax H3
 
 Cuando una escena generada se inspira en un lugar real, ¿qué tipo de etiqueta te parece suficiente: “recreación”, “escena imaginada”, una explicación más larga, o ninguna imagen hasta tener referencias locales? Con MiniMax H3 o cualquier otra herramienta, la etiqueta no reemplaza la investigación local.
+
+Para convertir el boceto en una prueba, se puede comparar la ruta de terceros [Affordable MiniMax H3 API](https://bestimage.ai/models/minimax/minimax-h3-text-to-video/?via=shixi88) en Best Image AI. No es un endpoint oficial de MiniMax; `via=shixi88` es un parámetro de seguimiento y la palabra “Affordable” no demuestra que sea la opción más barata. Hay que verificar disponibilidad, controles y condiciones antes de usarla.
 
 ## Referencias
 

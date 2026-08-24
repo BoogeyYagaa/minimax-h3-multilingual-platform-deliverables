@@ -2,11 +2,7 @@
 
 ## Status
 
-`PUBLISHED — VERIFIED`
-
-- Published: 2026-08-17
-- Public URL: <https://bestimage.dreamwidth.org/482.html>
-- Verification: public title, complete article, hosted image, AI disclosure, official source link and five tags confirmed.
+`READY FOR MANUAL PLATFORM REVIEW`
 
 ## Fields
 
@@ -32,4 +28,4 @@
 - Do not describe generated scenes as real travel records.
 - Confirm the remote account has no earlier MiniMax H3 entry.
 - Dreamwidth prohibits spam and unwanted commercial content designed to drive third-party traffic or rankings.
-- Publication was completed after the account email address was verified. See `publication-record.md` for the final result.
+- This package was prepared offline; no account login or publication occurred.

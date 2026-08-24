@@ -2,7 +2,7 @@
 
 ## Verdict
 
-`APPEAL SENT — AWAITING DEV RESPONSE; HUMAN TECHNICAL REVIEW REQUIRED`
+`HOLD — HUMAN TECHNICAL REVIEW REQUIRED`
 
 This is a completed editorial package, not a publication approval.
 
@@ -29,7 +29,7 @@ This is a completed editorial package, not a publication approval.
 | UI truth | Pass | Matrix separates generated metaphor from real product evidence. |
 | DEV tags | Pass | Exactly four technical tags. |
 | Local duplicate check | Pass with boundary | Local `writer/output` contains no MiniMax H3 DEV package; remote account history remains unverified. |
-| Publication status | Hold | The logged-in DEV account returned `Forbidden` because it is suspended. An authorized restoration appeal was sent to `support@dev.to` on 2026-08-17; human technical and policy responsibility remains required after access is restored. |
+| Publication status | Hold | DEV policy and review instructions require human technical and policy responsibility. |
 
 ## Fact ledger
 
@@ -48,7 +48,7 @@ This is a completed editorial package, not a publication approval.
 - Patterns revised: converted marketing examples into an evidence matrix, API flow and failure model.
 - Meaning and verified claims preserved: yes.
 - Code, field names, URLs and uncertainty rechecked: yes.
-- Remaining risk: DEV must respond to the appeal and restore posting access, and only the human publisher can satisfy DEV’s requirement to understand and stand behind the technical content.
+- Remaining risk: only the human publisher can satisfy DEV’s requirement to understand and stand behind the technical content.
 
 ## Sources
 

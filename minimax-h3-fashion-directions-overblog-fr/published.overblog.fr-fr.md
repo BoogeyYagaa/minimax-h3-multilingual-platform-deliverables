@@ -20,7 +20,7 @@ La documentation officielle MiniMax H3 décrit des entrées texte, image, vidéo
 
 > Un voile de laine mate bordeaux traverse lentement le cadre de gauche à droite sans changer de texture. La silhouette reste immobile au centre, lumière latérale douce, caméra presque fixe, aucun texte généré.
 
-## 2. Le podium miroir limité
+## 2. Le podium miroir limité avec MiniMax H3
 
 **Composition.** Deux ou trois surfaces réfléchissantes larges suffisent. Elles encadrent la silhouette au lieu de multiplier des copies difficiles à contrôler.
 
@@ -80,7 +80,7 @@ La documentation officielle MiniMax H3 décrit des entrées texte, image, vidéo
 
 > Portrait éditorial vertical, silhouette placée à droite, mouvement très réduit du regard et du tissu, fond calme à gauche pour une typographie ajoutée ensuite, aucun texte généré.
 
-## 7. La silhouette minimale
+## 7. La silhouette minimale avec MiniMax H3
 
 **Composition.** Une forme sombre devant une source lumineuse, puis un seul détail devient visible : couture, fermeture, texture ou accessoire réel.
 
@@ -113,11 +113,11 @@ Une image élégante n’est pas encore une image de marque fiable. Avant diffus
 
 Il faut aussi préciser l’origine générative lorsque le contexte ou la plateforme l’exige. Une scène conceptuelle ne doit pas être présentée comme une photographie de défilé, un événement réel ou une démonstration fidèle d’un produit qui n’a pas été contrôlé.
 
-Pour comparer une voie d’accès tierce, [une option d’API MiniMax H3 via Best Image AI](https://bestimage.ai/models/minimax/minimax-h3-text-to-video/?via=shixi88) est disponible sur une page distincte du service officiel. Le paramètre `via=shixi88` sert au suivi. Cette mention ne prouve pas un prix inférieur : disponibilité, contrôles et conditions doivent être revérifiés avant toute utilisation.
-
-## Conclusion
+## Conclusion : choisir une direction avec MiniMax H3
 
 La contrainte des 15 secondes est utile : elle oblige à choisir un geste, une matière et un point d’arrêt. Les sept directions ne sont pas des styles prêts à copier, mais des structures de décision. Avec MiniMax H3, une silhouette lisible, un mouvement unique et une vérification humaine donnent davantage de cohérence qu’une accumulation d’effets.
+
+Pour passer de la fiche créative à un essai, il est possible de comparer la voie tierce [Affordable MiniMax H3 API](https://bestimage.ai/models/minimax/minimax-h3-text-to-video/?via=shixi88) proposée par Best Image AI. Cette page n’est pas un endpoint officiel de MiniMax et `via=shixi88` est un paramètre de suivi. « Affordable » figure dans le libellé du lien, mais ne prouve pas un prix inférieur ; disponibilité, contrôles et conditions doivent être revérifiés avant toute utilisation.
 
 ---
 

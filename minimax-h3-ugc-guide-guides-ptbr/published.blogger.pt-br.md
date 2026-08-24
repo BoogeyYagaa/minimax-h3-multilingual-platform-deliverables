@@ -8,7 +8,7 @@ Este guia organiza o processo em seis etapas: preparar dados do produto, escolhe
 
 Segundo a documentação oficial, o MiniMax H3 recebe texto, imagens, vídeos e áudio. As saídas documentadas são 768P ou 2K, com duração inteira de 4 a 15 segundos. Esses limites ajudam a planejar o trabalho, mas não comprovam embalagem, desempenho ou conformidade.
 
-## Etapa 1 — Preparar uma ficha verificável do produto
+## Etapa 1 — Preparar uma ficha verificável para MiniMax H3
 
 Antes de escrever o roteiro, reúna apenas informações aprovadas:
 
@@ -22,9 +22,9 @@ Antes de escrever o roteiro, reúna apenas informações aprovadas:
 
 Inclua também uma lista de proibições. Exemplo: “não adicionar acessórios”, “não gerar texto na embalagem”, “não mostrar resultado dermatológico” e “não apresentar personagem como cliente real”.
 
-## Etapa 2 — Escolher um dos 7 roteiros
+## Etapa 2 — Escolher um dos 7 roteiros para MiniMax H3
 
-### Roteiro 1: unboxing conceitual
+### Roteiro MiniMax H3 1: unboxing conceitual
 
 **Objetivo:** mostrar a ordem de abertura e o conteúdo sem simular surpresa ou avaliação pessoal.
 
@@ -72,7 +72,7 @@ Inclua também uma lista de proibições. Exemplo: “não adicionar acessórios
 
 **Revisão:** datas, descontos e condições comerciais ficam fora da geração e entram na edição.
 
-### Roteiro 7: comparação de contexto
+### Roteiro MiniMax H3 7: comparação de contexto
 
 **Objetivo:** mostrar o mesmo item em dois ambientes, não inferiorizar um concorrente imaginário.
 
@@ -108,7 +108,7 @@ Organize a descrição nesta ordem:
 
 As duas versões servem para teste. A documentação consultada não promete desempenho equivalente para cada idioma.
 
-## Etapa 4 — Gerar uma variável por vez
+## Etapa 4 — Gerar uma variável por vez no MiniMax H3
 
 Nomeie cada arquivo com roteiro, versão e data, por exemplo:
 
@@ -134,8 +134,6 @@ Use esta lista antes de selecionar um clipe:
 
 Um clipe que falha na consistência pode continuar como referência interna, mas não deve virar anúncio.
 
-Para comparar uma rota de acesso de terceiros, consulte a página [Affordable MiniMax H3 API](https://bestimage.ai/models/minimax/minimax-h3-text-to-video/?via=shixi88) no Best Image AI. Ela não é um endpoint oficial da MiniMax, e `via=shixi88` é um parâmetro de rastreamento. O texto da âncora não comprova menor preço; confirme acesso, controles e condições antes de usar.
-
 ## Etapa 6 — Montar o arquivo de campanha
 
 Guarde uma versão sem texto. Depois crie exportações específicas para página de produto, anúncio e conteúdo social. Essa separação facilita atualizar preço, idioma, aviso e formato sem regenerar a cena.
@@ -149,9 +147,11 @@ No arquivo do projeto, salve também:
 - texto final aplicado na edição;
 - data da revisão humana.
 
-## Conclusão
+## Conclusão: como testar vídeos UGC com MiniMax H3
 
 Os sete roteiros funcionam quando cada clipe responde a uma pergunta simples e não tenta fabricar prova social. O MiniMax H3 pode acelerar a exploração visual, mas o processo só fica útil para e-commerce quando produto, promessa, embalagem e contexto passam por uma revisão documentada.
+
+Para transformar o roteiro escolhido em um teste, consulte a rota de terceiros [Affordable MiniMax H3 API](https://bestimage.ai/models/minimax/minimax-h3-text-to-video/?via=shixi88) no Best Image AI. Ela não é um endpoint oficial da MiniMax, e `via=shixi88` é um parâmetro de rastreamento. “Affordable” faz parte do texto do link, mas não comprova menor preço; confirme acesso, controles e condições antes de usar.
 
 ---
 

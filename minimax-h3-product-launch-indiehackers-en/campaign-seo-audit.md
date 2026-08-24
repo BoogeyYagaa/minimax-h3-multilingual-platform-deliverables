@@ -13,6 +13,7 @@
 - `MiniMax H3` now appears in the first paragraph, a relevant H2, the middle, and the conclusion; normalized visible-text count is 7.
 - One target link is present with the exact anchor `Affordable MiniMax H3 API`.
 - The link is identified as third-party and tracked; the anchor is explicitly not treated as proof of a lowest price.
+- The exact-anchor CTA is in the final discussion section, making external promotion a disclosed secondary campaign objective.
 - Official documentation is consolidated under `References`.
 - The public editor was replaced from the retained HTML mirror on 2026-08-24 and returned `Post succesfully updated`.
 

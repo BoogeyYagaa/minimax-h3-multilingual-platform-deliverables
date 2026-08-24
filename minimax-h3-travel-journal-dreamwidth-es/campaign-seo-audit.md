@@ -11,7 +11,8 @@
 
 - Existing title/H1 retained; the opening, prompt H2 and closing discussion now distribute `MiniMax H3` naturally.
 - Normalized visible-text count is 7.
-- One target link uses the natural anchor `una opción de API de MiniMax H3 en Best Image AI`; third-party status, tracking and price boundary are disclosed.
+- One target link uses the exact campaign anchor `Affordable MiniMax H3 API`; third-party status, tracking and price boundary are disclosed.
+- The disclosed third-party CTA sits in the conclusion, so external promotion is an explicit secondary objective without displacing the travel-journal intent.
 - Official documentation is consolidated under `Referencias`.
 - Dreamwidth prohibits spam and content designed mainly to drive third-party traffic or manipulate rankings; the campaign intent therefore requires human policy review against the current Terms of Service: <https://www.dreamwidth.org/legal/tos>.
 - Live synchronization was attempted again on 2026-08-24. The journal session handoff and direct edit URL both returned `403 Denied`; the public body was not changed.

@@ -712,8 +712,8 @@ writer/output/minimax-h3-fashion-video-fr/
 
 ## 二十六、第二十一轮：七篇已发布稿的 Campaign SEO 本地修订
 
-**执行日期：** 2026年8月24日  
-**用户边界：** 先修改本地；不登录平台，不改线上页面。  
+**执行日期：** 2026年8月24日
+**用户边界：** 先修改本地；不登录平台，不改线上页面。
 **本轮结论：** 七个已发布 Locale 均新增独立 `published copy`，完成标题、关键词分布、目标链接、第三方披露和官方来源收拢；七份原稿及线上页面保持不动。
 
 ### 主要修订
@@ -828,3 +828,30 @@ writer/output/minimax-h3-fashion-video-fr/
 - 6/7 个已发布 Locale 的公开页已与 retained mirror 同步或经源码确认匹配。
 - Dreamwidth 是唯一未关闭项，状态为 `HOLD — DREAMWIDTH 403; LOCAL MIRROR NOT YET LIVE`。
 - 本轮未恢复任何已删除的 `article*` 平台稿；`published.*` 继续作为唯一正文镜像。
+
+---
+
+## 三十一、第二十六轮：统一品牌锚文本与关键词标题结构
+
+**执行日期：** 2026年8月24日
+
+**用户要求：** 七个线上版本必须明确承担外链推广的最终或次要目的；大标题和 H1 必须含 `MiniMax H3`；H2/H3 尽量自然包含关键词；品牌关键词锚文本必须存在。
+
+### 本地统一结果
+
+- 7/7 retained Markdown 与 HTML 的 Title/H1 均含 `MiniMax H3` 或 `MiniMax-H3`。
+- 7/7 各含多个关键词 H2；除法语清单没有 H3 外，其余文章均保留或补充关键词 H3/子标题。
+- 7/7 各含一次精确锚文本 `Affordable MiniMax H3 API`，目标统一为 `https://bestimage.ai/models/minimax/minimax-h3-text-to-video/?via=shixi88`。
+- CTA 均位于结论或最终讨论段，第三方身份、跟踪参数与非最低价边界继续披露；外链推广被明确作为次要目的。
+
+### 线上执行结果
+
+- PromoteProject：整篇覆盖后返回 `Post succesfully updated`。
+- Blogger：HTML 编辑器从 retained HTML 覆盖并保存；`Update` 随后变为禁用。
+- Tumblr：针对块编辑器逐项同步 4 个关键词 H2、2 个关键词子标题与精确锚文本后保存。
+- Substack：富文本整体覆盖并以 `Everyone` 更新，平台显示 `Your post is live!`。
+- OverBlog：源码编辑器整体覆盖并执行 `Aktualisieren`。
+- Medium：富文本整体覆盖，返回带 `postPublishedType=repub` 的公开 URL。
+- Dreamwidth：直接编辑地址与公开页会话交接仍返回 `403 Denied`；本地终稿正确，但线上旧稿尚未替换。
+
+**当前状态：** `6/7 LIVE UPDATES COMPLETED; DREAMWIDTH HOLD — 403`。

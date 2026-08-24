@@ -17,6 +17,6 @@
 
 ## Campaign SEO live-sync attempt — 2026-08-24
 
-- The approved mirror remains `published.dreamwidth.es-419.md/.html`, including one disclosed Best Image AI target link and the localized keyword H2.
+- The approved mirror remains `published.dreamwidth.es-419.md/.html`, including one disclosed `Affordable MiniMax H3 API` target link, multiple keyword headings and a conclusion CTA that makes external promotion a secondary objective.
 - Both the public URL session handoff and `https://www.dreamwidth.org/editjournal.bml?journal=bestimage&itemid=482` returned `403 Denied` from the active publishing browser.
 - No Dreamwidth content was changed. The public page must not be described as matching the local mirror until the 403 is cleared and the final title/body/link checks are repeated.

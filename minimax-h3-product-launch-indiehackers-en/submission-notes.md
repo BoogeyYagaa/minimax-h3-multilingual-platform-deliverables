@@ -2,9 +2,7 @@
 
 ## Status
 
-`REPLACED — PUBLISHED ON PROMOTEPROJECT`
-
-The Indie Hackers route was blocked by posting privileges. A platform-adapted version was published on PromoteProject instead. See `publication-record.md`. This file remains the historical Indie Hackers preparation guide; the original local article was not overwritten.
+`READY FOR MANUAL PLATFORM REVIEW`
 
 ## Fields
 

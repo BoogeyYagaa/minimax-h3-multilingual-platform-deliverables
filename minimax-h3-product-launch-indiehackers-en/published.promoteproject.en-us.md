@@ -6,7 +6,7 @@ For a founder working without a production team, that usually means choosing a n
 
 ![A founder planning product launch shots around a skincare jar and camera setup](./indiehackers-minimax-h3-product-launch-1600x900.png)
 
-## Decide what the clip must do
+## Decide what the MiniMax H3 clip must do
 
 Start with the placement, not the visual effect. A homepage hero, launch post, product page and paid social ad ask for different evidence.
 
@@ -20,9 +20,9 @@ Start with the placement, not the visual effect. A homepage hero, launch post, p
 
 This table prevents a common failure: asking one eight-second clip to carry atmosphere, product education, social proof and a call to action at the same time.
 
-## Seven clips worth putting on a founder’s shot list
+## Seven MiniMax H3 clips worth putting on a founder’s shot list
 
-### 1. The material reveal
+### 1. The MiniMax H3 material reveal
 
 Begin close on one verified surface—glass, fabric, metal or condensation—then pull back to the full product. This is useful when finish and tactility matter more than a feature list.
 
@@ -58,7 +58,7 @@ Keep the product, camera and action fixed while changing only the background, li
 
 **Review:** Did the variation introduce a discount, date or accessory that was never approved?
 
-### 7. The clean final hold
+### 7. The clean MiniMax H3 final hold
 
 Finish on a stable three-quarter view with negative space for a headline. Add the logo, price, release date and legal copy in an editor, where they can be checked and updated.
 
@@ -90,8 +90,6 @@ A practical prompt describes relationships instead of stacking style words:
 
 Treat that prompt as a test definition. If the jar changes, reduce the action or strengthen the reference; if the camera wanders, remove secondary movement; if the label is wrong, generate a clean plate and add the approved artwork later.
 
-Creators who want to compare a third-party access route can review the [Affordable MiniMax H3 API](https://bestimage.ai/models/minimax/minimax-h3-text-to-video/?via=shixi88) page on Best Image AI. This is not an official MiniMax endpoint, and `via=shixi88` is a tracking parameter. “Affordable” is the campaign anchor, not a verified lowest-price claim; recheck access, controls and terms before use.
-
 ## The “do not fake the product” check
 
 Before a clip enters the launch folder, review it frame by frame:
@@ -105,11 +103,13 @@ Before a clip enters the launch folder, review it frame by frame:
 
 If any answer is uncertain, the clip stays a concept. That is not wasted work; it is exactly what previsualization is for.
 
-## What would you show first?
+## What would you show first with MiniMax H3?
 
 For a small launch with MiniMax H3, I would choose one context shot, one detail answer and one clean final hold before generating seven polished variations. Those three clips cover attention, understanding and a controlled ending without pretending the video is the product proof.
 
 Which shot would reduce the most uncertainty for your next launch: context, detail, or a real product demo?
+
+To turn that first shot into a test, creators can compare the third-party [Affordable MiniMax H3 API](https://bestimage.ai/models/minimax/minimax-h3-text-to-video/?via=shixi88) route on Best Image AI. This is not an official MiniMax endpoint, and `via=shixi88` is a tracking parameter. “Affordable” is part of the link label, not a verified lowest-price claim; recheck access, controls and terms before use.
 
 ---
 

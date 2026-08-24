@@ -8,7 +8,7 @@
 
 MiniMaxの公式動画生成ドキュメントでは、H3はテキスト、画像、動画、音声を入力として扱い、768Pまたは2K、4〜15秒の出力に対応すると説明されています。仕様は尺を決める材料になりますが、キャラクターや小道具の正確さを保証するものではありません。
 
-## まず15秒を役割に分ける
+## MiniMax H3で15秒を役割に分ける
 
 例として、15秒を次のように割り振ります。
 
@@ -24,7 +24,7 @@ MiniMaxの公式動画生成ドキュメントでは、H3はテキスト、画�
 
 ## MiniMax H3で試す7つのカット案
 
-### 1. 背中から始まる初登場
+### 1. MiniMax H3で作る背中からの初登場
 
 人物は背中を向け、音に反応して一度だけ振り返ります。動作が少ないため、髪、衣装、目線を確認しやすいカットです。
 
@@ -60,13 +60,13 @@ MiniMaxの公式動画生成ドキュメントでは、H3はテキスト、画�
 
 **確認点:** 文字を置く余白、人物との重なり、停止時間。
 
-### 7. タイトル前の余韻
+### 7. MiniMax H3で残すタイトル前の余韻
 
 戦闘後の煙、揺れる草、遠ざかる足音など、事件の直後を描きます。最後の1〜2秒を安定させると、タイトルへの接続が自然になります。
 
 **確認点:** カメラが止まる位置、音の切れ方、次の画面との色差。
 
-## プロンプト1：雨の駅で振り返る
+## MiniMax H3プロンプト1：雨の駅で振り返る
 
 日本語版は創作テスト用です。公式資料は言語別の同等性能を保証していないため、同じ意図の英語版も残します。
 
@@ -74,7 +74,7 @@ MiniMaxの公式動画生成ドキュメントでは、H3はテキスト、画�
 
 > 8 seconds, 16:9. Outside a train station at night in light rain, a young man with short black hair and a navy coat stands with his back to the camera. He reacts to a distant train sound and slowly turns around once. The camera makes a quiet push forward from waist height and stops before his face. Cool blue ambience with a warm reflection on one cheek. End on a stable medium close-up. Preserve outfit, hairstyle, and left-right details from the reference image; generate no text.
 
-## プロンプト2：歩かないメカ起動
+## MiniMax H3プロンプト2：歩かないメカ起動
 
 > 10秒、16:9。暗い地下格納庫に白と赤の大型人型メカが固定されている。最初に頭部の細いライトが点灯し、次に肩のロックが外れ、最後に足元から蒸気が一度だけ広がる。低い位置の固定カメラにごく小さな前進。硬い白色光、赤い警告灯、重い金属音。機体は歩かず、正面を向いた状態で終了する。参照デザインにない武器や部品を追加しない。
 
@@ -105,7 +105,7 @@ MiniMaxの公式動画生成ドキュメントでは、H3はテキスト、画�
 - 使用する画像、音声、動画の権利を確認したか。
 - 生成素材であることを、公開先の現行ルールに合わせて表示するか。
 
-## まとめ
+## まとめ：MiniMax H3で15秒のアニメPVを設計する
 
 15秒のアニメPVは、映像の長さより役割の切り分けで決まります。7つのカットを全部使う必要はありません。入口、人物、変化、余韻のうち、作品に必要な3〜4個を選び、最後に編集可能な停止画を残す。その設計ができていれば、MiniMax H3の生成結果も「完成品か失敗作か」ではなく、差し替え可能な制作素材として判断できます。
 

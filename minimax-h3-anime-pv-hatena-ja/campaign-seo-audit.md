@@ -12,9 +12,10 @@
 - H1 synchronized with the current Tumblr title; one H2 now includes `MiniMax H3`.
 - The keyword remains natural in the opening and conclusion; normalized visible-text count is 7.
 - One target link uses the exact anchor `Affordable MiniMax H3 API` with third-party, tracking and price-boundary disclosure.
+- The exact-anchor CTA remains in the closing section, so external promotion is a disclosed secondary objective.
 - The opening specification paragraph is unlinked. The official documentation link is consolidated under the standalone `参考資料` heading, matching the authoritative local published copy.
 - The authoritative local HTML retains two tables and seven H3 cut labels. Tumblr does not expose native table blocks, so the public renderer presents the same table text and numbered labels as platform-supported paragraphs; this is a rendering limitation, not a content-version difference.
 - Tumblr permits personal affiliate links only when the blog is not primarily affiliate marketing; recheck the current guidance before a live update: <https://help.tumblr.com/knowledge-base/how-affiliate-links-work-on-tumblr/>.
-- The original Hatena platform drafts remain deleted. On 2026-08-24, the public Tumblr post was updated from the retained `published.tumblr.ja-jp` copy and then refreshed for verification; title, body wording, target URL, reference link, disclosures and tags correspond, subject only to Tumblr's table/H3 rendering limits.
+- The original Hatena platform drafts remain deleted. On 2026-08-24, the Tumblr editor was refreshed from the retained copy and its block-specific rendering was corrected manually: four MiniMax H3 H2 blocks and two keyword subheadings were synchronized before saving. The target URL, exact anchor, reference link, disclosures and tags remain present, subject only to Tumblr's table/H3 rendering limits.
 
 **Local status:** `LIVE UPDATE VERIFIED — MATCHES PUBLISHED MIRROR`.

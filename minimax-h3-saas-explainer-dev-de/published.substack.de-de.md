@@ -10,7 +10,7 @@ Diese Trennung ist nicht nur redaktionell sinnvoll. Sie bestimmt auch, welche Da
 
 ![Abstrakte Datenbewegung vor einem leeren Monitor, in den später echte UI eingesetzt wird](./dev-minimax-h3-saas-explainer-1600x900.png)
 
-## Die Grenze zwischen generierter Szene und Produktbeleg
+## MiniMax H3: Die Grenze zwischen generierter Szene und Produktbeleg
 
 | Aussage im Video | Geeignetes Material | Warum |
 |---|---|---|
@@ -39,7 +39,7 @@ Für reines Text-to-Video ist `ratio` verpflichtend und darf nicht `adaptive` se
 
 Das sind dokumentierte Schnittstellenregeln. Sie sind noch kein Beleg dafür, dass der folgende Entwurf in einer bestimmten Konto-, Regions- oder Tarifkonfiguration erfolgreich läuft.
 
-## Eine Text-to-Video-Aufgabe anlegen
+## Eine MiniMax-H3-Text-to-Video-Aufgabe anlegen
 
 Das kleinste nachvollziehbare Beispiel enthält nur die dokumentierten Pflichtfelder. Verwende keinen echten API-Schlüssel im Quelltext.
 
@@ -66,7 +66,7 @@ curl --request POST \
 
 Bei Erfolg liefert der Create-Endpunkt eine `task_id`. Der Auftrag ist dann noch nicht fertig; Videoerzeugung ist asynchron.
 
-### Warum der Prompt keine Oberfläche beschreibt
+### Warum der MiniMax-H3-Prompt keine Oberfläche beschreibt
 
 Der Prompt erzeugt absichtlich eine freie Monitorfläche. Die reale Produktaufnahme wird später eingesetzt. Dadurch kann das Team die filmische Einführung austauschen, ohne veraltete oder erfundene UI-Texte zu produzieren.
 
@@ -116,7 +116,7 @@ def wait_for_video(task_id: str, max_checks: int = 60) -> str:
 
 `max_checks` ist eine Anwendungsgrenze, kein offizielles Service-Limit. Die dokumentierte Anleitung empfiehlt zehn Sekunden zwischen Abfragen. In einer Produktionsanwendung sollten zusätzlich Netzwerkfehler, temporäre URLs, Speicherung, Logging und Geheimnisverwaltung geprüft werden.
 
-## Screen Recording und generierten Clip verbinden
+## Screen Recording und MiniMax-H3-Clip verbinden
 
 Der technische Ablauf besteht aus zwei unabhängigen Quellen:
 
@@ -149,8 +149,6 @@ Die API-Referenz dokumentiert unter anderem Antworten für ungültige Parameter 
 
 Deshalb braucht die Pipeline zwei Gates: technische Dateiprüfung und redaktionelle Freigabe.
 
-Wer zusätzlich eine Drittanbieterroute vergleichen möchte, findet sie unter [Affordable MiniMax H3 API](https://bestimage.ai/models/minimax/minimax-h3-text-to-video/?via=shixi88) bei Best Image AI. Die Seite ist kein offizieller MiniMax-Endpunkt, und `via=shixi88` ist ein Tracking-Parameter. Der Anker ist keine geprüfte Bestpreis-Aussage; Zugang, Funktionsumfang und Bedingungen müssen vor Nutzung erneut kontrolliert werden.
-
 ## Checkliste vor einer Veröffentlichung
 
 - [ ] Eine fachkundige Person versteht und verantwortet alle Codebeispiele.
@@ -163,9 +161,11 @@ Wer zusätzlich eine Drittanbieterroute vergleichen möchte, findet sie unter [A
 - [ ] Echte Aufnahmen enthalten keine sensiblen Daten.
 - [ ] Die lokale und die entfernte Substack-Historie enthalten keinen zweiten, fast gleichen MiniMax-H3-Beitrag.
 
-## Fazit
+## Fazit: MiniMax H3 im SaaS-Erklärvideo einsetzen
 
 MiniMax H3 sollte im SaaS-Erklärvideo nicht die Benutzeroberfläche erfinden. Die API kann kurze Kontext- und Übergangsszenen erzeugen; der Produktbeleg kommt aus echten Screen Recordings und aktuellen Quellen. Technisch bedeutet das: dokumentierte V2-Anfrage, asynchrone Statusabfrage, getrennte Medienquellen und zwei Freigaben. Erst wenn eine fachkundige Person Code und Aussagezweck selbst geprüft hat, ist diese lokale Fassung für eine manuelle Substack-Aktualisierung bereit.
+
+Nach dieser Prüfung kann das Team die Drittanbieterroute [Affordable MiniMax H3 API](https://bestimage.ai/models/minimax/minimax-h3-text-to-video/?via=shixi88) bei Best Image AI vergleichen. Die Seite ist kein offizieller MiniMax-Endpunkt, und `via=shixi88` ist ein Tracking-Parameter. Der Anker ist keine geprüfte Bestpreis-Aussage; Zugang, Funktionsumfang und Bedingungen müssen vor Nutzung erneut kontrolliert werden.
 
 ---
 

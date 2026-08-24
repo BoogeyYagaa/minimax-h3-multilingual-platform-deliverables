@@ -12,8 +12,11 @@
 - DEV front matter was replaced with the public Substack H1 and subtitle.
 - `MiniMax H3` already had sufficient coverage; no campaign-driven stuffing was added. Normalized visible-text count is 12 because the technical body and source labels legitimately repeat the model name.
 - One target link uses the exact anchor `Affordable MiniMax H3 API`; third-party status, tracking and price boundary are disclosed.
+- The exact-anchor CTA is placed in the conclusion, making external promotion a disclosed secondary objective.
 - Official links are consolidated under `Quellen`; the untested-code warning and human technical-review gate remain.
 - Substack says publications cannot be set up solely to advertise outside services; the article must remain independently useful: <https://support.substack.com/hc/en-us/articles/360037455072-Can-I-use-affiliate-links-or-advertising-in-my-emails>.
-- On 2026-08-24 the full body was replaced from the retained HTML mirror as rich text and updated for `Everyone`; the technical-responsibility warning remains.
+- The retained Markdown and HTML mirrors are the authoritative copies; the deleted `article*` drafts were not restored.
 
 **Status:** `LIVE UPDATE COMPLETED — HUMAN TECHNICAL RESPONSIBILITY RETAINED`.
+
+On 2026-08-24 the full body was replaced from `published.substack.de-de.html` as rich text and updated for `Everyone`. The resulting public source contains the exact target anchor and destination. The disclosure still states that the examples were not executed and that a qualified human must review and own the technical content before production use.

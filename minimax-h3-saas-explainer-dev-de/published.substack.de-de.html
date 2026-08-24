@@ -23,7 +23,7 @@
 <p>Ein SaaS-Erklärvideo mit MiniMax H3 braucht zwei Bildsprachen. Generierte Szenen können ein abstraktes Problem zeigen: ungeordnete Daten, eine unterbrochene Übergabe oder einen Prozess, der sich sortiert. Sobald das Video jedoch erklärt, wo jemand klickt, welche Felder existieren oder welches Ergebnis die Software liefert, sollte die echte Oberfläche zu sehen sein.</p>
 <p>Diese Trennung ist nicht nur redaktionell sinnvoll. Sie bestimmt auch, welche Dateien, Prompts und Prüfungen in einer technischen Pipeline benötigt werden.</p>
 <p><img src="./dev-minimax-h3-saas-explainer-1600x900.png" alt="Abstrakte Datenbewegung vor einem leeren Monitor, in den später echte UI eingesetzt wird"></p>
-<h2>Die Grenze zwischen generierter Szene und Produktbeleg</h2>
+<h2>MiniMax H3: Die Grenze zwischen generierter Szene und Produktbeleg</h2>
 <table>
 <thead>
 <tr>
@@ -76,7 +76,7 @@
 <p>Die V2-Referenz für das Erstellen einer Aufgabe verwendet <code>POST https://api.minimax.io/v2/video_generation</code>. Jede Anfrage braucht ein nicht leeres <code>text</code>-Element im <code>content</code>-Array.</p>
 <p>Für reines Text-to-Video ist <code>ratio</code> verpflichtend und darf nicht <code>adaptive</code> sein. Bei First-/Last-Frame Image-to-Video bestimmt das Eingabebild das Verhältnis; ein anderes gültiges <code>ratio</code> wird als <code>adaptive</code> behandelt. Referenzgenerierung kann <code>adaptive</code> verwenden oder ein konkretes Verhältnis angeben.</p>
 <p>Das sind dokumentierte Schnittstellenregeln. Sie sind noch kein Beleg dafür, dass der folgende Entwurf in einer bestimmten Konto-, Regions- oder Tarifkonfiguration erfolgreich läuft.</p>
-<h2>Eine Text-to-Video-Aufgabe anlegen</h2>
+<h2>Eine MiniMax-H3-Text-to-Video-Aufgabe anlegen</h2>
 <p>Das kleinste nachvollziehbare Beispiel enthält nur die dokumentierten Pflichtfelder. Verwende keinen echten API-Schlüssel im Quelltext.</p>
 <pre><code class="language-bash">export MINIMAX_API_KEY=&quot;replace-with-a-local-secret&quot;
 
@@ -98,7 +98,7 @@ curl --request POST \
   }&#39;
 </code></pre>
 <p>Bei Erfolg liefert der Create-Endpunkt eine <code>task_id</code>. Der Auftrag ist dann noch nicht fertig; Videoerzeugung ist asynchron.</p>
-<h3>Warum der Prompt keine Oberfläche beschreibt</h3>
+<h3>Warum der MiniMax-H3-Prompt keine Oberfläche beschreibt</h3>
 <p>Der Prompt erzeugt absichtlich eine freie Monitorfläche. Die reale Produktaufnahme wird später eingesetzt. Dadurch kann das Team die filmische Einführung austauschen, ohne veraltete oder erfundene UI-Texte zu produzieren.</p>
 <p>Auch Zahlen fehlen bewusst. Datenbahnen sind eine Metapher. Messwerte, Kundennamen und Compliance-Aussagen gehören in verifizierte Ebenen der Postproduktion.</p>
 <h2>Status abfragen und Ergebnis speichern</h2>
@@ -137,7 +137,7 @@ def wait_for_video(task_id: str, max_checks: int = 60) -&gt; str:
     raise TimeoutError(&quot;Video task did not reach a terminal state&quot;)
 </code></pre>
 <p><code>max_checks</code> ist eine Anwendungsgrenze, kein offizielles Service-Limit. Die dokumentierte Anleitung empfiehlt zehn Sekunden zwischen Abfragen. In einer Produktionsanwendung sollten zusätzlich Netzwerkfehler, temporäre URLs, Speicherung, Logging und Geheimnisverwaltung geprüft werden.</p>
-<h2>Screen Recording und generierten Clip verbinden</h2>
+<h2>Screen Recording und MiniMax-H3-Clip verbinden</h2>
 <p>Der technische Ablauf besteht aus zwei unabhängigen Quellen:</p>
 <pre><code class="language-text">generierter Kontextclip
   -&gt; Qualitätsprüfung
@@ -163,7 +163,6 @@ beide Quellen
 <li>Eine technisch gültige Metapher kann als Produktversprechen missverstanden werden.</li>
 </ul>
 <p>Deshalb braucht die Pipeline zwei Gates: technische Dateiprüfung und redaktionelle Freigabe.</p>
-<p>Wer zusätzlich eine Drittanbieterroute vergleichen möchte, findet sie unter <a href="https://bestimage.ai/models/minimax/minimax-h3-text-to-video/?via=shixi88">Affordable MiniMax H3 API</a> bei Best Image AI. Die Seite ist kein offizieller MiniMax-Endpunkt, und <code>via=shixi88</code> ist ein Tracking-Parameter. Der Anker ist keine geprüfte Bestpreis-Aussage; Zugang, Funktionsumfang und Bedingungen müssen vor Nutzung erneut kontrolliert werden.</p>
 <h2>Checkliste vor einer Veröffentlichung</h2>
 <ul>
 <li><input disabled="" type="checkbox"> Eine fachkundige Person versteht und verantwortet alle Codebeispiele.</li>
@@ -176,8 +175,9 @@ beide Quellen
 <li><input disabled="" type="checkbox"> Echte Aufnahmen enthalten keine sensiblen Daten.</li>
 <li><input disabled="" type="checkbox"> Die lokale und die entfernte Substack-Historie enthalten keinen zweiten, fast gleichen MiniMax-H3-Beitrag.</li>
 </ul>
-<h2>Fazit</h2>
+<h2>Fazit: MiniMax H3 im SaaS-Erklärvideo einsetzen</h2>
 <p>MiniMax H3 sollte im SaaS-Erklärvideo nicht die Benutzeroberfläche erfinden. Die API kann kurze Kontext- und Übergangsszenen erzeugen; der Produktbeleg kommt aus echten Screen Recordings und aktuellen Quellen. Technisch bedeutet das: dokumentierte V2-Anfrage, asynchrone Statusabfrage, getrennte Medienquellen und zwei Freigaben. Erst wenn eine fachkundige Person Code und Aussagezweck selbst geprüft hat, ist diese lokale Fassung für eine manuelle Substack-Aktualisierung bereit.</p>
+<p>Nach dieser Prüfung kann das Team die Drittanbieterroute <a href="https://bestimage.ai/models/minimax/minimax-h3-text-to-video/?via=shixi88">Affordable MiniMax H3 API</a> bei Best Image AI vergleichen. Die Seite ist kein offizieller MiniMax-Endpunkt, und <code>via=shixi88</code> ist ein Tracking-Parameter. Der Anker ist keine geprüfte Bestpreis-Aussage; Zugang, Funktionsumfang und Bedingungen müssen vor Nutzung erneut kontrolliert werden.</p>
 <hr>
 <h2>Quellen</h2>
 <ul>
