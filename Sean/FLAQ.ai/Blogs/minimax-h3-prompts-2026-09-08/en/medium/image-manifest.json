@@ -1,0 +1,29 @@
+{
+  "images": [
+    {
+      "file": "01-lead-reference-anatomy.png",
+      "alt": "A handmade paper theatre frames a yellow bicycle on a wet street, with a dotted motion path above it.",
+      "role": "LEAD",
+      "width": 1664,
+      "height": 936,
+      "sha256": "422f5ac9598ac0fe27f5be2729066dcbc12b9b8eece77d3205fed0832b4a49d5"
+    },
+    {
+      "file": "02-middle-observation-cards.png",
+      "alt": "A yellow bicycle on a rain-washed street sits beside five blank colored planning cards.",
+      "role": "MIDDLE",
+      "width": 1664,
+      "height": 936,
+      "sha256": "f3b13325073454cac8511012b65b8447c3fd2b26b4589d684a097ff09c839952"
+    },
+    {
+      "file": "03-close-quiet-brief.png",
+      "alt": "A printed bicycle reference photo, a pen, and a blank folded sheet with a single curved line rest on a desk at dusk.",
+      "role": "CLOSING",
+      "width": 1664,
+      "height": 936,
+      "sha256": "de4e156cc4278137ff1ea2bd08f717213166f0f95f003045844462d5957943a4"
+    }
+  ],
+  "scope": "Reviewed source assets; captions remain adjacent in article.md."
+}

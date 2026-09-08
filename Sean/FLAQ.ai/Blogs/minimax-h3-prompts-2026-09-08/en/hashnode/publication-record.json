@@ -1,0 +1,27 @@
+{
+  "article_id": "EN-04",
+  "brand": "FLAQ",
+  "topic": "MiniMax H3 image-to-video prompts",
+  "language": "en",
+  "platform": "Hashnode",
+  "public_url": "https://flaq-ai-lab.hashnode.dev/minimax-h3-image-to-video-prompt-checklist-for-reference-led-action",
+  "archived_at": "2026-09-08T08:29:52.511723+00:00",
+  "classification": "source-compared-visual-acceptance-pending",
+  "archive_content": "Reviewed article source with portable local image paths and a standalone H1. Not a byte-for-byte platform HTML snapshot.",
+  "source_markdown_sha256": "32f248c0f87cab7c88ab67c53711e2fc95ab9da848eb6862e21a65fdda67f44e",
+  "archived_markdown_sha256": "b4890a5cd5347d68f7b5f155e30c8c71f952293695f9d8f536329528c34ee873",
+  "source_payload_sha256": "65ee70a538991888d82f005dc311b70a4309138885661a7713e09c8122d824c7",
+  "human_acceptance": null,
+  "public_review_status": "PUBLIC_REVIEW_APPROVED_SOURCE_ONLY_PENDING_VISUAL_ACCEPTANCE",
+  "accepted_exceptions": [
+    {
+      "item": "image-transport",
+      "disposition": "owner-reported-cover-only",
+      "difference": "Only cover image is required on Hashnode; additional archived source images are not claimed as public inline images."
+    }
+  ],
+  "public_gate": null,
+  "public_image_loading_observation": null,
+  "robots_observation": null,
+  "directory": "en/hashnode"
+}

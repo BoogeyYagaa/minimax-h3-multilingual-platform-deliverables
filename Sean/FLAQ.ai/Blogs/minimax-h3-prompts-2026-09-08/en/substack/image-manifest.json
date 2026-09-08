@@ -1,0 +1,29 @@
+{
+  "images": [
+    {
+      "file": "01-lead-scenario-selection.png",
+      "alt": "A creator chooses one blank card from an orderly library of unmarked cards in a quiet studio.",
+      "role": "LEAD",
+      "width": 1664,
+      "height": 936,
+      "sha256": "35fd879ebc1331127012aafdbf050f2a06f9f36cb93691a96765ba8c67683fea"
+    },
+    {
+      "file": "02-middle-scenario-matching.png",
+      "alt": "Hands arrange blank selection cards below five distinct visual scenario photographs on a corkboard.",
+      "role": "MIDDLE",
+      "width": 1664,
+      "height": 936,
+      "sha256": "1b64edbcbd7a4d787c005c66ac62ff53961054c957c69e573c312089542097b6"
+    },
+    {
+      "file": "03-closing-responsible-next-step.png",
+      "alt": "An open blank notebook and a closed archive box rest on a sunlit studio desk, suggesting a considered next step.",
+      "role": "CLOSING",
+      "width": 1664,
+      "height": 936,
+      "sha256": "e8dd69f29f103fbe19c29d81087fa6e2286a8fb79d87ac13500b1e34aa7af3df"
+    }
+  ],
+  "scope": "Reviewed source assets; captions remain adjacent in article.md."
+}

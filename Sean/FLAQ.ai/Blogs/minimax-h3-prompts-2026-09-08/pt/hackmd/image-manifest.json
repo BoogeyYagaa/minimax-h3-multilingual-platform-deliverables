@@ -1,0 +1,29 @@
+{
+  "images": [
+    {
+      "file": "01-lead-storyboard-hackmd.jpg",
+      "alt": "Esquema editorial de um storyboard com primeiro quadro, movimento e quadro final",
+      "role": "LEAD",
+      "width": 1600,
+      "height": 900,
+      "sha256": "435d374461e70a1ab8724d72e5a70d19bfd72ee55b2ad591d7e83e9e2c40ae1d"
+    },
+    {
+      "file": "02-middle-prompt-brief-hackmd.jpg",
+      "alt": "Ilustração editorial de uma ficha de prompt dividida em referência, ação, câmera e continuidade",
+      "role": "MIDDLE",
+      "width": 1600,
+      "height": 900,
+      "sha256": "374ada43184dccb54e7bf8daed8e0544bdd1b65ed491bf2981c8356f13632186"
+    },
+    {
+      "file": "03-closing-review-hackmd.jpg",
+      "alt": "Ilustração editorial de uma pessoa revisando uma sequência curta e um checklist de continuidade",
+      "role": "CLOSING",
+      "width": 1600,
+      "height": 900,
+      "sha256": "140a6aba130c0d1390153f679c3ae7b163602056125a9d74dc2390cfa61113c1"
+    }
+  ],
+  "scope": "Reviewed source assets; captions remain adjacent in article.md."
+}

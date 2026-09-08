@@ -1,0 +1,21 @@
+{
+  "article_id": "TH-01",
+  "brand": "FLAQ",
+  "topic": "MiniMax H3 image-to-video prompts",
+  "language": "th",
+  "platform": "Blogger",
+  "public_url": "https://flaq-ai.blogspot.com/2026/09/minimax-h3.html",
+  "archived_at": "2026-09-08T08:29:52.511723+00:00",
+  "classification": "public-render-reviewed",
+  "archive_content": "Reviewed article source with portable local image paths and a standalone H1. Not a byte-for-byte platform HTML snapshot.",
+  "source_markdown_sha256": "e56df4afac469c7eb360b6367b3aa1b72a303958cbc93f3b0756ecd544f18249",
+  "archived_markdown_sha256": "17412c66b10818026cb3325a22b6f16af9628778ad03a5b7f4f76104834314ca",
+  "source_payload_sha256": "03d0bfdd9901b9c4c913a9267b0277155682f430579e3c7c89d65695f002d8e5",
+  "human_acceptance": null,
+  "public_review_status": "PUBLIC_REVIEW_APPROVED_PENDING_HUMAN_ACCEPTANCE",
+  "accepted_exceptions": [],
+  "public_gate": null,
+  "public_image_loading_observation": "THREE_LOADED",
+  "robots_observation": null,
+  "directory": "th/blogger"
+}

@@ -5,7 +5,15 @@
 
 # MiniMax H3 Multilingual Platform Deliverables
 
-This public repository contains the verified `published.*` mirrors for seven live MiniMax H3 platform posts, plus metadata and assets for one paused locale.
+## FLAQ campaign — 2026-09-08
+
+[Browse the FLAQ MiniMax H3 prompts archive](./Sean/FLAQ.ai/Blogs/minimax-h3-prompts-2026-09-08/): **9 articles, 7 languages, 9 platforms**, with 27 reviewed source images, Markdown/HTML, ALT, TAGS, SEO description and publication records. Files are classified by brand, campaign, language and platform. This campaign directory is an exact copy of the [team repository archive](https://github.com/flaqai/backlink_work/tree/main/Sean/FLAQ.ai/Blogs/minimax-h3-prompts-2026-09-08).
+
+These are reviewed source packages linked to owner-returned public URLs. Recorded source findings, platform limitations and owner waivers remain distinct from final public QA. The three routes without returned links (note, Velog and FLAQ Tumblr) are excluded.
+
+## Earlier BestImage campaign — August 2026
+
+The earlier BestImage campaign contains the verified `published.*` mirrors for seven live MiniMax H3 platform posts, plus metadata and assets for one paused locale.
 
 Campaign SEO update (2026-08-24): every retained published mirror has a MiniMax H3 title/H1, multiple natural keyword headings, and one exact `Affordable MiniMax H3 API` anchor. Six public pages have been updated; Dreamwidth remains on the older public copy because its edit endpoint returns `403 Denied`.
 
@@ -50,7 +58,7 @@ Published platform directories also include a `publication-record.md` file with 
 ## Publication safeguards
 
 - Each retained published mirror records the final disclosed-link configuration used for its platform.
-- No original `article*` platform body remains in the repository; `published.*` is the sole retained body-copy namespace.
+- No original `article*` platform body remains in the earlier BestImage campaign; `published.*` is the sole retained body-copy namespace.
 - Guides.co confirmed receipt of the contribution request; publication remains blocked until an invitation is approved.
 - The DEV suspension appeal remains unresolved; the German article was instead published on Substack with its code examples explicitly marked as untested drafts and with technical-review limits disclosed.
 - The OverBlog article was published after its rights, sponsorship, advertising-material, and link checks were completed; future edits require the same review.

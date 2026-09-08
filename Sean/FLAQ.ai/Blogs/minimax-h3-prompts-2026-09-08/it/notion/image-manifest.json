@@ -1,0 +1,29 @@
+{
+  "images": [
+    {
+      "file": "01-lead-reference-planning.png",
+      "alt": "Bacheca editoriale con una fotografia costiera senza marchi, uno schizzo di movimento e strumenti analogici per pianificare una sequenza",
+      "role": "LEAD",
+      "width": 1664,
+      "height": 936,
+      "sha256": "252a89a5e6300414ac1d2a5d9d8311aee9655d744892f40d9ab61224234de68b"
+    },
+    {
+      "file": "02-middle-motion-continuity.png",
+      "alt": "Sequenza editoriale di sei fotogrammi con una bicicletta arancione, collegati per mostrare azione, camera e continuità",
+      "role": "MIDDLE",
+      "width": 1664,
+      "height": 936,
+      "sha256": "494faecdc6ff386882840e43d0565ae581b1b96606e8690c8ac4cb6d75868760"
+    },
+    {
+      "file": "03-closing-continuity-check.png",
+      "alt": "Tre fotogrammi trasparenti con lo stesso aquilone rosso e una lente d’ingrandimento, metafora di una verifica di continuità",
+      "role": "CLOSING",
+      "width": 1664,
+      "height": 936,
+      "sha256": "f37d8ee95b86da083fbba5afd711d8b3818343658cc8e9c6678a8188530751ea"
+    }
+  ],
+  "scope": "Reviewed source assets; captions remain adjacent in article.md."
+}

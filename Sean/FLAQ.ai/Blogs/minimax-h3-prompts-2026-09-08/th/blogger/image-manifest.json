@@ -1,0 +1,29 @@
+{
+  "images": [
+    {
+      "file": "minimax-h3-prompt-storyboard-lead-16x9.jpg",
+      "alt": "ภาพประกอบบรรณาธิการของการวางลำดับภาพเริ่มต้น การเคลื่อนไหว และภาพปลายทาง",
+      "role": "LEAD",
+      "width": 1664,
+      "height": 936,
+      "sha256": "94bf70acfb3399366c4792ba875f3fec09717d943f91ed9448cec3d684e3f3f2"
+    },
+    {
+      "file": "minimax-h3-endpoint-boundary-middle-16x9.jpg",
+      "alt": "คอลลาจบรรณาธิการของภาพเริ่มต้น ภาพสิ้นสุด และวัสดุแนวคิดที่แยกออกจากกัน",
+      "role": "MIDDLE",
+      "width": 1664,
+      "height": 936,
+      "sha256": "c2cb321684e5fbbdeb749e0e3f4cd2200be71162aaacc3ea13fec01f59a913a0"
+    },
+    {
+      "file": "minimax-h3-prompt-continuity-closing-16x9.jpg",
+      "alt": "ภาพประกอบบรรณาธิการของฉากกระดาษพร้อมเส้นทางกล้อง กรอบภาพ และจังหวะเวลา",
+      "role": "CLOSING",
+      "width": 1664,
+      "height": 936,
+      "sha256": "2ed287f8b728d5afd22187feec18121570eb8fb2e7cf9361dff28710cef0aa28"
+    }
+  ],
+  "scope": "Reviewed source assets; captions remain adjacent in article.md."
+}

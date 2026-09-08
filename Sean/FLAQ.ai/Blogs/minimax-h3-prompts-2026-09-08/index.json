@@ -1,0 +1,240 @@
+{
+  "brand": "FLAQ",
+  "campaign": "minimax-h3-prompts-2026-09-08",
+  "article_count": 9,
+  "language_count": 7,
+  "platform_count": 9,
+  "records": [
+    {
+      "article_id": "EN-02",
+      "brand": "FLAQ",
+      "topic": "MiniMax H3 image-to-video prompts",
+      "language": "en",
+      "platform": "Medium",
+      "public_url": "https://medium.com/@beisselcolbath/from-one-reference-image-to-a-minimax-h3-prompt-a-calm-anatomy-for-motion-ee5d67fc4fe4",
+      "archived_at": "2026-09-08T08:29:52.511723+00:00",
+      "classification": "owner-accepted-platform-limitation",
+      "archive_content": "Reviewed article source with portable local image paths and a standalone H1. Not a byte-for-byte platform HTML snapshot.",
+      "source_markdown_sha256": "908c4ce69d2e8bd12d4a344a678163fad56336b44dee7f17203a7c0db37ad4ef",
+      "archived_markdown_sha256": "8c0deb2d6975836a3bec7501c57827cdc5e6307e74b809019267de240d2a19ae",
+      "source_payload_sha256": "0abe115c482f00aec2e05c20bfb63b89c3e5076dceb840182bbd1b364f9ff33f",
+      "human_acceptance": null,
+      "public_review_status": "OWNER_ACCEPTED_PLATFORM_LIMITATION_NO_PENDING_REPAIR",
+      "accepted_exceptions": [
+        {
+          "item": "PUBLIC-RENDER-003",
+          "disposition": "accepted-platform-limitation",
+          "difference": "Public description and og:description differ from supplied SEO description"
+        }
+      ],
+      "public_gate": null,
+      "public_image_loading_observation": "THREE_LOADED",
+      "robots_observation": null,
+      "directory": "en/medium"
+    },
+    {
+      "article_id": "EN-03",
+      "brand": "FLAQ",
+      "topic": "MiniMax H3 image-to-video prompts",
+      "language": "en",
+      "platform": "Substack",
+      "public_url": "https://flaqai.substack.com/p/how-to-select-a-minimax-h3-prompt",
+      "archived_at": "2026-09-08T08:29:52.511723+00:00",
+      "classification": "source-compared-visual-acceptance-pending",
+      "archive_content": "Reviewed article source with portable local image paths and a standalone H1. Not a byte-for-byte platform HTML snapshot.",
+      "source_markdown_sha256": "28dbf55cb22e2eaf500fc0d7eb5fef83bab76c8bb952a9457f9b76a65b2898a3",
+      "archived_markdown_sha256": "1139e5f3b39d8164285d46bf6610e4ccfbae3e92f9f3aaebd6115c17f9b268ce",
+      "source_payload_sha256": "8f6f2ab359e524493a5a424340120bf908ca01dac200cfdaff1b51dfafcf5f9c",
+      "human_acceptance": null,
+      "public_review_status": "PUBLIC_REVIEW_PENDING_HUMAN_ACCEPTANCE",
+      "accepted_exceptions": [],
+      "public_gate": null,
+      "public_image_loading_observation": null,
+      "robots_observation": null,
+      "directory": "en/substack"
+    },
+    {
+      "article_id": "EN-04",
+      "brand": "FLAQ",
+      "topic": "MiniMax H3 image-to-video prompts",
+      "language": "en",
+      "platform": "Hashnode",
+      "public_url": "https://flaq-ai-lab.hashnode.dev/minimax-h3-image-to-video-prompt-checklist-for-reference-led-action",
+      "archived_at": "2026-09-08T08:29:52.511723+00:00",
+      "classification": "source-compared-visual-acceptance-pending",
+      "archive_content": "Reviewed article source with portable local image paths and a standalone H1. Not a byte-for-byte platform HTML snapshot.",
+      "source_markdown_sha256": "32f248c0f87cab7c88ab67c53711e2fc95ab9da848eb6862e21a65fdda67f44e",
+      "archived_markdown_sha256": "b4890a5cd5347d68f7b5f155e30c8c71f952293695f9d8f536329528c34ee873",
+      "source_payload_sha256": "65ee70a538991888d82f005dc311b70a4309138885661a7713e09c8122d824c7",
+      "human_acceptance": null,
+      "public_review_status": "PUBLIC_REVIEW_APPROVED_SOURCE_ONLY_PENDING_VISUAL_ACCEPTANCE",
+      "accepted_exceptions": [
+        {
+          "item": "image-transport",
+          "disposition": "owner-reported-cover-only",
+          "difference": "Only cover image is required on Hashnode; additional archived source images are not claimed as public inline images."
+        }
+      ],
+      "public_gate": null,
+      "public_image_loading_observation": null,
+      "robots_observation": null,
+      "directory": "en/hashnode"
+    },
+    {
+      "article_id": "AR-01",
+      "brand": "FLAQ",
+      "topic": "MiniMax H3 image-to-video prompts",
+      "language": "ar",
+      "platform": "Google Sites",
+      "public_url": "https://sites.google.com/view/minimaxh3flaq/home",
+      "archived_at": "2026-09-08T08:35:45.634770+00:00",
+      "classification": "source-compared-differences-recorded",
+      "archive_content": "Reviewed article source with portable local image paths and a standalone H1. Not a byte-for-byte platform HTML snapshot.",
+      "source_markdown_sha256": "2bb1e85e1f60acf9cb1646c6fe15048e5168512c466a111dfbadbdd7e0bed4eb",
+      "archived_markdown_sha256": "39aff2fc17f7e04c134d9221d663c289d560aed05f0b6b64d2a26f9766f4998a",
+      "source_payload_sha256": "bdcb67eb0fb0df52a96cfe70bdabb846dd9ba360995792efc2c8697bf5e6d972",
+      "human_acceptance": null,
+      "public_review_status": "SOURCE_ONLY_CHANGES_REQUIRED",
+      "accepted_exceptions": [],
+      "public_gate": null,
+      "public_image_loading_observation": null,
+      "robots_observation": null,
+      "directory": "ar/google-sites",
+      "source_findings": [
+        {
+          "finding_id": "SOURCE-LOCALE-TRANSPORT-001",
+          "status": "OPEN",
+          "observed_difference": "Public HTML lang=en-US and body dir=ltr; reviewed Arabic source uses lang=ar and dir=rtl."
+        },
+        {
+          "finding_id": "SOURCE-CONTENT-PARITY-001",
+          "status": "OPEN",
+          "observed_difference": "Lead image caption is missing its terminal full stop."
+        }
+      ]
+    },
+    {
+      "article_id": "DE-01",
+      "brand": "FLAQ",
+      "topic": "MiniMax H3 image-to-video prompts",
+      "language": "de",
+      "platform": "WordPress.com",
+      "public_url": "https://flaqai5.wordpress.com/2026/09/08/minimax-h3-bild-zu-video-prompts-referenzbilder-in-einen-prufbaren-workflow-ubersetzen/",
+      "archived_at": "2026-09-08T08:29:52.511723+00:00",
+      "classification": "source-compared-visual-acceptance-pending",
+      "archive_content": "Reviewed article source with portable local image paths and a standalone H1. Not a byte-for-byte platform HTML snapshot.",
+      "source_markdown_sha256": "d2f8816735517bbb7cf48d2d90de6e1129b9aa944aae51d9137fc9aa21e2e744",
+      "archived_markdown_sha256": "27e225c87f9d81b77ffab24d85c2f523b8ceb9656e8bf0d847784be4f60e24e8",
+      "source_payload_sha256": "0fd70b648c791148a9e4a9c51b711e6f7dab4beb2fdc228ed2afca1cea2960d1",
+      "human_acceptance": null,
+      "public_review_status": "PUBLIC_REVIEW_PENDING_HUMAN_ACCEPTANCE",
+      "accepted_exceptions": [],
+      "public_gate": null,
+      "public_image_loading_observation": null,
+      "robots_observation": null,
+      "directory": "de/wordpress-com"
+    },
+    {
+      "article_id": "IT-01",
+      "brand": "FLAQ",
+      "topic": "MiniMax H3 image-to-video prompts",
+      "language": "it",
+      "platform": "Notion",
+      "public_url": "https://olive-nova-b83.notion.site/Prompt-per-MiniMax-H3-immagine-video-progettare-riferimenti-azione-e-controlli-3d561877bb0f803e8b8efd86916f0498",
+      "archived_at": "2026-09-08T08:29:52.511723+00:00",
+      "classification": "owner-accepted-platform-limitation",
+      "archive_content": "Reviewed article source with portable local image paths and a standalone H1. Not a byte-for-byte platform HTML snapshot.",
+      "source_markdown_sha256": "dd0a52cd5a512a448ba0318f598a98048d79940c0d11c54bc66440337297b600",
+      "archived_markdown_sha256": "b815d96ef395bb5d3cd8da31e14c811be367aad9cef4d3397dc90e317fcff47c",
+      "source_payload_sha256": "d0c1264a8085512cad4fa5cc7cf3f1d72adb50843f5946eccf9d875fc916e232",
+      "human_acceptance": null,
+      "public_review_status": "OWNER_ACCEPTED_PLATFORM_LIMITATION_NO_PENDING_REPAIR",
+      "accepted_exceptions": [
+        {
+          "item": "PUBLIC-HEADING-001",
+          "disposition": "accepted-platform-limitation",
+          "difference": "Six primary and five numbered headings currently render as H3"
+        }
+      ],
+      "public_gate": null,
+      "public_image_loading_observation": "THREE_LOADED",
+      "robots_observation": null,
+      "directory": "it/notion"
+    },
+    {
+      "article_id": "PT-01",
+      "brand": "FLAQ",
+      "topic": "MiniMax H3 image-to-video prompts",
+      "language": "pt",
+      "platform": "HackMD",
+      "public_url": "https://hackmd.io/@FLAQ-AI/Bkc_h7TuGe",
+      "archived_at": "2026-09-08T08:29:52.511723+00:00",
+      "classification": "human-accepted-with-waiver",
+      "archive_content": "Reviewed article source with portable local image paths and a standalone H1. Not a byte-for-byte platform HTML snapshot.",
+      "source_markdown_sha256": "02cb482aa24b3260570c7ae9c85998e3508cee51c7872a7940387bc3c35c1aef",
+      "archived_markdown_sha256": "132959d57385b6102d45567cea5e3b935213b9711266c2ccde5b48b1aa84159d",
+      "source_payload_sha256": "20921ae033d626b45ce10e34dc8780658b41b3aaabfd8ae9a64bfcf46d9d3899",
+      "human_acceptance": "HUMAN_ACCEPTED",
+      "public_review_status": "HUMAN_ACCEPTED_WITH_OWNER_WAIVER",
+      "accepted_exceptions": [
+        {
+          "item": "PUBLIC-RENDER-002",
+          "disposition": "human-accepted-with-waiver",
+          "difference": "Image loading evidence gap"
+        }
+      ],
+      "public_gate": null,
+      "public_image_loading_observation": null,
+      "robots_observation": "noindex, nofollow",
+      "directory": "pt/hackmd"
+    },
+    {
+      "article_id": "TH-01",
+      "brand": "FLAQ",
+      "topic": "MiniMax H3 image-to-video prompts",
+      "language": "th",
+      "platform": "Blogger",
+      "public_url": "https://flaq-ai.blogspot.com/2026/09/minimax-h3.html",
+      "archived_at": "2026-09-08T08:29:52.511723+00:00",
+      "classification": "public-render-reviewed",
+      "archive_content": "Reviewed article source with portable local image paths and a standalone H1. Not a byte-for-byte platform HTML snapshot.",
+      "source_markdown_sha256": "e56df4afac469c7eb360b6367b3aa1b72a303958cbc93f3b0756ecd544f18249",
+      "archived_markdown_sha256": "17412c66b10818026cb3325a22b6f16af9628778ad03a5b7f4f76104834314ca",
+      "source_payload_sha256": "03d0bfdd9901b9c4c913a9267b0277155682f430579e3c7c89d65695f002d8e5",
+      "human_acceptance": null,
+      "public_review_status": "PUBLIC_REVIEW_APPROVED_PENDING_HUMAN_ACCEPTANCE",
+      "accepted_exceptions": [],
+      "public_gate": null,
+      "public_image_loading_observation": "THREE_LOADED",
+      "robots_observation": null,
+      "directory": "th/blogger"
+    },
+    {
+      "article_id": "RU-01",
+      "brand": "FLAQ",
+      "topic": "MiniMax H3 image-to-video prompts",
+      "language": "ru",
+      "platform": "vc.ru",
+      "public_url": "https://vc.ru/id6104458/3126436-prompty-minimax-h3-dlya-preobrazovaniya-izobrazheniya-v-video",
+      "archived_at": "2026-09-08T08:29:52.511723+00:00",
+      "classification": "human-accepted-with-waiver",
+      "archive_content": "Reviewed article source with portable local image paths and a standalone H1. Not a byte-for-byte platform HTML snapshot.",
+      "source_markdown_sha256": "d62ffe50cd577a0678c959d955d24d1276e4d7ec0aaa9dbfd022611582ab6936",
+      "archived_markdown_sha256": "f96c13e6e4f397610a3d51ceee039ecd31639871cf638aa5bb04f885e965b759",
+      "source_payload_sha256": "58f55d2efbbb333071cf14646b2f806ea160748b148c8fa75a720b14a9fee81c",
+      "human_acceptance": "HUMAN_ACCEPTED",
+      "public_review_status": "HUMAN_ACCEPTED_WITH_OWNER_WAIVER",
+      "accepted_exceptions": [
+        {
+          "item": "PUBLIC-RENDER-001",
+          "disposition": "human-accepted-with-waiver",
+          "difference": "Published ALT differs from approved ALT"
+        }
+      ],
+      "public_gate": null,
+      "public_image_loading_observation": "THREE_LOADED",
+      "robots_observation": "noindex",
+      "directory": "ru/vc-ru"
+    }
+  ]
+}

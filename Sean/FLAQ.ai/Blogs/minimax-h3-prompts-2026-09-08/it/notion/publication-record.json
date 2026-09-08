@@ -1,0 +1,27 @@
+{
+  "article_id": "IT-01",
+  "brand": "FLAQ",
+  "topic": "MiniMax H3 image-to-video prompts",
+  "language": "it",
+  "platform": "Notion",
+  "public_url": "https://olive-nova-b83.notion.site/Prompt-per-MiniMax-H3-immagine-video-progettare-riferimenti-azione-e-controlli-3d561877bb0f803e8b8efd86916f0498",
+  "archived_at": "2026-09-08T08:29:52.511723+00:00",
+  "classification": "owner-accepted-platform-limitation",
+  "archive_content": "Reviewed article source with portable local image paths and a standalone H1. Not a byte-for-byte platform HTML snapshot.",
+  "source_markdown_sha256": "dd0a52cd5a512a448ba0318f598a98048d79940c0d11c54bc66440337297b600",
+  "archived_markdown_sha256": "b815d96ef395bb5d3cd8da31e14c811be367aad9cef4d3397dc90e317fcff47c",
+  "source_payload_sha256": "d0c1264a8085512cad4fa5cc7cf3f1d72adb50843f5946eccf9d875fc916e232",
+  "human_acceptance": null,
+  "public_review_status": "OWNER_ACCEPTED_PLATFORM_LIMITATION_NO_PENDING_REPAIR",
+  "accepted_exceptions": [
+    {
+      "item": "PUBLIC-HEADING-001",
+      "disposition": "accepted-platform-limitation",
+      "difference": "Six primary and five numbered headings currently render as H3"
+    }
+  ],
+  "public_gate": null,
+  "public_image_loading_observation": "THREE_LOADED",
+  "robots_observation": null,
+  "directory": "it/notion"
+}

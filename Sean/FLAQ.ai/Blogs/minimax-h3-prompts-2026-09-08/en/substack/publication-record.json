@@ -1,0 +1,21 @@
+{
+  "article_id": "EN-03",
+  "brand": "FLAQ",
+  "topic": "MiniMax H3 image-to-video prompts",
+  "language": "en",
+  "platform": "Substack",
+  "public_url": "https://flaqai.substack.com/p/how-to-select-a-minimax-h3-prompt",
+  "archived_at": "2026-09-08T08:29:52.511723+00:00",
+  "classification": "source-compared-visual-acceptance-pending",
+  "archive_content": "Reviewed article source with portable local image paths and a standalone H1. Not a byte-for-byte platform HTML snapshot.",
+  "source_markdown_sha256": "28dbf55cb22e2eaf500fc0d7eb5fef83bab76c8bb952a9457f9b76a65b2898a3",
+  "archived_markdown_sha256": "1139e5f3b39d8164285d46bf6610e4ccfbae3e92f9f3aaebd6115c17f9b268ce",
+  "source_payload_sha256": "8f6f2ab359e524493a5a424340120bf908ca01dac200cfdaff1b51dfafcf5f9c",
+  "human_acceptance": null,
+  "public_review_status": "PUBLIC_REVIEW_PENDING_HUMAN_ACCEPTANCE",
+  "accepted_exceptions": [],
+  "public_gate": null,
+  "public_image_loading_observation": null,
+  "robots_observation": null,
+  "directory": "en/substack"
+}

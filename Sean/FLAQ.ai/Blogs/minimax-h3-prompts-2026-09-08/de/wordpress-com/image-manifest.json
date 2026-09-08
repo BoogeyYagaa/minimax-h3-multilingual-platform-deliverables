@@ -1,0 +1,29 @@
+{
+  "images": [
+    {
+      "file": "lead-reference-motion-plan.png",
+      "alt": "Eine Person überträgt ein unbeschriftetes Referenzbild und eine Bewegungsfolge in einen Papierplan.",
+      "role": "LEAD",
+      "width": 1664,
+      "height": 936,
+      "sha256": "d8b48e6880814f8aca46157dcb4bafca6310a4fbbd5ade9337fdfbac141c3629"
+    },
+    {
+      "file": "middle-layered-prompt-continuity.png",
+      "alt": "Papierstreifen ordnen Motiv, Bewegung, Kamera und Kontinuität in einem überprüfbaren Prompt-Plan.",
+      "role": "MIDDLE",
+      "width": 1664,
+      "height": 936,
+      "sha256": "171bc185f807885329747032dfd01067e00ad725edbd81a73ce1800d2cef905e"
+    },
+    {
+      "file": "closing-output-check.png",
+      "alt": "Eine Person prüft mit einer neutralen Checkliste Bewegung, Kontinuität und Schlussbild.",
+      "role": "CLOSING",
+      "width": 1664,
+      "height": 936,
+      "sha256": "7e78a8a5d90620155f2d1cd77a91a12ae74b7d93785388eb5f4f3055e0fe8c32"
+    }
+  ],
+  "scope": "Reviewed source assets; captions remain adjacent in article.md."
+}

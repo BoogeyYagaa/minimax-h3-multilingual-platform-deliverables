@@ -5,7 +5,15 @@
 
 # MiniMax H3 多语言平台交付物
 
-本公开仓库保留七篇已上线 MiniMax H3 平台文章的 `published.*` 镜像，以及一个暂停 Locale 的元数据和图片。
+## FLAQ 项目 — 2026-09-08
+
+[查看 FLAQ MiniMax H3 prompts 分类归档](./Sean/FLAQ.ai/Blogs/minimax-h3-prompts-2026-09-08/)：**9 篇、7 种语言、9 个平台**，包含 27 张审定源图、Markdown/HTML、ALT、TAGS、SEO description 与发布记录。按品牌／项目／语言／平台分类，项目目录与[团队仓库归档](https://github.com/flaqai/backlink_work/tree/main/Sean/FLAQ.ai/Blogs/minimax-h3-prompts-2026-09-08)逐文件一致。
+
+归档保存已有用户回传公开链接的审定源稿；源码差异、平台限制、用户豁免与最终公开验收分别记录。尚无回传链接的 note、Velog、FLAQ Tumblr 三条路线未纳入。
+
+## 历史 BestImage 项目 — 2026 年 8 月
+
+历史 BestImage 项目保留七篇已上线 MiniMax H3 平台文章的 `published.*` 镜像，以及一个暂停 Locale 的元数据和图片。
 
 Campaign SEO 更新（2026年8月24日）：每份 retained published mirror 的标题/H1 均含 MiniMax H3，正文包含多个自然关键词标题，并统一保留一次精确锚文本 `Affordable MiniMax H3 API`。其中 6 个公开页面已更新；Dreamwidth 编辑端持续返回 `403 Denied`，线上仍是旧稿。
 
@@ -50,7 +58,7 @@ Medium 内容包另外包含 published-copy Word 文档和三张章节配图。
 ## 发布前的安全门槛
 
 - 每份保留的 published mirror 均记录相应平台最终采用的披露与链接配置。
-- 仓库内不再保留任何原始 `article*` 平台正文；`published.*` 是唯一正文命名空间。
+- 历史 BestImage 项目内不再保留任何原始 `article*` 平台正文；`published.*` 是唯一正文命名空间。
 - Guides.co 已确认收到贡献申请；获得邀请与发布权限前仍保持暂停。
 - DEV 账号暂停申诉仍未解决；德文稿已改投 Substack，并在正文中明确标注代码示例未经实际账号执行及人工技术复核边界。
 - OverBlog 文章已在完成内容权利、赞助关系、广告素材和外部链接检查后发布；后续修改仍须执行同样的复核。

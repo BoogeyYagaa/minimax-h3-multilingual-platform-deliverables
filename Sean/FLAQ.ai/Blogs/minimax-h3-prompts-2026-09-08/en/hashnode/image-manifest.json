@@ -1,0 +1,29 @@
+{
+  "images": [
+    {
+      "file": "01-lead-reference-action-plan.png",
+      "alt": "A printed bicycle reference, three unmarked motion cards, and hands planning on a wooden table.",
+      "role": "LEAD",
+      "width": 1664,
+      "height": 936,
+      "sha256": "6e0e992f10174e6f9aff2dff0b6b536c2561e0ab41f40e7b2684d77ece5db2df"
+    },
+    {
+      "file": "02-middle-action-constraint-check.png",
+      "alt": "A hand moving an unbranded ceramic mug along a simple path beside a printed reference photograph.",
+      "role": "MIDDLE",
+      "width": 1664,
+      "height": 936,
+      "sha256": "1ed7c5919a6b4a3b86e6d95c81437a0abaa1be3a7a2bc831c5829654b4728a68"
+    },
+    {
+      "file": "03-closing-plan-boundary.png",
+      "alt": "Three unmarked still-life image cards beside a closing kraft-paper folder on a warm studio desk.",
+      "role": "CLOSING",
+      "width": 1664,
+      "height": 936,
+      "sha256": "5afd3a9fa44a97f45ecff7725686ca10b95eee433c1224d62b02d0599d594a6b"
+    }
+  ],
+  "scope": "Reviewed source assets; captions remain adjacent in article.md. Hashnode uses cover-only publication for this campaign."
+}

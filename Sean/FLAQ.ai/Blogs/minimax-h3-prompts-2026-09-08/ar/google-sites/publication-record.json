@@ -1,0 +1,33 @@
+{
+  "article_id": "AR-01",
+  "brand": "FLAQ",
+  "topic": "MiniMax H3 image-to-video prompts",
+  "language": "ar",
+  "platform": "Google Sites",
+  "public_url": "https://sites.google.com/view/minimaxh3flaq/home",
+  "archived_at": "2026-09-08T08:35:45.634770+00:00",
+  "classification": "source-compared-differences-recorded",
+  "archive_content": "Reviewed article source with portable local image paths and a standalone H1. Not a byte-for-byte platform HTML snapshot.",
+  "source_markdown_sha256": "2bb1e85e1f60acf9cb1646c6fe15048e5168512c466a111dfbadbdd7e0bed4eb",
+  "archived_markdown_sha256": "39aff2fc17f7e04c134d9221d663c289d560aed05f0b6b64d2a26f9766f4998a",
+  "source_payload_sha256": "bdcb67eb0fb0df52a96cfe70bdabb846dd9ba360995792efc2c8697bf5e6d972",
+  "human_acceptance": null,
+  "public_review_status": "SOURCE_ONLY_CHANGES_REQUIRED",
+  "accepted_exceptions": [],
+  "public_gate": null,
+  "public_image_loading_observation": null,
+  "robots_observation": null,
+  "directory": "ar/google-sites",
+  "source_findings": [
+    {
+      "finding_id": "SOURCE-LOCALE-TRANSPORT-001",
+      "status": "OPEN",
+      "observed_difference": "Public HTML lang=en-US and body dir=ltr; reviewed Arabic source uses lang=ar and dir=rtl."
+    },
+    {
+      "finding_id": "SOURCE-CONTENT-PARITY-001",
+      "status": "OPEN",
+      "observed_difference": "Lead image caption is missing its terminal full stop."
+    }
+  ]
+}

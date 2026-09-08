@@ -1,0 +1,21 @@
+{
+  "article_id": "DE-01",
+  "brand": "FLAQ",
+  "topic": "MiniMax H3 image-to-video prompts",
+  "language": "de",
+  "platform": "WordPress.com",
+  "public_url": "https://flaqai5.wordpress.com/2026/09/08/minimax-h3-bild-zu-video-prompts-referenzbilder-in-einen-prufbaren-workflow-ubersetzen/",
+  "archived_at": "2026-09-08T08:29:52.511723+00:00",
+  "classification": "source-compared-visual-acceptance-pending",
+  "archive_content": "Reviewed article source with portable local image paths and a standalone H1. Not a byte-for-byte platform HTML snapshot.",
+  "source_markdown_sha256": "d2f8816735517bbb7cf48d2d90de6e1129b9aa944aae51d9137fc9aa21e2e744",
+  "archived_markdown_sha256": "27e225c87f9d81b77ffab24d85c2f523b8ceb9656e8bf0d847784be4f60e24e8",
+  "source_payload_sha256": "0fd70b648c791148a9e4a9c51b711e6f7dab4beb2fdc228ed2afca1cea2960d1",
+  "human_acceptance": null,
+  "public_review_status": "PUBLIC_REVIEW_PENDING_HUMAN_ACCEPTANCE",
+  "accepted_exceptions": [],
+  "public_gate": null,
+  "public_image_loading_observation": null,
+  "robots_observation": null,
+  "directory": "de/wordpress-com"
+}

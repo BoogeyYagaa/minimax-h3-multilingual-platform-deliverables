@@ -1,0 +1,27 @@
+{
+  "article_id": "PT-01",
+  "brand": "FLAQ",
+  "topic": "MiniMax H3 image-to-video prompts",
+  "language": "pt",
+  "platform": "HackMD",
+  "public_url": "https://hackmd.io/@FLAQ-AI/Bkc_h7TuGe",
+  "archived_at": "2026-09-08T08:29:52.511723+00:00",
+  "classification": "human-accepted-with-waiver",
+  "archive_content": "Reviewed article source with portable local image paths and a standalone H1. Not a byte-for-byte platform HTML snapshot.",
+  "source_markdown_sha256": "02cb482aa24b3260570c7ae9c85998e3508cee51c7872a7940387bc3c35c1aef",
+  "archived_markdown_sha256": "132959d57385b6102d45567cea5e3b935213b9711266c2ccde5b48b1aa84159d",
+  "source_payload_sha256": "20921ae033d626b45ce10e34dc8780658b41b3aaabfd8ae9a64bfcf46d9d3899",
+  "human_acceptance": "HUMAN_ACCEPTED",
+  "public_review_status": "HUMAN_ACCEPTED_WITH_OWNER_WAIVER",
+  "accepted_exceptions": [
+    {
+      "item": "PUBLIC-RENDER-002",
+      "disposition": "human-accepted-with-waiver",
+      "difference": "Image loading evidence gap"
+    }
+  ],
+  "public_gate": null,
+  "public_image_loading_observation": null,
+  "robots_observation": "noindex, nofollow",
+  "directory": "pt/hackmd"
+}

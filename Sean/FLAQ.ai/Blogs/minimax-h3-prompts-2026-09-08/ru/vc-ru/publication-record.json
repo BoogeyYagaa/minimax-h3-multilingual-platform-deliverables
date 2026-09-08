@@ -1,0 +1,27 @@
+{
+  "article_id": "RU-01",
+  "brand": "FLAQ",
+  "topic": "MiniMax H3 image-to-video prompts",
+  "language": "ru",
+  "platform": "vc.ru",
+  "public_url": "https://vc.ru/id6104458/3126436-prompty-minimax-h3-dlya-preobrazovaniya-izobrazheniya-v-video",
+  "archived_at": "2026-09-08T08:29:52.511723+00:00",
+  "classification": "human-accepted-with-waiver",
+  "archive_content": "Reviewed article source with portable local image paths and a standalone H1. Not a byte-for-byte platform HTML snapshot.",
+  "source_markdown_sha256": "d62ffe50cd577a0678c959d955d24d1276e4d7ec0aaa9dbfd022611582ab6936",
+  "archived_markdown_sha256": "f96c13e6e4f397610a3d51ceee039ecd31639871cf638aa5bb04f885e965b759",
+  "source_payload_sha256": "58f55d2efbbb333071cf14646b2f806ea160748b148c8fa75a720b14a9fee81c",
+  "human_acceptance": "HUMAN_ACCEPTED",
+  "public_review_status": "HUMAN_ACCEPTED_WITH_OWNER_WAIVER",
+  "accepted_exceptions": [
+    {
+      "item": "PUBLIC-RENDER-001",
+      "disposition": "human-accepted-with-waiver",
+      "difference": "Published ALT differs from approved ALT"
+    }
+  ],
+  "public_gate": null,
+  "public_image_loading_observation": "THREE_LOADED",
+  "robots_observation": "noindex",
+  "directory": "ru/vc-ru"
+}

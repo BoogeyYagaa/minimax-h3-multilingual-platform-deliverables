@@ -1,0 +1,29 @@
+{
+  "images": [
+    {
+      "file": "lead-start-frame-decision.png",
+      "alt": "صانع محتوى يراجع صورة لقارب ورقي قبل اختيارها إطار بدء",
+      "role": "LEAD",
+      "width": 1600,
+      "height": 900,
+      "sha256": "5c6f7e4fae1c67fa1171188cc977f47bfdd594a30d23535d06a7897cdf3cd6d1"
+    },
+    {
+      "file": "middle-motion-plan.png",
+      "alt": "مسار مرسوم بين صورتين لقارب ورقي لتخطيط الحركة دون واجهة برنامج",
+      "role": "MIDDLE",
+      "width": 1600,
+      "height": 900,
+      "sha256": "fcfdd58f9a52be6c214e1793ce3cff34e4240ddabdbd336c4777cc5509d1c873"
+    },
+    {
+      "file": "closing-human-review.png",
+      "alt": "شخصان يراجعان تسلسل صور لقارب ورقي مع قائمة تحقق فارغة",
+      "role": "CLOSING",
+      "width": 1600,
+      "height": 900,
+      "sha256": "c01c9a9cbbba14bc4b9518c517e839255aa31124d18085557ebaf7d3de355368"
+    }
+  ],
+  "scope": "Reviewed source assets; captions remain adjacent in article.md."
+}

@@ -1,0 +1,27 @@
+{
+  "article_id": "EN-02",
+  "brand": "FLAQ",
+  "topic": "MiniMax H3 image-to-video prompts",
+  "language": "en",
+  "platform": "Medium",
+  "public_url": "https://medium.com/@beisselcolbath/from-one-reference-image-to-a-minimax-h3-prompt-a-calm-anatomy-for-motion-ee5d67fc4fe4",
+  "archived_at": "2026-09-08T08:29:52.511723+00:00",
+  "classification": "owner-accepted-platform-limitation",
+  "archive_content": "Reviewed article source with portable local image paths and a standalone H1. Not a byte-for-byte platform HTML snapshot.",
+  "source_markdown_sha256": "908c4ce69d2e8bd12d4a344a678163fad56336b44dee7f17203a7c0db37ad4ef",
+  "archived_markdown_sha256": "8c0deb2d6975836a3bec7501c57827cdc5e6307e74b809019267de240d2a19ae",
+  "source_payload_sha256": "0abe115c482f00aec2e05c20bfb63b89c3e5076dceb840182bbd1b364f9ff33f",
+  "human_acceptance": null,
+  "public_review_status": "OWNER_ACCEPTED_PLATFORM_LIMITATION_NO_PENDING_REPAIR",
+  "accepted_exceptions": [
+    {
+      "item": "PUBLIC-RENDER-003",
+      "disposition": "accepted-platform-limitation",
+      "difference": "Public description and og:description differ from supplied SEO description"
+    }
+  ],
+  "public_gate": null,
+  "public_image_loading_observation": "THREE_LOADED",
+  "robots_observation": null,
+  "directory": "en/medium"
+}

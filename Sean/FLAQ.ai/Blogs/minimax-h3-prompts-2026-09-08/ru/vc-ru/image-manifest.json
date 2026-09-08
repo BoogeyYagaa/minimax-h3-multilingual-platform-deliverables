@@ -1,0 +1,29 @@
+{
+  "images": [
+    {
+      "file": "01-lead-prompt-plan.png",
+      "alt": "Распечатанный пейзаж и три абстрактных эскиза движения на рабочем столе",
+      "role": "LEAD",
+      "width": 1664,
+      "height": 936,
+      "sha256": "b43567d6d433c62e690de857481156e6b7f50d78d148b3c77567a6cd2bb52fe9"
+    },
+    {
+      "file": "02-middle-shot-brief.png",
+      "alt": "Две пейзажные карточки и полоса эскизов движения для раскадровки",
+      "role": "MIDDLE",
+      "width": 1664,
+      "height": 936,
+      "sha256": "047606652856e5f5f3d14652b7dfb20d1d7f3686f952d1412cf3628ff7936bf0"
+    },
+    {
+      "file": "03-closing-review.png",
+      "alt": "Контактный лист с пейзажными кадрами и пустой чек-лист на столе",
+      "role": "CLOSING",
+      "width": 1664,
+      "height": 936,
+      "sha256": "57104dcf454ec9d900b4bf47022c2b4f76e3861f0e92fbffb52a98c512ad09c5"
+    }
+  ],
+  "scope": "Reviewed source assets; captions remain adjacent in article.md."
+}
