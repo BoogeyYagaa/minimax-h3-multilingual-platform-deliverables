@@ -7,7 +7,7 @@
 
 [Article source](article.md) · [Standalone HTML](article.html) · [Image ALT and captions](images.json) · [TAGS and SEO description](metadata.md) · [Publication record](publication-record.json)
 
-用户截图显示首图已位于首个 H2 的完整开头段落之后，停止重复移动要求；匿名读取仍可能命中第二次回链前的 CDN 缓存，最新公开版本待确认。缓存版本图注主体完整，仅缺図1／図2／図3编号。
+用户截图已显示首图位置正确，図1／図2／図3编号齐全，两项人工修复操作均无需重复；此前匿名读取可能命中旧 CDN 缓存，最新公开版本尚待独立确认。
 
 The reviewed source and original editorial illustrations are archived here. This is not a live-page mirror or a claim of full public acceptance. Metadata values are publication references, not proof of native platform fields.
 
@@ -20,4 +20,4 @@ The reviewed source and original editorial illustrations are archived here. This
 
 ## Owner closeout update
 
-用户截图显示首图已位于首个 H2 的完整开头段落之后，停止重复移动要求；匿名读取仍可能命中第二次回链前的 CDN 缓存，最新公开版本待确认。缓存版本图注主体完整，仅缺図1／図2／図3编号。
+用户截图已显示首图位置正确，図1／図2／図3编号齐全，两项人工修复操作均无需重复；此前匿名读取可能命中旧 CDN 缓存，最新公开版本尚待独立确认。

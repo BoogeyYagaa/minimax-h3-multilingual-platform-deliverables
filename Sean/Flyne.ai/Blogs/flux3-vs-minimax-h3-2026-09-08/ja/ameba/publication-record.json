@@ -15,7 +15,7 @@
     "PUBLIC-RENDER-001",
     "PUBLIC-RENDER-002"
   ],
-  "status_note": "用户截图显示首图已位于首个 H2 的完整开头段落之后，停止重复移动要求；匿名读取仍可能命中第二次回链前的 CDN 缓存，最新公开版本待确认。缓存版本图注主体完整，仅缺図1／図2／図3编号。",
+  "status_note": "用户截图已显示首图位置正确，図1／図2／図3编号齐全，两项人工修复操作均无需重复；此前匿名读取可能命中旧 CDN 缓存，最新公开版本尚待独立确认。",
   "classification": "owner-screenshot-correct-public-visibility-pending",
   "source_sha256": "3e4bd72776d4edfd60613df0692239cf0bf70104185d84230ff4d8b52ad36a82",
   "archived_article_sha256": "c14c76964ed3bc0898442ccbc96ceccbd8987915c308c5624c58d2686660aef4",
@@ -44,8 +44,11 @@
   "owner_screenshot_position": "CORRECT",
   "repeat_image_move_required": false,
   "latest_public_visibility": "UNCONFIRMED_CDN_CACHE",
-  "public_recheck_status": "OWNER_SCREENSHOT_POSITION_CORRECT_PUBLIC_VISIBILITY_PENDING",
+  "public_recheck_status": "OWNER_SCREENSHOTS_REPAIRS_CORRECT_PUBLIC_VISIBILITY_PENDING",
   "open_findings_scope": "Observed cached public version; not proof of failed second repair",
   "public_evidence_cdn_date": "2026-09-09T08:18:00Z",
-  "public_evidence_cdn_age_seconds": 202
+  "public_evidence_cdn_age_seconds": 202,
+  "owner_screenshot_caption_ordinals": "ALL_THREE_PRESENT",
+  "repeat_caption_prefix_repair_required": false,
+  "owner_repair_actions_open": []
 }
