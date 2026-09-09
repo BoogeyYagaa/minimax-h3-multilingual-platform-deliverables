@@ -9,13 +9,14 @@
   "public_reachability_evidence": "anonymous-reader-snapshot-2026-09-09",
   "fresh_live_check_in_this_closeout": false,
   "public_review_verdict": "PUBLIC_REVIEW_CHANGES",
-  "public_qa_status": "PUBLIC_QA_CHANGES",
+  "public_qa_status": "PUBLIC_REVIEW_CHANGES_LATEST_VISIBILITY_PENDING",
   "human_acceptance": "NOT_EXPLICITLY_PROVIDED",
   "open_findings": [
-    "PUBLIC-RENDER-001"
+    "PUBLIC-RENDER-001",
+    "PUBLIC-RENDER-002"
   ],
-  "status_note": "需要人工把首图及图注整体移到首个 H2 的开头段落之后；修复资料已单独提供。",
-  "classification": "public-page-with-open-findings",
+  "status_note": "用户截图显示首图已位于首个 H2 的完整开头段落之后，停止重复移动要求；匿名读取仍可能命中第二次回链前的 CDN 缓存，最新公开版本待确认。缓存版本图注主体完整，仅缺図1／図2／図3编号。",
+  "classification": "owner-screenshot-correct-public-visibility-pending",
   "source_sha256": "3e4bd72776d4edfd60613df0692239cf0bf70104185d84230ff4d8b52ad36a82",
   "archived_article_sha256": "c14c76964ed3bc0898442ccbc96ceccbd8987915c308c5624c58d2686660aef4",
   "archive_only_image_path_rewrites": [],
@@ -39,5 +40,12 @@
     "quote": "Ameba Blog需要给我资料去修复",
     "scope": "specific_findings_only"
   },
-  "archive_only_formatting_normalization": "Final blank lines normalized; source body unchanged."
+  "archive_only_formatting_normalization": "Final blank lines normalized; source body unchanged.",
+  "owner_screenshot_position": "CORRECT",
+  "repeat_image_move_required": false,
+  "latest_public_visibility": "UNCONFIRMED_CDN_CACHE",
+  "public_recheck_status": "OWNER_SCREENSHOT_POSITION_CORRECT_PUBLIC_VISIBILITY_PENDING",
+  "open_findings_scope": "Observed cached public version; not proof of failed second repair",
+  "public_evidence_cdn_date": "2026-09-09T08:18:00Z",
+  "public_evidence_cdn_age_seconds": 202
 }
