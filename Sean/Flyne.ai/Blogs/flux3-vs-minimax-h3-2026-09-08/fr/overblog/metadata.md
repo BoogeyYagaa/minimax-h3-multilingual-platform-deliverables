@@ -8,4 +8,3 @@
 - **TAGS :** FLUX 3, MiniMax H3, vidéo IA, brief de plan, storyboard, planification du son
 
 Ces valeurs sont des références de publication humaine. Overblog peut ne pas offrir, accepter ou afficher certains champs : prise en charge native `UNVERIFIED`.
-

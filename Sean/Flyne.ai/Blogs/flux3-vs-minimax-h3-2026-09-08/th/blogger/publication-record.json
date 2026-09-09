@@ -47,6 +47,7 @@
     }
   ],
   "source_is_live_page_snapshot": false,
+  "archive_path": "th/blogger",
   "owner_disposition": {
     "quote": "Blogger属于编辑器局限，无法修复。",
     "scope": "specific_findings_only"

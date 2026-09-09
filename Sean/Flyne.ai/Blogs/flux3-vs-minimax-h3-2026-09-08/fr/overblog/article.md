@@ -72,4 +72,3 @@ Parce qu’une intention sonore peut modifier la manière dont une scène est ra
 ## Conclusion : choisir le niveau de préparation à documenter
 
 Le comparatif FLUX 3 et MiniMax H3 est plus utile ici lorsqu’il aide à écrire un brief vérifiable : un raccord à conserver, une scène à décrire et une intention sonore à prévoir. Les pages Flyne peuvent fournir un vocabulaire de départ ; la décision éditoriale consiste ensuite à garder une frontière nette entre ce qui est décrit par le fournisseur, ce qui relève du brief et ce qui n’a pas été testé.
-

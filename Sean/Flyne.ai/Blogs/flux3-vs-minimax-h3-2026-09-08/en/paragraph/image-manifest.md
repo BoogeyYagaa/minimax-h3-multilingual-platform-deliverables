@@ -9,4 +9,3 @@ The package references the three existing original campaign assets in place; it 
 | CLOSING | ../../../assets/images/03-conditional-choice-closing-16x9.png | 6f96bb7f6e96513d211be8c379f34e52f25231456416743c6113ae1af32737dc | Editorial illustration of a conditional route choice that can lead to a later shared test. | Editorial illustration: when the envelope does not decide, preserve the brief for a shared test. | Before Sources and disclosure, after the reader takeaway. |
 
 The annotated visual preview provides one non-reader placement card per image. The clean rich-copy body contains the three reader figures and captions but no cards, title, metadata, labels, or instructions.
-

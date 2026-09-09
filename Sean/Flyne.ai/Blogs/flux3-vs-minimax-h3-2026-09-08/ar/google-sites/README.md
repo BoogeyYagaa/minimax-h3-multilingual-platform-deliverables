@@ -7,7 +7,7 @@
 
 [Article source](article.md) · [Standalone HTML](article.html) · [Image ALT and captions](images.json) · [TAGS and SEO description](metadata.md) · [Publication record](publication-record.json)
 
-已续接原阿语任务完成公开 gate；执行 gate 授权不等于人工整体验收回执。
+公开 gate 已完成：PUBLIC_QA_DEFERRED。读者核验通过、无待修复项，唯一缺少人工 HUMAN_ACCEPTED 回执。
 
 The reviewed source and original editorial illustrations are archived here. This is not a live-page mirror or a claim of full public acceptance. Metadata values are publication references, not proof of native platform fields.
 
@@ -20,4 +20,4 @@ The reviewed source and original editorial illustrations are archived here. This
 
 ## Owner closeout update
 
-已续接原阿语任务完成公开 gate；执行 gate 授权不等于人工整体验收回执。
+公开 gate 已完成：PUBLIC_QA_DEFERRED。读者核验通过、无待修复项，唯一缺少人工 HUMAN_ACCEPTED 回执。

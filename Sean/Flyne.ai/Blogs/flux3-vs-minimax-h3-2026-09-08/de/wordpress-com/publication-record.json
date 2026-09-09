@@ -32,6 +32,7 @@
     }
   ],
   "source_is_live_page_snapshot": false,
+  "archive_path": "de/wordpress-com",
   "owner_disposition": {
     "quote": "WordPress的问题属于编辑器局限无法修复。",
     "scope": "specific_findings_only"

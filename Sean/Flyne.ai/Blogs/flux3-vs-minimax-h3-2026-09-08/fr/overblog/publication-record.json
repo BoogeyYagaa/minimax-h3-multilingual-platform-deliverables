@@ -15,7 +15,7 @@
   "status_note": "页面语言、重复文档标题和 FAQ H3 语义差异已由用户接受为编辑器限制，停止修复要求。",
   "classification": "owner-accepted-editor-limitations",
   "source_sha256": "8600ee4643c912a636bcd54cff15a3d192ed6769519341718138a098fd04cd3c",
-  "archived_article_sha256": "510ed4052b36764547cacc65490b064cb37a974b034dfb6177a1d9d8fead1d26",
+  "archived_article_sha256": "415ef25c68dfdd0a9f8e90195a78ad57df97d1b1359a756af6e65b3f387d900b",
   "archive_only_image_path_rewrites": [
     {
       "from": "./images/01-lead-continuite-plan.png",
@@ -45,8 +45,10 @@
     }
   ],
   "source_is_live_page_snapshot": false,
+  "archive_path": "fr/overblog",
   "owner_disposition": {
     "quote": "Overblog属于编辑器局限，无法修复",
     "scope": "specific_findings_only"
-  }
+  },
+  "archive_only_formatting_normalization": "Final blank lines normalized; source body unchanged."
 }

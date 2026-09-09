@@ -22,11 +22,11 @@
 
 ## TAGS — raw values
 
-`FLUX 3`  
-`MiniMax H3`  
-`KI-Videogenerator`  
-`Videobriefing`  
-`Szenenregie`  
+`FLUX 3`
+`MiniMax H3`
+`KI-Videogenerator`
+`Videobriefing`
+`Szenenregie`
 `Bildgestaltung`
 
 ## Field/transport note

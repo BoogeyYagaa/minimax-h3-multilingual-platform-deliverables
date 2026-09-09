@@ -17,4 +17,3 @@ Use this exact value in Paragraph's separate native title field. Do not add an H
 | Distribution | Publish online ON; newsletter delivery OFF | Set only during later human release; no test mail or notifications. |
 
 visual-payload.html supplies independent value-only controls for title, each ALT, TAGS, and SEO/social description. Source presence is not browser, clipboard, or native-editor execution evidence.
-

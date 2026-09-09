@@ -6,7 +6,7 @@
 - `public-page-with-open-findings`: Ameba. Human lead-image position repair is pending.
 
 - DE-01: 页面语言、标题层级和 SEO 描述差异均已由用户接受为编辑器限制，停止修复要求；未声称 DOM 已改正。
-- AR-01: 已续接原阿语任务完成公开 gate；执行 gate 授权不等于人工整体验收回执。
+- AR-01: 公开 gate 已完成：PUBLIC_QA_DEFERRED。读者核验通过、无待修复项，唯一缺少人工 HUMAN_ACCEPTED 回执。
 - RU-01: 用户确认图片无问题，图片修复要求关闭；此次为人工确认，没有新增独立像素取证。此前 ALT／图注限制继续有效。
 - EN-02: 已准备人工验收回执草稿；独立公开审稿通过、ALT／图注限制已接受，回执尚未提交。
 - TH-01: 标题层级和页面语言差异已由用户接受为编辑器限制，停止修复要求。

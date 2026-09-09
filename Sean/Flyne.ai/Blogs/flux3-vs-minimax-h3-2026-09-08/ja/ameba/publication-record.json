@@ -17,7 +17,7 @@
   "status_note": "需要人工把首图及图注整体移到首个 H2 的开头段落之后；修复资料已单独提供。",
   "classification": "public-page-with-open-findings",
   "source_sha256": "3e4bd72776d4edfd60613df0692239cf0bf70104185d84230ff4d8b52ad36a82",
-  "archived_article_sha256": "3e4bd72776d4edfd60613df0692239cf0bf70104185d84230ff4d8b52ad36a82",
+  "archived_article_sha256": "c14c76964ed3bc0898442ccbc96ceccbd8987915c308c5624c58d2686660aef4",
   "archive_only_image_path_rewrites": [],
   "images": [
     {
@@ -34,8 +34,10 @@
     }
   ],
   "source_is_live_page_snapshot": false,
+  "archive_path": "ja/ameba",
   "owner_disposition": {
     "quote": "Ameba Blog需要给我资料去修复",
     "scope": "specific_findings_only"
-  }
+  },
+  "archive_only_formatting_normalization": "Final blank lines normalized; source body unchanged."
 }

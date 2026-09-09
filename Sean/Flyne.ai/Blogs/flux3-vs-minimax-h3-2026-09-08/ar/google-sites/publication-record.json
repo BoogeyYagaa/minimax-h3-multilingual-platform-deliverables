@@ -9,10 +9,10 @@
   "public_reachability_evidence": "anonymous-reader-snapshot-2026-09-09",
   "fresh_live_check_in_this_closeout": false,
   "public_review_verdict": "PUBLIC_REVIEW_APPROVED",
-  "public_qa_status": "PUBLIC_REVIEW_APPROVED_GATE_PENDING_HUMAN_ACCEPTANCE",
+  "public_qa_status": "PUBLIC_QA_DEFERRED",
   "human_acceptance": "NOT_EXPLICITLY_PROVIDED",
   "open_findings": [],
-  "status_note": "已续接原阿语任务完成公开 gate；执行 gate 授权不等于人工整体验收回执。",
+  "status_note": "公开 gate 已完成：PUBLIC_QA_DEFERRED。读者核验通过、无待修复项，唯一缺少人工 HUMAN_ACCEPTED 回执。",
   "classification": "reader-comparison-approved-acceptance-pending",
   "source_sha256": "0b7890a124f194810039e37e9f3deabbccc2b7a0ea7905f0d3f145f9f9bfc3eb",
   "archived_article_sha256": "0b7890a124f194810039e37e9f3deabbccc2b7a0ea7905f0d3f145f9f9bfc3eb",
@@ -32,8 +32,10 @@
     }
   ],
   "source_is_live_page_snapshot": false,
+  "archive_path": "ar/google-sites",
   "owner_disposition": {
     "quote": "Google Sites继续完成公开 gate",
     "scope": "specific_findings_only"
-  }
+  },
+  "public_gate_verdict": "PUBLIC_QA_DEFERRED"
 }
