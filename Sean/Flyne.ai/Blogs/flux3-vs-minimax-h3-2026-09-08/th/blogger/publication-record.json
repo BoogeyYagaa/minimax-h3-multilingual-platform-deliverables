@@ -1,0 +1,54 @@
+{
+  "article_id": "TH-01",
+  "title": "FLUX 3 เทียบกับ MiniMax H3: เลือกโมเดลวิดีโอ AI ตามขั้นตอนการทำงานของคุณ",
+  "language": "th",
+  "platform": "Blogger",
+  "public_url": "https://flyneai.blogspot.com/2026/09/flux-3-minimax-h3-ai.html",
+  "archive_kind": "reviewed-source-for-owner-returned-public-url",
+  "archive_date": "2026-09-09",
+  "public_reachability_evidence": "anonymous-reader-snapshot-2026-09-09",
+  "fresh_live_check_in_this_closeout": false,
+  "public_review_verdict": "PUBLIC_REVIEW_CHANGES",
+  "public_qa_status": "PUBLIC_OWNER_DISPOSITION_RECORDED_GATE_PENDING",
+  "human_acceptance": "NOT_EXPLICITLY_PROVIDED",
+  "open_findings": [
+    "PUBLIC-HUMAN-ACCEPTANCE-001"
+  ],
+  "status_note": "标题层级和页面语言差异已由用户接受为编辑器限制，停止修复要求。",
+  "classification": "owner-accepted-editor-limitations",
+  "source_sha256": "a31557d81aff08116d816e7559710d79bfaf17614dca5b79b3efe36710a00cae",
+  "archived_article_sha256": "a6296b6732f559cca4fc6376a82ee37a7d74bbabb478df579509be524c61057e",
+  "archive_only_image_path_rewrites": [
+    {
+      "from": "./images/01-lead-stated-attributes-16x9.png",
+      "to": "images/01-lead-stated-attributes-16x9.png"
+    },
+    {
+      "from": "./images/02-middle-workflow-questions-16x9.png",
+      "to": "images/02-middle-workflow-questions-16x9.png"
+    },
+    {
+      "from": "./images/03-closing-same-condition-check-16x9.png",
+      "to": "images/03-closing-same-condition-check-16x9.png"
+    }
+  ],
+  "images": [
+    {
+      "file": "images/01-lead-stated-attributes-16x9.png",
+      "sha256": "672f1b3795b9a6178a5ea0e0be3a66da7a4527feeebfb38e2e94ff6f2bc0c60f"
+    },
+    {
+      "file": "images/02-middle-workflow-questions-16x9.png",
+      "sha256": "bd276066ad20719afa1860deed83140740feda271ebb1e3e26c49f4d8be2f2c9"
+    },
+    {
+      "file": "images/03-closing-same-condition-check-16x9.png",
+      "sha256": "0faa0a579213a6c245ee7a97b16a5cd9ce6ef987ae4e2303541a44ee941eadf0"
+    }
+  ],
+  "source_is_live_page_snapshot": false,
+  "owner_disposition": {
+    "quote": "Blogger属于编辑器局限，无法修复。",
+    "scope": "specific_findings_only"
+  }
+}

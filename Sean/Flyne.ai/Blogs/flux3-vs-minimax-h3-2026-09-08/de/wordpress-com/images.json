@@ -1,0 +1,20 @@
+[
+  {
+    "file": "images/01-lead-briefing-paths-16x9.png",
+    "sha256": "c912ea819e19788476d284488b96604d78b4aec59844fffa29e21e3048a7e64e",
+    "alt": "Editoriale Illustration eines Kreativdirektors an einem Produktionstisch mit zwei neutralen Briefingblättern: links visuelle Storyboard-Beats, rechts Szenenregie und Kamerapfade.",
+    "caption": "Redaktionelle Illustration: Zwei gleichwertige Einstiege in ein Videobriefing."
+  },
+  {
+    "file": "images/02-middle-brief-structure-16x9.png",
+    "sha256": "6fd9dee45800443d9873e0347d9a2690b229bcf76e21fbff689e04f67eca2408",
+    "alt": "Editoriale Illustration mit einer Abfolge visueller Storyboard-Beats links und einer Szenenregie mit Blickwinkel und Kamerabewegung rechts.",
+    "caption": "Redaktionelle Illustration: Eine Szene kann über Bildzustände oder über Regieanweisungen beschrieben werden."
+  },
+  {
+    "file": "images/03-closing-team-handoff-16x9.png",
+    "sha256": "cd72d306a77d4371e6bcfee800153bdb7bdd7f6fe36b67d1989687bd45a9b601",
+    "alt": "Editoriale Illustration eines Kreativteams, das eine Szenenskizze in zwei gleichwertige Briefingblätter für Bildgestaltung und Szenenregie überführt.",
+    "caption": "Redaktionelle Illustration: Erst das Briefing strukturieren, dann die passende Produktseite lesen."
+  }
+]

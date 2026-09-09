@@ -1,0 +1,342 @@
+{
+  "campaign": "flyne-flux3-vs-minimax-h3-multiplatform-2026-09-08",
+  "count": 7,
+  "articles": [
+    {
+      "article_id": "DE-01",
+      "title": "FLUX 3 vs. MiniMax H3: Bildgestaltung und Szenenregie fürs Videobriefing",
+      "language": "de",
+      "platform": "WordPress.com",
+      "public_url": "https://flyneai.wordpress.com/2026/09/08/flux-3-vs-minimax-h3-bildgestaltung-und-szenenregie-furs-videobriefing/",
+      "archive_kind": "reviewed-source-for-owner-returned-public-url",
+      "archive_date": "2026-09-09",
+      "public_reachability_evidence": "anonymous-reader-snapshot-2026-09-09",
+      "fresh_live_check_in_this_closeout": false,
+      "public_review_verdict": "PUBLIC_REVIEW_CHANGES",
+      "public_qa_status": "PUBLIC_OWNER_DISPOSITION_RECORDED_GATE_PENDING",
+      "human_acceptance": "NOT_EXPLICITLY_PROVIDED",
+      "open_findings": [],
+      "status_note": "页面语言、标题层级和 SEO 描述差异均已由用户接受为编辑器限制，停止修复要求；未声称 DOM 已改正。",
+      "classification": "owner-accepted-editor-limitations",
+      "source_sha256": "6432146245ad2d3db03fa33b8f3a4fea622ae05311e842b508cccd304870d00a",
+      "archived_article_sha256": "6432146245ad2d3db03fa33b8f3a4fea622ae05311e842b508cccd304870d00a",
+      "archive_only_image_path_rewrites": [],
+      "images": [
+        {
+          "file": "images/01-lead-briefing-paths-16x9.png",
+          "sha256": "c912ea819e19788476d284488b96604d78b4aec59844fffa29e21e3048a7e64e"
+        },
+        {
+          "file": "images/02-middle-brief-structure-16x9.png",
+          "sha256": "6fd9dee45800443d9873e0347d9a2690b229bcf76e21fbff689e04f67eca2408"
+        },
+        {
+          "file": "images/03-closing-team-handoff-16x9.png",
+          "sha256": "cd72d306a77d4371e6bcfee800153bdb7bdd7f6fe36b67d1989687bd45a9b601"
+        }
+      ],
+      "source_is_live_page_snapshot": false,
+      "archive_path": "de/wordpress-com",
+      "owner_disposition": {
+        "quote": "WordPress的问题属于编辑器局限无法修复。",
+        "scope": "specific_findings_only"
+      }
+    },
+    {
+      "article_id": "AR-01",
+      "title": "مقارنة بين FLUX 3 وMiniMax H3: اختيار المدة والدقة والصوت",
+      "language": "ar",
+      "platform": "Google Sites",
+      "public_url": "https://sites.google.com/view/flux-3-minimax-h3/home",
+      "archive_kind": "reviewed-source-for-owner-returned-public-url",
+      "archive_date": "2026-09-09",
+      "public_reachability_evidence": "anonymous-reader-snapshot-2026-09-09",
+      "fresh_live_check_in_this_closeout": false,
+      "public_review_verdict": "PUBLIC_REVIEW_APPROVED",
+      "public_qa_status": "PUBLIC_REVIEW_APPROVED_GATE_PENDING_HUMAN_ACCEPTANCE",
+      "human_acceptance": "NOT_EXPLICITLY_PROVIDED",
+      "open_findings": [],
+      "status_note": "已续接原阿语任务完成公开 gate；执行 gate 授权不等于人工整体验收回执。",
+      "classification": "reader-comparison-approved-acceptance-pending",
+      "source_sha256": "0b7890a124f194810039e37e9f3deabbccc2b7a0ea7905f0d3f145f9f9bfc3eb",
+      "archived_article_sha256": "0b7890a124f194810039e37e9f3deabbccc2b7a0ea7905f0d3f145f9f9bfc3eb",
+      "archive_only_image_path_rewrites": [],
+      "images": [
+        {
+          "file": "images/01-lead-comparison-16x9.png",
+          "sha256": "1cdbc908ed2626b607efbf3d38409e17bac29ed80b1415488a5487d48327371e"
+        },
+        {
+          "file": "images/02-middle-decision-map-16x9.png",
+          "sha256": "faaf335e5d9714182af84d5370d7ea5441efe5842740ff28443871df4c3aed08"
+        },
+        {
+          "file": "images/03-closing-source-check-16x9.png",
+          "sha256": "9740ad51448aac9c396780246696fff8cd5053c49fea86d04d652a44125b16c1"
+        }
+      ],
+      "source_is_live_page_snapshot": false,
+      "archive_path": "ar/google-sites",
+      "owner_disposition": {
+        "quote": "Google Sites继续完成公开 gate",
+        "scope": "specific_findings_only"
+      }
+    },
+    {
+      "article_id": "RU-01",
+      "title": "FLUX 3 и MiniMax H3: сравнение длительности клипа, разрешения и управления кадром",
+      "language": "ru",
+      "platform": "vc.ru",
+      "public_url": "https://vc.ru/id6105551/3128359-sravnenie-flux-3-i-minimax-h3",
+      "archive_kind": "reviewed-source-for-owner-returned-public-url",
+      "archive_date": "2026-09-09",
+      "public_reachability_evidence": "anonymous-reader-snapshot-2026-09-09",
+      "fresh_live_check_in_this_closeout": false,
+      "public_review_verdict": "PUBLIC_REVIEW_CHANGES",
+      "public_qa_status": "PUBLIC_OWNER_DISPOSITION_RECORDED_GATE_PENDING",
+      "human_acceptance": "NOT_EXPLICITLY_PROVIDED",
+      "open_findings": [],
+      "status_note": "用户确认图片无问题，图片修复要求关闭；此次为人工确认，没有新增独立像素取证。此前 ALT／图注限制继续有效。",
+      "classification": "owner-confirmed-images",
+      "source_sha256": "7bc0c2d007b3f0653dfaadb035e73a2f533e6aba7ad9fc8084f83cdcf303f56b",
+      "archived_article_sha256": "7e81a077cb646bdcc681c5fe167be46b6a0b4f3560c0586fb580d8c69ca6d6eb",
+      "archive_only_image_path_rewrites": [
+        {
+          "from": "./images/01-lead-16x9.png",
+          "to": "images/01-lead-16x9.png"
+        },
+        {
+          "from": "./images/02-middle-16x9.png",
+          "to": "images/02-middle-16x9.png"
+        },
+        {
+          "from": "./images/03-closing-16x9.png",
+          "to": "images/03-closing-16x9.png"
+        }
+      ],
+      "images": [
+        {
+          "file": "images/01-lead-16x9.png",
+          "sha256": "1245e92a0de2c79864d3897b9ab503efa76ce4a5e7e1d22f73e573aa2aaf5a7d"
+        },
+        {
+          "file": "images/02-middle-16x9.png",
+          "sha256": "f999add36c82348865ebc8569dbaa0c9062f745c3df7e92b80afb0cbca0fcc37"
+        },
+        {
+          "file": "images/03-closing-16x9.png",
+          "sha256": "08639617197170850fdccf999f198c7a416bc3725a8d6772611738f7c2326b2a"
+        }
+      ],
+      "source_is_live_page_snapshot": false,
+      "archive_path": "ru/vc-ru",
+      "owner_disposition": {
+        "quote": "vc.ru图片无问题",
+        "scope": "specific_findings_only"
+      }
+    },
+    {
+      "article_id": "EN-02",
+      "title": "FLUX 3 vs MiniMax H3 Video Specs: Plan the Shot Envelope First",
+      "language": "en",
+      "platform": "Paragraph",
+      "public_url": "https://paragraph.com/@fluxaiimagegenerator/flux-3-vs-minimax-h3-video-specs-plan-the-shot-envelope-first",
+      "archive_kind": "reviewed-source-for-owner-returned-public-url",
+      "archive_date": "2026-09-09",
+      "public_reachability_evidence": "anonymous-reader-snapshot-2026-09-09",
+      "fresh_live_check_in_this_closeout": false,
+      "public_review_verdict": "PUBLIC_REVIEW_APPROVED",
+      "public_qa_status": "PUBLIC_QA_PENDING_HUMAN_ACCEPTANCE",
+      "human_acceptance": "NOT_EXPLICITLY_PROVIDED",
+      "open_findings": [],
+      "status_note": "已准备人工验收回执草稿；独立公开审稿通过、ALT／图注限制已接受，回执尚未提交。",
+      "classification": "reader-comparison-approved-acceptance-pending",
+      "source_sha256": "ad71a14c3b6c25ebe18a5558fd3decafd78c0b0b507e0ea0509d9883020c6d12",
+      "archived_article_sha256": "72b915c343bf4be8505eb01fed2038f5c9bcc46366e52b99db6a1b0c1a12bf0e",
+      "archive_only_image_path_rewrites": [
+        {
+          "from": "../../../assets/images/01-shot-envelope-lead-16x9.png",
+          "to": "images/01-shot-envelope-lead-16x9.png"
+        },
+        {
+          "from": "../../../assets/images/02-documented-fields-middle-16x9.png",
+          "to": "images/02-documented-fields-middle-16x9.png"
+        },
+        {
+          "from": "../../../assets/images/03-conditional-choice-closing-16x9.png",
+          "to": "images/03-conditional-choice-closing-16x9.png"
+        }
+      ],
+      "images": [
+        {
+          "file": "images/01-shot-envelope-lead-16x9.png",
+          "sha256": "d6883aa1dfacf0352c3fad731102348049cfdf74333908223d381789491fd5b9"
+        },
+        {
+          "file": "images/02-documented-fields-middle-16x9.png",
+          "sha256": "c3d53a87901047b062cca049f9bd8b8b7d4c4bf6f5eb3796e3a90fbc26f01b59"
+        },
+        {
+          "file": "images/03-conditional-choice-closing-16x9.png",
+          "sha256": "6f96bb7f6e96513d211be8c379f34e52f25231456416743c6113ae1af32737dc"
+        }
+      ],
+      "source_is_live_page_snapshot": false,
+      "archive_path": "en/paragraph",
+      "owner_disposition": {
+        "quote": "Paragraph准备回执",
+        "scope": "specific_findings_only"
+      }
+    },
+    {
+      "article_id": "TH-01",
+      "title": "FLUX 3 เทียบกับ MiniMax H3: เลือกโมเดลวิดีโอ AI ตามขั้นตอนการทำงานของคุณ",
+      "language": "th",
+      "platform": "Blogger",
+      "public_url": "https://flyneai.blogspot.com/2026/09/flux-3-minimax-h3-ai.html",
+      "archive_kind": "reviewed-source-for-owner-returned-public-url",
+      "archive_date": "2026-09-09",
+      "public_reachability_evidence": "anonymous-reader-snapshot-2026-09-09",
+      "fresh_live_check_in_this_closeout": false,
+      "public_review_verdict": "PUBLIC_REVIEW_CHANGES",
+      "public_qa_status": "PUBLIC_OWNER_DISPOSITION_RECORDED_GATE_PENDING",
+      "human_acceptance": "NOT_EXPLICITLY_PROVIDED",
+      "open_findings": [
+        "PUBLIC-HUMAN-ACCEPTANCE-001"
+      ],
+      "status_note": "标题层级和页面语言差异已由用户接受为编辑器限制，停止修复要求。",
+      "classification": "owner-accepted-editor-limitations",
+      "source_sha256": "a31557d81aff08116d816e7559710d79bfaf17614dca5b79b3efe36710a00cae",
+      "archived_article_sha256": "a6296b6732f559cca4fc6376a82ee37a7d74bbabb478df579509be524c61057e",
+      "archive_only_image_path_rewrites": [
+        {
+          "from": "./images/01-lead-stated-attributes-16x9.png",
+          "to": "images/01-lead-stated-attributes-16x9.png"
+        },
+        {
+          "from": "./images/02-middle-workflow-questions-16x9.png",
+          "to": "images/02-middle-workflow-questions-16x9.png"
+        },
+        {
+          "from": "./images/03-closing-same-condition-check-16x9.png",
+          "to": "images/03-closing-same-condition-check-16x9.png"
+        }
+      ],
+      "images": [
+        {
+          "file": "images/01-lead-stated-attributes-16x9.png",
+          "sha256": "672f1b3795b9a6178a5ea0e0be3a66da7a4527feeebfb38e2e94ff6f2bc0c60f"
+        },
+        {
+          "file": "images/02-middle-workflow-questions-16x9.png",
+          "sha256": "bd276066ad20719afa1860deed83140740feda271ebb1e3e26c49f4d8be2f2c9"
+        },
+        {
+          "file": "images/03-closing-same-condition-check-16x9.png",
+          "sha256": "0faa0a579213a6c245ee7a97b16a5cd9ce6ef987ae4e2303541a44ee941eadf0"
+        }
+      ],
+      "source_is_live_page_snapshot": false,
+      "archive_path": "th/blogger",
+      "owner_disposition": {
+        "quote": "Blogger属于编辑器局限，无法修复。",
+        "scope": "specific_findings_only"
+      }
+    },
+    {
+      "article_id": "JA-01",
+      "title": "FLUX 3とMiniMax H3のAI動画生成を、素材・動き・音の設計から考える",
+      "language": "ja",
+      "platform": "Ameba Blog",
+      "public_url": "https://ameblo.jp/fluxai/entry-12978229576.html",
+      "archive_kind": "reviewed-source-for-owner-returned-public-url",
+      "archive_date": "2026-09-09",
+      "public_reachability_evidence": "anonymous-reader-snapshot-2026-09-09",
+      "fresh_live_check_in_this_closeout": false,
+      "public_review_verdict": "PUBLIC_REVIEW_CHANGES",
+      "public_qa_status": "PUBLIC_QA_CHANGES",
+      "human_acceptance": "NOT_EXPLICITLY_PROVIDED",
+      "open_findings": [
+        "PUBLIC-RENDER-001"
+      ],
+      "status_note": "需要人工把首图及图注整体移到首个 H2 的开头段落之后；修复资料已单独提供。",
+      "classification": "public-page-with-open-findings",
+      "source_sha256": "3e4bd72776d4edfd60613df0692239cf0bf70104185d84230ff4d8b52ad36a82",
+      "archived_article_sha256": "3e4bd72776d4edfd60613df0692239cf0bf70104185d84230ff4d8b52ad36a82",
+      "archive_only_image_path_rewrites": [],
+      "images": [
+        {
+          "file": "images/closing-planning-checklist.png",
+          "sha256": "57677966a8da1f9c41d0f402284ad693a67a3c5a4d9fd650bbeed02c6c39d8ed"
+        },
+        {
+          "file": "images/lead-ai-video-planning.png",
+          "sha256": "f00cd13b761fea84b84d5936bcb5191ee1871966851b8eef3b068a24998debdd"
+        },
+        {
+          "file": "images/middle-source-motion-sound.png",
+          "sha256": "6f494dc8e7ad7bf3c937c1871c4489c60d5fe1232a4fc1bbb0599130971a4dbb"
+        }
+      ],
+      "source_is_live_page_snapshot": false,
+      "archive_path": "ja/ameba",
+      "owner_disposition": {
+        "quote": "Ameba Blog需要给我资料去修复",
+        "scope": "specific_findings_only"
+      }
+    },
+    {
+      "article_id": "FR-01",
+      "title": "FLUX 3 vs MiniMax H3 : préparer la continuité, la scène et le son d’un plan",
+      "language": "fr",
+      "platform": "Overblog",
+      "public_url": "https://flyneai.overblog.fr/2026/09/flux-3-vs-minimax-h3-preparer-la-continuite-la-scene-et-le-son-d-un-plan.html",
+      "archive_kind": "reviewed-source-for-owner-returned-public-url",
+      "archive_date": "2026-09-09",
+      "public_reachability_evidence": "anonymous-reader-snapshot-2026-09-09",
+      "fresh_live_check_in_this_closeout": false,
+      "public_review_verdict": "PUBLIC_REVIEW_CHANGES",
+      "public_qa_status": "PUBLIC_OWNER_DISPOSITION_RECORDED_GATE_PENDING",
+      "human_acceptance": "NOT_EXPLICITLY_PROVIDED",
+      "open_findings": [],
+      "status_note": "页面语言、重复文档标题和 FAQ H3 语义差异已由用户接受为编辑器限制，停止修复要求。",
+      "classification": "owner-accepted-editor-limitations",
+      "source_sha256": "8600ee4643c912a636bcd54cff15a3d192ed6769519341718138a098fd04cd3c",
+      "archived_article_sha256": "510ed4052b36764547cacc65490b064cb37a974b034dfb6177a1d9d8fead1d26",
+      "archive_only_image_path_rewrites": [
+        {
+          "from": "./images/01-lead-continuite-plan.png",
+          "to": "images/01-lead-continuite-plan.png"
+        },
+        {
+          "from": "./images/02-middle-description-scene.png",
+          "to": "images/02-middle-description-scene.png"
+        },
+        {
+          "from": "./images/03-closing-fiche-decision.png",
+          "to": "images/03-closing-fiche-decision.png"
+        }
+      ],
+      "images": [
+        {
+          "file": "images/01-lead-continuite-plan.png",
+          "sha256": "5653a6854f6fd153c139bf0248462a86e58d4fba964d0227590d6a15a899ab2d"
+        },
+        {
+          "file": "images/02-middle-description-scene.png",
+          "sha256": "d64c81f54317233e6a43236c40a9ef667dfd334be4ef4f5cbb803773946c4f1f"
+        },
+        {
+          "file": "images/03-closing-fiche-decision.png",
+          "sha256": "3c0a3ee2e09d1f0c1a87992678f25aa1779802d499a07686442e6cc374451f70"
+        }
+      ],
+      "source_is_live_page_snapshot": false,
+      "archive_path": "fr/overblog",
+      "owner_disposition": {
+        "quote": "Overblog属于编辑器局限，无法修复",
+        "scope": "specific_findings_only"
+      }
+    }
+  ]
+}

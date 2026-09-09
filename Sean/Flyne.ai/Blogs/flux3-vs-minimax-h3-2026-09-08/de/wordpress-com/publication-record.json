@@ -1,0 +1,39 @@
+{
+  "article_id": "DE-01",
+  "title": "FLUX 3 vs. MiniMax H3: Bildgestaltung und Szenenregie fürs Videobriefing",
+  "language": "de",
+  "platform": "WordPress.com",
+  "public_url": "https://flyneai.wordpress.com/2026/09/08/flux-3-vs-minimax-h3-bildgestaltung-und-szenenregie-furs-videobriefing/",
+  "archive_kind": "reviewed-source-for-owner-returned-public-url",
+  "archive_date": "2026-09-09",
+  "public_reachability_evidence": "anonymous-reader-snapshot-2026-09-09",
+  "fresh_live_check_in_this_closeout": false,
+  "public_review_verdict": "PUBLIC_REVIEW_CHANGES",
+  "public_qa_status": "PUBLIC_OWNER_DISPOSITION_RECORDED_GATE_PENDING",
+  "human_acceptance": "NOT_EXPLICITLY_PROVIDED",
+  "open_findings": [],
+  "status_note": "页面语言、标题层级和 SEO 描述差异均已由用户接受为编辑器限制，停止修复要求；未声称 DOM 已改正。",
+  "classification": "owner-accepted-editor-limitations",
+  "source_sha256": "6432146245ad2d3db03fa33b8f3a4fea622ae05311e842b508cccd304870d00a",
+  "archived_article_sha256": "6432146245ad2d3db03fa33b8f3a4fea622ae05311e842b508cccd304870d00a",
+  "archive_only_image_path_rewrites": [],
+  "images": [
+    {
+      "file": "images/01-lead-briefing-paths-16x9.png",
+      "sha256": "c912ea819e19788476d284488b96604d78b4aec59844fffa29e21e3048a7e64e"
+    },
+    {
+      "file": "images/02-middle-brief-structure-16x9.png",
+      "sha256": "6fd9dee45800443d9873e0347d9a2690b229bcf76e21fbff689e04f67eca2408"
+    },
+    {
+      "file": "images/03-closing-team-handoff-16x9.png",
+      "sha256": "cd72d306a77d4371e6bcfee800153bdb7bdd7f6fe36b67d1989687bd45a9b601"
+    }
+  ],
+  "source_is_live_page_snapshot": false,
+  "owner_disposition": {
+    "quote": "WordPress的问题属于编辑器局限无法修复。",
+    "scope": "specific_findings_only"
+  }
+}

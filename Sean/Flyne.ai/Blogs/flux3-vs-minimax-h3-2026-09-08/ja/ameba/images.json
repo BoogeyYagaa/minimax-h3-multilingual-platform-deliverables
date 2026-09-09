@@ -1,0 +1,20 @@
+[
+  {
+    "file": "images/closing-planning-checklist.png",
+    "sha256": "57677966a8da1f9c41d0f402284ad693a67a3c5a4d9fd650bbeed02c6c39d8ed",
+    "alt": "二つのショット設計メモと確認項目を机上で点検する編集用イラスト",
+    "caption": "図3：作成前の確認項目を見直す編集用イラスト。モデルの出力、性能比較、採点結果ではありません。"
+  },
+  {
+    "file": "images/lead-ai-video-planning.png",
+    "sha256": "f00cd13b761fea84b84d5936bcb5191ee1871966851b8eef3b068a24998debdd",
+    "alt": "静止素材、動き、音を別々のメモとして机上で整理する編集用イラスト",
+    "caption": "図1：素材・動き・音を分けて考えるための編集用イラスト。FLUX 3またはMiniMax H3の生成出力やテスト結果ではありません。"
+  },
+  {
+    "file": "images/middle-source-motion-sound.png",
+    "sha256": "6f494dc8e7ad7bf3c937c1871c4489c60d5fe1232a4fc1bbb0599130971a4dbb",
+    "alt": "静止素材、動きの経路、音の設計を三枚のカードに分けた編集用イラスト",
+    "caption": "図2：素材・動き・音の役割を分ける編集用イラスト。モデルの画面、出力、比較テストを示すものではありません。"
+  }
+]

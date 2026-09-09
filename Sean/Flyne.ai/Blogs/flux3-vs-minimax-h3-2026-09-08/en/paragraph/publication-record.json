@@ -1,0 +1,52 @@
+{
+  "article_id": "EN-02",
+  "title": "FLUX 3 vs MiniMax H3 Video Specs: Plan the Shot Envelope First",
+  "language": "en",
+  "platform": "Paragraph",
+  "public_url": "https://paragraph.com/@fluxaiimagegenerator/flux-3-vs-minimax-h3-video-specs-plan-the-shot-envelope-first",
+  "archive_kind": "reviewed-source-for-owner-returned-public-url",
+  "archive_date": "2026-09-09",
+  "public_reachability_evidence": "anonymous-reader-snapshot-2026-09-09",
+  "fresh_live_check_in_this_closeout": false,
+  "public_review_verdict": "PUBLIC_REVIEW_APPROVED",
+  "public_qa_status": "PUBLIC_QA_PENDING_HUMAN_ACCEPTANCE",
+  "human_acceptance": "NOT_EXPLICITLY_PROVIDED",
+  "open_findings": [],
+  "status_note": "已准备人工验收回执草稿；独立公开审稿通过、ALT／图注限制已接受，回执尚未提交。",
+  "classification": "reader-comparison-approved-acceptance-pending",
+  "source_sha256": "ad71a14c3b6c25ebe18a5558fd3decafd78c0b0b507e0ea0509d9883020c6d12",
+  "archived_article_sha256": "72b915c343bf4be8505eb01fed2038f5c9bcc46366e52b99db6a1b0c1a12bf0e",
+  "archive_only_image_path_rewrites": [
+    {
+      "from": "../../../assets/images/01-shot-envelope-lead-16x9.png",
+      "to": "images/01-shot-envelope-lead-16x9.png"
+    },
+    {
+      "from": "../../../assets/images/02-documented-fields-middle-16x9.png",
+      "to": "images/02-documented-fields-middle-16x9.png"
+    },
+    {
+      "from": "../../../assets/images/03-conditional-choice-closing-16x9.png",
+      "to": "images/03-conditional-choice-closing-16x9.png"
+    }
+  ],
+  "images": [
+    {
+      "file": "images/01-shot-envelope-lead-16x9.png",
+      "sha256": "d6883aa1dfacf0352c3fad731102348049cfdf74333908223d381789491fd5b9"
+    },
+    {
+      "file": "images/02-documented-fields-middle-16x9.png",
+      "sha256": "c3d53a87901047b062cca049f9bd8b8b7d4c4bf6f5eb3796e3a90fbc26f01b59"
+    },
+    {
+      "file": "images/03-conditional-choice-closing-16x9.png",
+      "sha256": "6f96bb7f6e96513d211be8c379f34e52f25231456416743c6113ae1af32737dc"
+    }
+  ],
+  "source_is_live_page_snapshot": false,
+  "owner_disposition": {
+    "quote": "Paragraph准备回执",
+    "scope": "specific_findings_only"
+  }
+}

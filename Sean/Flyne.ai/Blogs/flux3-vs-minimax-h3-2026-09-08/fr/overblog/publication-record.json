@@ -1,0 +1,52 @@
+{
+  "article_id": "FR-01",
+  "title": "FLUX 3 vs MiniMax H3 : préparer la continuité, la scène et le son d’un plan",
+  "language": "fr",
+  "platform": "Overblog",
+  "public_url": "https://flyneai.overblog.fr/2026/09/flux-3-vs-minimax-h3-preparer-la-continuite-la-scene-et-le-son-d-un-plan.html",
+  "archive_kind": "reviewed-source-for-owner-returned-public-url",
+  "archive_date": "2026-09-09",
+  "public_reachability_evidence": "anonymous-reader-snapshot-2026-09-09",
+  "fresh_live_check_in_this_closeout": false,
+  "public_review_verdict": "PUBLIC_REVIEW_CHANGES",
+  "public_qa_status": "PUBLIC_OWNER_DISPOSITION_RECORDED_GATE_PENDING",
+  "human_acceptance": "NOT_EXPLICITLY_PROVIDED",
+  "open_findings": [],
+  "status_note": "页面语言、重复文档标题和 FAQ H3 语义差异已由用户接受为编辑器限制，停止修复要求。",
+  "classification": "owner-accepted-editor-limitations",
+  "source_sha256": "8600ee4643c912a636bcd54cff15a3d192ed6769519341718138a098fd04cd3c",
+  "archived_article_sha256": "510ed4052b36764547cacc65490b064cb37a974b034dfb6177a1d9d8fead1d26",
+  "archive_only_image_path_rewrites": [
+    {
+      "from": "./images/01-lead-continuite-plan.png",
+      "to": "images/01-lead-continuite-plan.png"
+    },
+    {
+      "from": "./images/02-middle-description-scene.png",
+      "to": "images/02-middle-description-scene.png"
+    },
+    {
+      "from": "./images/03-closing-fiche-decision.png",
+      "to": "images/03-closing-fiche-decision.png"
+    }
+  ],
+  "images": [
+    {
+      "file": "images/01-lead-continuite-plan.png",
+      "sha256": "5653a6854f6fd153c139bf0248462a86e58d4fba964d0227590d6a15a899ab2d"
+    },
+    {
+      "file": "images/02-middle-description-scene.png",
+      "sha256": "d64c81f54317233e6a43236c40a9ef667dfd334be4ef4f5cbb803773946c4f1f"
+    },
+    {
+      "file": "images/03-closing-fiche-decision.png",
+      "sha256": "3c0a3ee2e09d1f0c1a87992678f25aa1779802d499a07686442e6cc374451f70"
+    }
+  ],
+  "source_is_live_page_snapshot": false,
+  "owner_disposition": {
+    "quote": "Overblog属于编辑器局限，无法修复",
+    "scope": "specific_findings_only"
+  }
+}

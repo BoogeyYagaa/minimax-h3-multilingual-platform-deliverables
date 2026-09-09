@@ -1,0 +1,72 @@
+*A production brief is more useful than a popularity contest when the shot has real delivery constraints.*
+
+The most useful early comparison between FLUX 3 and MiniMax H3 is often not about which model is “better.” It is whether a proposed shot already has a non-negotiable envelope: one continuous duration, a delivery-resolution target, and a required audio role. Those choices can eliminate a route before anyone writes a more elaborate prompt.
+
+That distinction matters because documented specifications are filters, not results. Flyne describes one set of workflow options for FLUX 3; MiniMax documents a different H3 envelope. Neither list tells us which generated clip will look better, render faster, cost less, or hold up more reliably in a particular scene. This article uses the published descriptions to plan a first route, not to announce a winner.
+
+## FLUX 3 vs MiniMax H3 video specs: write the envelope first
+
+Start with a short production sentence: “I need one continuous shot of this length, at this delivery target, with this role for sound.” That sentence is more actionable than a long feature inventory because it distinguishes a hard constraint from a preference.
+
+For the FLUX 3 route, Flyne says the workflow offers 5–20-second choices, 720p/1080p choices, and native audio. For H3, MiniMax's launch material describes native stereo sound, up to 15 seconds, and 2K resolution. The terms are not identical, and the providers' documentation should not be stretched into an equivalence claim. They are still enough to make a disciplined first cut through a brief.
+
+Three questions are worth answering before a test run:
+
+- Is a single shot longer than 15 seconds a hard requirement, rather than something that could be broken into edits?
+- Is a stated 2K target within an up-to-15-second brief a non-negotiable delivery condition?
+- Does the brief need an audio track, and is the requirement simply an audio presence or a later creative-quality judgment?
+
+The third question is deliberately narrow. “Native audio” and “native stereo sound” are documented labels, not proof of musical quality, dialogue intelligibility, or mix consistency. Write down the audio role—ambience, narration placeholder, impact cue, or another requirement—so a later review has something concrete to check.
+
+It also helps to state which constraint is allowed to move. A 20-second concept may be cut into two shots; a delivery-resolution request may be negotiable; a sound requirement may be postponed to post-production. If one of those changes is acceptable, the envelope has changed too. Record that decision before comparing the routes, so a flexible preference is not mistaken for a hard technical exclusion.
+
+![Editorial illustration of a video-shot planning envelope with duration, resolution, and audio requirements.](images/01-shot-envelope-lead-16x9.png)
+
+*Editorial illustration: define the shot envelope before comparing workflows.*
+
+## Turn the requirements into a first route
+
+The first route is a starting point for evaluation, not a purchase recommendation. It should be driven by the requirement that cannot be negotiated away.
+
+### Case 1: one continuous 16–20-second shot
+
+If the creative needs a single unbroken 16–20-second request, that duration is outside the H3 maximum described in MiniMax's launch material. It is therefore sensible to inspect Flyne's stated FLUX 3 workflow first, because Flyne lists choices through 20 seconds. This is a duration filter only. It does not say the resulting shot will have superior motion, better sound, lower cost, or a more dependable render.
+
+### Case 2: a stated 2K, up-to-15-second, native-stereo envelope
+
+If the shot fits inside 15 seconds and the brief specifically calls for the H3 description of 2K with native stereo sound, H3 is the documented route to inspect first. The key word is *inspect*: a source-listed maximum is not a promise that every provider surface exposes the same setting at the moment you work, nor is it a quality score. Confirm the current route and settings where the request will actually be made.
+
+### Case 3: neither envelope settles the brief
+
+Many practical briefs will land here. A 10-second social cut with a general delivery target may fit both documented ranges. When neither duration nor the stated resolution/audio wording decides the route, preserve the same creative brief and move to a compatible shared test. That is a more honest next step than treating pixels or seconds as a proxy for taste.
+
+![Editorial comparison illustration of two documented video-spec lanes with duration, resolution, and audio checks.](images/02-documented-fields-middle-16x9.png)
+
+*Editorial illustration: source-listed fields are a routing filter, not a performance score.*
+
+## Treat a spec boundary as a filter, not a verdict
+
+A well-written envelope makes later review easier because it puts the decision rule on paper before the output arrives. It also protects the team from retrofitting a rationale around whichever clip feels most appealing in a first glance.
+
+For each candidate route, keep a one-page brief with these fields:
+
+- the requested single-shot duration and whether an edit is acceptable;
+- the intended delivery resolution, recorded as a requirement rather than a measure of visual quality;
+- the audio role and what evidence would count as a usable track;
+- the exact creative scenario and motion direction to preserve if the brief proceeds to a shared test.
+
+That last line is especially useful. It draws a clean boundary between a delivery decision and an output comparison. If your deciding criterion is facial continuity, camera motion, sound design, prompt adherence, or revision behavior, the sources quoted here cannot settle it. Those are observations that need a controlled same-brief run and an explicit review rubric.
+
+The practical takeaway is modest but durable: let the shot's non-negotiable envelope choose the first route to evaluate. Let an actual, comparable test decide anything the envelope cannot.
+
+![Editorial illustration of a conditional route choice that can lead to a later shared test.](images/03-conditional-choice-closing-16x9.png)
+
+*Editorial illustration: when the envelope does not decide, preserve the brief for a shared test.*
+
+### Sources and disclosure
+
+For Flyne's current FLUX 3 workflow description, see [FLUX 3 video generator on Flyne](https://flyne.ai/model/flux-3-video-generator/).
+
+For Flyne's current MiniMax H3 workflow description, see [MiniMax H3 on Flyne](https://flyne.ai/model/minimax-h3/).
+
+Disclosure: I am the founder of Flyne. This article compares information listed on our FLUX 3 and MiniMax H3 pages; it does not report independent output testing.

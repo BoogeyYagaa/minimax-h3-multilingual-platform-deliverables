@@ -1,0 +1,52 @@
+{
+  "article_id": "RU-01",
+  "title": "FLUX 3 и MiniMax H3: сравнение длительности клипа, разрешения и управления кадром",
+  "language": "ru",
+  "platform": "vc.ru",
+  "public_url": "https://vc.ru/id6105551/3128359-sravnenie-flux-3-i-minimax-h3",
+  "archive_kind": "reviewed-source-for-owner-returned-public-url",
+  "archive_date": "2026-09-09",
+  "public_reachability_evidence": "anonymous-reader-snapshot-2026-09-09",
+  "fresh_live_check_in_this_closeout": false,
+  "public_review_verdict": "PUBLIC_REVIEW_CHANGES",
+  "public_qa_status": "PUBLIC_OWNER_DISPOSITION_RECORDED_GATE_PENDING",
+  "human_acceptance": "NOT_EXPLICITLY_PROVIDED",
+  "open_findings": [],
+  "status_note": "用户确认图片无问题，图片修复要求关闭；此次为人工确认，没有新增独立像素取证。此前 ALT／图注限制继续有效。",
+  "classification": "owner-confirmed-images",
+  "source_sha256": "7bc0c2d007b3f0653dfaadb035e73a2f533e6aba7ad9fc8084f83cdcf303f56b",
+  "archived_article_sha256": "7e81a077cb646bdcc681c5fe167be46b6a0b4f3560c0586fb580d8c69ca6d6eb",
+  "archive_only_image_path_rewrites": [
+    {
+      "from": "./images/01-lead-16x9.png",
+      "to": "images/01-lead-16x9.png"
+    },
+    {
+      "from": "./images/02-middle-16x9.png",
+      "to": "images/02-middle-16x9.png"
+    },
+    {
+      "from": "./images/03-closing-16x9.png",
+      "to": "images/03-closing-16x9.png"
+    }
+  ],
+  "images": [
+    {
+      "file": "images/01-lead-16x9.png",
+      "sha256": "1245e92a0de2c79864d3897b9ab503efa76ce4a5e7e1d22f73e573aa2aaf5a7d"
+    },
+    {
+      "file": "images/02-middle-16x9.png",
+      "sha256": "f999add36c82348865ebc8569dbaa0c9062f745c3df7e92b80afb0cbca0fcc37"
+    },
+    {
+      "file": "images/03-closing-16x9.png",
+      "sha256": "08639617197170850fdccf999f198c7a416bc3725a8d6772611738f7c2326b2a"
+    }
+  ],
+  "source_is_live_page_snapshot": false,
+  "owner_disposition": {
+    "quote": "vc.ru图片无问题",
+    "scope": "specific_findings_only"
+  }
+}

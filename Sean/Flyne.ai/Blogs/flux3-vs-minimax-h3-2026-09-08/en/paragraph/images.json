@@ -1,0 +1,20 @@
+[
+  {
+    "file": "images/01-shot-envelope-lead-16x9.png",
+    "sha256": "d6883aa1dfacf0352c3fad731102348049cfdf74333908223d381789491fd5b9",
+    "alt": "Editorial illustration of a video-shot planning envelope with duration, resolution, and audio requirements.",
+    "caption": "Editorial illustration: define the shot envelope before comparing workflows."
+  },
+  {
+    "file": "images/02-documented-fields-middle-16x9.png",
+    "sha256": "c3d53a87901047b062cca049f9bd8b8b7d4c4bf6f5eb3796e3a90fbc26f01b59",
+    "alt": "Editorial comparison illustration of two documented video-spec lanes with duration, resolution, and audio checks.",
+    "caption": "Editorial illustration: source-listed fields are a routing filter, not a performance score."
+  },
+  {
+    "file": "images/03-conditional-choice-closing-16x9.png",
+    "sha256": "6f96bb7f6e96513d211be8c379f34e52f25231456416743c6113ae1af32737dc",
+    "alt": "Editorial illustration of a conditional route choice that can lead to a later shared test.",
+    "caption": "Editorial illustration: when the envelope does not decide, preserve the brief for a shared test."
+  }
+]

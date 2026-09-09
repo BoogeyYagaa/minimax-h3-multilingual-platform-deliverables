@@ -1,0 +1,39 @@
+{
+  "article_id": "AR-01",
+  "title": "مقارنة بين FLUX 3 وMiniMax H3: اختيار المدة والدقة والصوت",
+  "language": "ar",
+  "platform": "Google Sites",
+  "public_url": "https://sites.google.com/view/flux-3-minimax-h3/home",
+  "archive_kind": "reviewed-source-for-owner-returned-public-url",
+  "archive_date": "2026-09-09",
+  "public_reachability_evidence": "anonymous-reader-snapshot-2026-09-09",
+  "fresh_live_check_in_this_closeout": false,
+  "public_review_verdict": "PUBLIC_REVIEW_APPROVED",
+  "public_qa_status": "PUBLIC_REVIEW_APPROVED_GATE_PENDING_HUMAN_ACCEPTANCE",
+  "human_acceptance": "NOT_EXPLICITLY_PROVIDED",
+  "open_findings": [],
+  "status_note": "已续接原阿语任务完成公开 gate；执行 gate 授权不等于人工整体验收回执。",
+  "classification": "reader-comparison-approved-acceptance-pending",
+  "source_sha256": "0b7890a124f194810039e37e9f3deabbccc2b7a0ea7905f0d3f145f9f9bfc3eb",
+  "archived_article_sha256": "0b7890a124f194810039e37e9f3deabbccc2b7a0ea7905f0d3f145f9f9bfc3eb",
+  "archive_only_image_path_rewrites": [],
+  "images": [
+    {
+      "file": "images/01-lead-comparison-16x9.png",
+      "sha256": "1cdbc908ed2626b607efbf3d38409e17bac29ed80b1415488a5487d48327371e"
+    },
+    {
+      "file": "images/02-middle-decision-map-16x9.png",
+      "sha256": "faaf335e5d9714182af84d5370d7ea5441efe5842740ff28443871df4c3aed08"
+    },
+    {
+      "file": "images/03-closing-source-check-16x9.png",
+      "sha256": "9740ad51448aac9c396780246696fff8cd5053c49fea86d04d652a44125b16c1"
+    }
+  ],
+  "source_is_live_page_snapshot": false,
+  "owner_disposition": {
+    "quote": "Google Sites继续完成公开 gate",
+    "scope": "specific_findings_only"
+  }
+}

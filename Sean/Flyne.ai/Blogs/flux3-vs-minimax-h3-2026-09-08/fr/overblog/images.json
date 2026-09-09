@@ -1,0 +1,20 @@
+[
+  {
+    "file": "images/01-lead-continuite-plan.png",
+    "sha256": "5653a6854f6fd153c139bf0248462a86e58d4fba964d0227590d6a15a899ab2d",
+    "alt": "Illustration éditoriale d’un carnet de storyboard montrant deux cadres de plan et une trajectoire préparée entre eux",
+    "caption": "Illustration éditoriale : préparer un point de départ, un point d’arrivée et les raccords avant d’écrire un brief. Ce visuel ne montre pas une sortie de modèle."
+  },
+  {
+    "file": "images/02-middle-description-scene.png",
+    "sha256": "d64c81f54317233e6a43236c40a9ef667dfd334be4ef4f5cbb803773946c4f1f",
+    "alt": "Illustration éditoriale d’un tableau de préparation avec cartes visuelles pour sujet, action, cadrage, ambiance et son, sans texte ni interface",
+    "caption": "Illustration éditoriale : les rubriques d’un brief de scène peuvent être relues séparément avant une génération. Ce n’est ni une interface Flyne ni un résultat de modèle."
+  },
+  {
+    "file": "images/03-closing-fiche-decision.png",
+    "sha256": "3c0a3ee2e09d1f0c1a87992678f25aa1779802d499a07686442e6cc374451f70",
+    "alt": "Illustration éditoriale de deux parcours de préparation parallèles sur un bureau, avec cartes de storyboard, crayon et écouteurs, sans marque ni score",
+    "caption": "Illustration éditoriale : deux parcours de préparation peuvent être relus avec la même fiche, sans désigner un vainqueur. Ce n’est pas une comparaison de sorties générées."
+  }
+]
