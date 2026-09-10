@@ -1,0 +1,23 @@
+[
+  {
+    "file": "images/01-lead-brief-essentials-16x9.png",
+    "alt": "A marketing requester and creator reviewing a paper brief with visual cues for objective, audience, message, constraints, and intended action.",
+    "sha256": "bc9fc53d8bf9da57d3ee52ce813340222163c5d9fdc8abc7c5f64952667d4e36",
+    "bytes": 2359991,
+    "source_is_live_page_image": false
+  },
+  {
+    "file": "images/02-middle-context-distinction-16x9.png",
+    "alt": "A balanced tabletop contrast between a concise visual brief and an unlabelled pile of loose references.",
+    "sha256": "6f0e9596d6d154e0186ef783bdc1d6ab2c41cc79f9998a8133176c35e1c3ac5b",
+    "bytes": 2456330,
+    "source_is_live_page_image": false
+  },
+  {
+    "file": "images/03-closing-creator-review-pack-16x9.png",
+    "alt": "A creator arranging a paper brief, product reference, color swatches, and camera on a studio table before filming.",
+    "sha256": "feeafec89a70a43eec0e72cfe2a0a9e30f215ef824aacd6f4f2243c722272cc7",
+    "bytes": 2192696,
+    "source_is_live_page_image": false
+  }
+]

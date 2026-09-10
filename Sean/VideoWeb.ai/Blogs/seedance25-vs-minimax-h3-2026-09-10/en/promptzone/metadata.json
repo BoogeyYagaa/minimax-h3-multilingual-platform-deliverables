@@ -1,0 +1,12 @@
+{
+  "article_id": "EN-03",
+  "canonical_title": "A Coffee Shop AI Video Prompt: A One-Variable Diagnostic Plan",
+  "seo_description_reference": "Plan a coffee shop AI video prompt with one intended product-and-setting brief and one declared variable, without claiming a prompt or café promotion outcome.",
+  "raw_tags_reference": "coffee shop AI video prompt\ncafe prompt planning\none-variable prompt method\nshort video creative brief\nSeedance 2.5\nMiniMax H3",
+  "metadata_reference_lines": [
+    "- SEO title: `Coffee Shop AI Video Prompt: One-Variable Diagnostic Plan`",
+    "- SEO description / excerpt: `Plan a coffee shop AI video prompt with one intended product-and-setting brief and one declared variable, without claiming a prompt or café promotion outcome.`",
+    "- Raw tags: use the independent values in `raw-tags.txt`; do not add them to reader body copy."
+  ],
+  "native_field_transfer": "See publication-record.json; local reference is not proof of native support"
+}

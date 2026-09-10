@@ -1,0 +1,1079 @@
+{
+  "campaign_id": "videoweb-seedance25-vs-minimax-h3-short-video-2026-09-10",
+  "brand": "VideoWeb AI",
+  "relationship": "founder",
+  "classification_path": "Sean/VideoWeb.ai/Blogs/seedance25-vs-minimax-h3-2026-09-10",
+  "counts": {
+    "planned_articles": 13,
+    "local_packages": 13,
+    "publication_records": 11,
+    "manual_returned_urls": 8,
+    "automated_receipts": 3,
+    "unpublished_account_suspended": 2,
+    "published_without_repair_items": 6,
+    "published_deferred_differences_or_dispute": 4,
+    "published_anonymous_access_deferred": 1,
+    "formal_public_qa_passed": 0
+  },
+  "articles": [
+    {
+      "public_url": "https://ameblo.jp/videowebai/entry-12978310398.html",
+      "publication_method": null,
+      "publication_status": "PUBLISHED_PENDING_HUMAN_ACCEPTANCE",
+      "public_review_status": "PUBLIC_REVIEW_APPROVED",
+      "public_gate": "PUBLIC_QA_DEFERRED",
+      "human_acceptance": "NOT_YET_PROVIDED",
+      "closeout_disposition": "NO_REPAIR_REQUIRED",
+      "closeout_note": "公开技术复核通过，已记录原生标签适配。",
+      "public_open_findings": null,
+      "public_finding_resolutions": null,
+      "article_id": "JA-01",
+      "title": "商品紹介動画を参考写真から企画する：Seedance 2.5とMiniMax H3の入力整理",
+      "language": "ja",
+      "platform": "Ameba Blog",
+      "archive_kind": "reviewed-source-associated-with-publication-record",
+      "archive_date": "2026-09-10",
+      "source_is_live_page_snapshot": false,
+      "fresh_live_check_during_github_sync": false,
+      "source_sha256": "c0294c6794f6b7258d00bdf1bba674dc549bf8a5defe78e8a5cfda992b655ce5",
+      "archived_article_sha256": "5cf24169bf3b04d517a29b073d474f818f602079e5d0f97e3e904b0acc941b69",
+      "archive_only_image_path_rewrites": [
+        {
+          "from": "./01-lead-reference-photo-planning-16x9.png",
+          "to": "images/01-lead-reference-photo-planning-16x9.png"
+        },
+        {
+          "from": "./02-middle-one-motion-16x9.png",
+          "to": "images/02-middle-one-motion-16x9.png"
+        },
+        {
+          "from": "./03-closing-four-checks-16x9.png",
+          "to": "images/03-closing-four-checks-16x9.png"
+        }
+      ],
+      "original_images": [
+        {
+          "file": "images/01-lead-reference-photo-planning-16x9.png",
+          "alt": "深い青緑の手作り陶器カップ、紙の参照写真、無地の企画メモが木の作業台に並ぶ編集用イラスト",
+          "sha256": "58d1274fa1134c5a9c719c6db355c4d14795b86b33071fb91ddaf1aad4099ac7",
+          "bytes": 2196213,
+          "source_is_live_page_image": false
+        },
+        {
+          "file": "images/02-middle-one-motion-16x9.png",
+          "alt": "青緑の陶器カップの写真と一枚の曲線メモを並べ、一つの見せる動きを考える編集用イラスト",
+          "sha256": "0ba6d4b57c8e90f2822554f164c8c5bdfd843af53c9efa42893b3b714e370ecd",
+          "bytes": 2241823,
+          "source_is_live_page_image": false
+        },
+        {
+          "file": "images/03-closing-four-checks-16x9.png",
+          "alt": "青緑の陶器カップと参照写真、四つの空欄がある紙、鉛筆を置いた編集用イラスト",
+          "sha256": "7c06ecd6daec137c43d96da55f13a9699a9e15f14b119dc0ae843b8028c71dbe",
+          "bytes": 2290129,
+          "source_is_live_page_image": false
+        }
+      ],
+      "archive_path": "ja/ameba-blog",
+      "source_metadata_trailer_separated": false,
+      "evidence_reports": [
+        {
+          "file": "reports/public-gate-report-001.md",
+          "original_sha256": "4a9c0e40e8f88e2980b9440e6efabed6b00ad884dd1af284d153a0381e9ccd6b",
+          "archive_sha256": "4a9c0e40e8f88e2980b9440e6efabed6b00ad884dd1af284d153a0381e9ccd6b",
+          "local_paths_redacted": true
+        },
+        {
+          "file": "reports/public-review-001.md",
+          "original_sha256": "dd2f673fad561806a59c3c5b7fec03136e065aef5a09f0beb85cb6acd654bc35",
+          "archive_sha256": "dd2f673fad561806a59c3c5b7fec03136e065aef5a09f0beb85cb6acd654bc35",
+          "local_paths_redacted": true
+        }
+      ]
+    },
+    {
+      "public_url": "https://videowebai.blogspot.com/2026/09/ai-3-seedance-25-minimax-h3.html",
+      "publication_method": null,
+      "publication_status": "PUBLISHED_PENDING_MANUAL_QA_RESOLUTION",
+      "public_review_status": "PUBLIC_REVIEW_CHANGES",
+      "public_gate": "PUBLIC_QA_CHANGES",
+      "human_acceptance": "NOT_YET_PROVIDED",
+      "closeout_disposition": "DEFERRED_TEMPLATE_LANGUAGE",
+      "closeout_note": "文章标题语义 H3、根语言 en 的公开差异保留；未操作博客或模板设置。",
+      "public_open_findings": [
+        {
+          "id": "PUBLIC-RENDER-001",
+          "status": "OPEN",
+          "observed": "Article title is H3; site title is document H1",
+          "native_editor_fixability": "UNVERIFIED"
+        },
+        {
+          "id": "PUBLIC-RENDER-002",
+          "status": "OPEN",
+          "observed": "Thai reader page root lang=en",
+          "native_editor_fixability": "UNVERIFIED"
+        }
+      ],
+      "public_finding_resolutions": null,
+      "article_id": "TH-01",
+      "title": "คลิปขายอาหารด้วย AI: เขียนบรีฟ 3 ส่วนสำหรับ Seedance 2.5 และ MiniMax H3",
+      "language": "th",
+      "platform": "Blogger",
+      "archive_kind": "reviewed-source-associated-with-publication-record",
+      "archive_date": "2026-09-10",
+      "source_is_live_page_snapshot": false,
+      "fresh_live_check_during_github_sync": false,
+      "source_sha256": "a640919d0aad7216551104b0c94514da7c6fdceeee053a59dac90989618bd492",
+      "archived_article_sha256": "41258fb9de2c5b771e8d7d49eb28195fbe3806c66db9269d2febc051b251aca8",
+      "archive_only_image_path_rewrites": [
+        {
+          "from": "assets/food-selling-brief-lead-16x9.jpg",
+          "to": "images/food-selling-brief-lead-16x9.jpg"
+        }
+      ],
+      "original_images": [
+        {
+          "file": "images/food-selling-brief-lead-16x9.jpg",
+          "alt": "ชามก๋วยเตี๋ยวบนเคาน์เตอร์ไม้ในแสงเช้า มีตะเกียบคีบเส้นขึ้นหนึ่งจังหวะและมีพื้นที่ว่างด้านขวา",
+          "sha256": "f21ff85955728887902cb814c0f3e98a635361f1cb30d388969e6269ca711672",
+          "bytes": 118026,
+          "source_is_live_page_image": false
+        }
+      ],
+      "archive_path": "th/blogger",
+      "source_metadata_trailer_separated": true,
+      "evidence_reports": [
+        {
+          "file": "reports/public-gate-report-1.md",
+          "original_sha256": "8397a58762e49c1ee3027698b33620be56cf9e46199b641ef17551f6a5e107cc",
+          "archive_sha256": "8397a58762e49c1ee3027698b33620be56cf9e46199b641ef17551f6a5e107cc",
+          "local_paths_redacted": true
+        },
+        {
+          "file": "reports/public-review-1.md",
+          "original_sha256": "823e16ab52d854a06255169612a0ef44a28e27b454838a4c04599878962e9ce0",
+          "archive_sha256": "823e16ab52d854a06255169612a0ef44a28e27b454838a4c04599878962e9ce0",
+          "local_paths_redacted": true
+        }
+      ]
+    },
+    {
+      "public_url": "https://www.linkedin.com/pulse/short-video-creative-brief-template-handoffs-videoweb-ai-4ulwf/",
+      "publication_method": null,
+      "publication_status": "PUBLISHED_PENDING_INDEPENDENT_PUBLIC_QA",
+      "public_review_status": "PUBLIC_REVIEW_APPROVED",
+      "public_gate": "PUBLIC_QA_DEFERRED",
+      "human_acceptance": "NOT_YET_PROVIDED",
+      "closeout_disposition": "DEFERRED_ANONYMOUS_ACCESS",
+      "closeout_note": "已有发布回执和登录态核对；匿名重定向后 451，匿名正文未获验证。",
+      "public_open_findings": null,
+      "public_finding_resolutions": null,
+      "article_id": "EN-07",
+      "title": "A Short Video Creative Brief Template for Marketing-to-Creator Handoffs",
+      "language": "en",
+      "platform": "LinkedIn",
+      "archive_kind": "reviewed-source-associated-with-publication-record",
+      "archive_date": "2026-09-10",
+      "source_is_live_page_snapshot": false,
+      "fresh_live_check_during_github_sync": false,
+      "source_sha256": "190ec91bd90fd4dc43edd24e58c8139735e5dea83313621a8db7336eaa65c1e3",
+      "archived_article_sha256": "190ec91bd90fd4dc43edd24e58c8139735e5dea83313621a8db7336eaa65c1e3",
+      "archive_only_image_path_rewrites": [
+        {
+          "from": "images/01-lead-brief-essentials-16x9.png",
+          "to": "images/01-lead-brief-essentials-16x9.png"
+        },
+        {
+          "from": "images/02-middle-context-distinction-16x9.png",
+          "to": "images/02-middle-context-distinction-16x9.png"
+        },
+        {
+          "from": "images/03-closing-creator-review-pack-16x9.png",
+          "to": "images/03-closing-creator-review-pack-16x9.png"
+        }
+      ],
+      "original_images": [
+        {
+          "file": "images/01-lead-brief-essentials-16x9.png",
+          "alt": "A marketing requester and creator reviewing a paper brief with visual cues for objective, audience, message, constraints, and intended action.",
+          "sha256": "bc9fc53d8bf9da57d3ee52ce813340222163c5d9fdc8abc7c5f64952667d4e36",
+          "bytes": 2359991,
+          "source_is_live_page_image": false
+        },
+        {
+          "file": "images/02-middle-context-distinction-16x9.png",
+          "alt": "A balanced tabletop contrast between a concise visual brief and an unlabelled pile of loose references.",
+          "sha256": "6f0e9596d6d154e0186ef783bdc1d6ab2c41cc79f9998a8133176c35e1c3ac5b",
+          "bytes": 2456330,
+          "source_is_live_page_image": false
+        },
+        {
+          "file": "images/03-closing-creator-review-pack-16x9.png",
+          "alt": "A creator arranging a paper brief, product reference, color swatches, and camera on a studio table before filming.",
+          "sha256": "feeafec89a70a43eec0e72cfe2a0a9e30f215ef824aacd6f4f2243c722272cc7",
+          "bytes": 2192696,
+          "source_is_live_page_image": false
+        }
+      ],
+      "archive_path": "en/linkedin",
+      "source_metadata_trailer_separated": false,
+      "evidence_reports": [
+        {
+          "file": "reports/public-gate-report-1.md",
+          "original_sha256": "52281b495d0f96cc7a14705d239b9d88459c83097a2dd8bcacb11a3939a95ae9",
+          "archive_sha256": "52281b495d0f96cc7a14705d239b9d88459c83097a2dd8bcacb11a3939a95ae9",
+          "local_paths_redacted": true
+        },
+        {
+          "file": "reports/public-review-1.md",
+          "original_sha256": "dec7a1571c126a40624927b8c0353a34a72dca3eafcc5c7e998c0047a7c952de",
+          "archive_sha256": "dec7a1571c126a40624927b8c0353a34a72dca3eafcc5c7e998c0047a7c952de",
+          "local_paths_redacted": true
+        }
+      ]
+    },
+    {
+      "public_url": "https://videowebai.wordpress.com/2026/09/10/seedance-2-5-vs-minimax-h3-for-product-videos-a-same-brief-decision-protocol/",
+      "publication_method": "HUMAN_PUBLICATION_USER_RETURNED_URL",
+      "publication_status": "PUBLISHED_PENDING_MANUAL_QA_RESOLUTION",
+      "public_review_status": "PUBLIC_REVIEW_CHANGES",
+      "public_gate": "PUBLIC_QA_CHANGES",
+      "human_acceptance": "NOT_YET_PROVIDED",
+      "closeout_disposition": "DEFERRED_CONFIRMED_SEMANTIC_DIFFERENCE",
+      "closeout_note": "新匿名源码复核确认文章标题为 H2、站点名称为 H1；语义差异保留搁置，不代表视觉显示错误，不再请求修改。",
+      "public_open_findings": null,
+      "public_finding_resolutions": null,
+      "article_id": "EN-01",
+      "title": "Seedance 2.5 vs MiniMax H3 for Product Videos: A Same-Brief Decision Protocol",
+      "language": "en",
+      "platform": "WordPress.com",
+      "archive_kind": "reviewed-source-associated-with-publication-record",
+      "archive_date": "2026-09-10",
+      "source_is_live_page_snapshot": false,
+      "fresh_live_check_during_github_sync": false,
+      "source_sha256": "a10fb344f17f701f22eb5116068c6005a921a060d08df46f70e65f08956ffb99",
+      "archived_article_sha256": "9d5520af4279ce70d18a18ec28d3c3cf2fd0884de63d581832cfe6d2b3e3a636",
+      "archive_only_image_path_rewrites": [
+        {
+          "from": "./images/01-lead-fixed-product-brief-16x9.png",
+          "to": "images/01-lead-fixed-product-brief-16x9.png"
+        },
+        {
+          "from": "./images/02-middle-parallel-prompt-briefs-16x9.png",
+          "to": "images/02-middle-parallel-prompt-briefs-16x9.png"
+        },
+        {
+          "from": "./images/03-closing-observation-record-16x9.png",
+          "to": "images/03-closing-observation-record-16x9.png"
+        }
+      ],
+      "original_images": [
+        {
+          "file": "images/01-lead-fixed-product-brief-16x9.png",
+          "alt": "Editorial illustration of one unbranded product bottle, a fixed video brief, and a storyboard card on a studio desk.",
+          "sha256": "049362bff2add58d5701712628ed2ce13f690141277db6ed722e187864a03eb6",
+          "bytes": 2320573,
+          "source_is_live_page_image": false
+        },
+        {
+          "file": "images/02-middle-parallel-prompt-briefs-16x9.png",
+          "alt": "Editorial illustration of two equal prompt-planning cards linked to the same unbranded product reference.",
+          "sha256": "27afc63d9e622418272a2fa2753f95550fa3f7d200529ee1db92cd07981036b8",
+          "bytes": 2452331,
+          "source_is_live_page_image": false
+        },
+        {
+          "file": "images/03-closing-observation-record-16x9.png",
+          "alt": "Editorial illustration of a product-video observation notebook with three equally weighted next-step cards.",
+          "sha256": "df5f139d7eac44c8578862f9f66d58e359366e9d15b748e0a1c8bd5e044607fd",
+          "bytes": 2324104,
+          "source_is_live_page_image": false
+        }
+      ],
+      "archive_path": "en/wordpress-com",
+      "source_metadata_trailer_separated": false,
+      "evidence_reports": [
+        {
+          "file": "reports/public-gate-report-1.md",
+          "original_sha256": "fcce097bbe12f7364b865f5bff25854ca67c56fe4581d45e6f33257f344eaa24",
+          "archive_sha256": "fcce097bbe12f7364b865f5bff25854ca67c56fe4581d45e6f33257f344eaa24",
+          "local_paths_redacted": true
+        },
+        {
+          "file": "reports/public-gate-report-2.md",
+          "original_sha256": "b39fe47093426cf74d02284376b757c72298513bd087002daaa4542dad5e7839",
+          "archive_sha256": "b39fe47093426cf74d02284376b757c72298513bd087002daaa4542dad5e7839",
+          "local_paths_redacted": true
+        },
+        {
+          "file": "reports/public-review-1.md",
+          "original_sha256": "d53a5eb1bac028550259ffa7e1d286e233be5a96c79ae6a4f17df79f07457c4c",
+          "archive_sha256": "d53a5eb1bac028550259ffa7e1d286e233be5a96c79ae6a4f17df79f07457c4c",
+          "local_paths_redacted": true
+        },
+        {
+          "file": "reports/public-review-2.md",
+          "original_sha256": "e60c3ce7761e941fa9b674449f6c02bf1125005c7cdce4e6b0375956881e7e75",
+          "archive_sha256": "e60c3ce7761e941fa9b674449f6c02bf1125005c7cdce4e6b0375956881e7e75",
+          "local_paths_redacted": true
+        }
+      ]
+    },
+    {
+      "public_url": "https://paragraph.com/@videoweb.ai/a-short-video-launch-storyboard-template-from-opening-hook-to-requested-action",
+      "publication_method": "HUMAN_PUBLICATION_USER_RETURNED_URL",
+      "publication_status": "PUBLISHED_PENDING_MANUAL_QA_RESOLUTION",
+      "public_review_status": "PUBLIC_REVIEW_CHANGES",
+      "public_gate": "PUBLIC_QA_CHANGES",
+      "human_acceptance": "NOT_YET_PROVIDED",
+      "closeout_disposition": "DEFERRED_PUBLIC_DIFFERENCES",
+      "closeout_note": "额外首图封面与描述差异未处置；ALT 无可用选项已记录。",
+      "public_open_findings": null,
+      "public_finding_resolutions": null,
+      "article_id": "EN-02",
+      "title": "A Short Video Launch Storyboard Template: From Opening Hook to Requested Action",
+      "language": "en",
+      "platform": "Paragraph",
+      "archive_kind": "reviewed-source-associated-with-publication-record",
+      "archive_date": "2026-09-10",
+      "source_is_live_page_snapshot": false,
+      "fresh_live_check_during_github_sync": false,
+      "source_sha256": "157e52c0912f40a33dc21fb2b5065dbe9ba3d8a803a42df4bb9412d0a3f21ad2",
+      "archived_article_sha256": "13e6e5333dfe57ca3f20e16b286adbd2f5bef3512b19745f41d518105dba58f7",
+      "archive_only_image_path_rewrites": [
+        {
+          "from": "./human-release/Paragraph/images/01-launch-storyboard-planning-16x9.png",
+          "to": "images/01-launch-storyboard-planning-16x9.png"
+        },
+        {
+          "from": "./human-release/Paragraph/images/02-single-clip-decision-map-16x9.png",
+          "to": "images/02-single-clip-decision-map-16x9.png"
+        },
+        {
+          "from": "./human-release/Paragraph/images/03-storyboard-review-desk-16x9.png",
+          "to": "images/03-storyboard-review-desk-16x9.png"
+        }
+      ],
+      "original_images": [
+        {
+          "file": "images/01-launch-storyboard-planning-16x9.png",
+          "alt": "Editorial illustration of four blank storyboard cards arranged for a short video launch plan.",
+          "sha256": "2136921f421978471453107d825d8bfbdd4f09ae7292d3699a01cd57b918e6c4",
+          "bytes": 2198402,
+          "source_is_live_page_image": false
+        },
+        {
+          "file": "images/02-single-clip-decision-map-16x9.png",
+          "alt": "Editorial illustration of one paper decision path through four unlabelled storyboard frames.",
+          "sha256": "a4cdf30aa1609cbbf0ea563993b16fec923f6ce4e6e04df39f8a4f08d6881e2f",
+          "bytes": 2454105,
+          "source_is_live_page_image": false
+        },
+        {
+          "file": "images/03-storyboard-review-desk-16x9.png",
+          "alt": "Editorial illustration of an unbranded desk prepared to review a four-frame launch storyboard.",
+          "sha256": "d99a49ccff145cafabe14413135b15f3e532731d94a965790b3732b05fbfe7eb",
+          "bytes": 2307897,
+          "source_is_live_page_image": false
+        }
+      ],
+      "archive_path": "en/paragraph",
+      "source_metadata_trailer_separated": false,
+      "evidence_reports": [
+        {
+          "file": "reports/public-gate-report-1.md",
+          "original_sha256": "bd02d97727dbbeada59cf1f193e37a06c3b4c366772b0782612077fdb0526484",
+          "archive_sha256": "bd02d97727dbbeada59cf1f193e37a06c3b4c366772b0782612077fdb0526484",
+          "local_paths_redacted": true
+        },
+        {
+          "file": "reports/public-review-1.md",
+          "original_sha256": "edfe0c35eb8e68707a467ac2e92b9391cb88315b8092592f77baa8f7b055c059",
+          "archive_sha256": "edfe0c35eb8e68707a467ac2e92b9391cb88315b8092592f77baa8f7b055c059",
+          "local_paths_redacted": true
+        }
+      ]
+    },
+    {
+      "public_url": "https://www.promptzone.com/videoweb_ai_f12213e577911/a-coffee-shop-ai-video-prompt-a-one-variable-diagnostic-plan-ban",
+      "publication_method": "HUMAN_PUBLICATION_USER_RETURNED_URL",
+      "publication_status": "PUBLISHED_WITH_USER_CONFIRMED_LIMITATION_PENDING_HUMAN_ACCEPTANCE",
+      "public_review_status": "PUBLIC_REVIEW_CHANGES_WITH_USER_CONFIRMED_LIMITATION",
+      "public_gate": "PUBLIC_QA_DEFERRED",
+      "human_acceptance": "NOT_YET_PROVIDED",
+      "closeout_disposition": "NO_REPAIR_REQUIRED_WITH_LIMITATION",
+      "closeout_note": "正文及三图通过；描述和标签按用户确认的编辑器局限保留。",
+      "public_open_findings": [],
+      "public_finding_resolutions": [
+        {
+          "id": "PUBLIC-RENDER-001",
+          "status": "USER_CONFIRMED_EDITOR_LIMITATION_NO_REPAIR_REQUIRED",
+          "observed": "Automatic description and three tags ai/prompt/tutorial differ from raw release metadata",
+          "native_editor_fixability": "USER_CONFIRMED_UNAVAILABLE",
+          "resolution_evidence": "evidence/EN-03-user-confirmed-metadata-editor-limitation.json"
+        }
+      ],
+      "article_id": "EN-03",
+      "title": "A Coffee Shop AI Video Prompt: A One-Variable Diagnostic Plan",
+      "language": "en",
+      "platform": "PromptZone",
+      "archive_kind": "reviewed-source-associated-with-publication-record",
+      "archive_date": "2026-09-10",
+      "source_is_live_page_snapshot": false,
+      "fresh_live_check_during_github_sync": false,
+      "source_sha256": "f7b1bfedbdbf13f9029b244696e773c3fdec73838a55e0b49a02564d070ece63",
+      "archived_article_sha256": "4ff58010175715e47a16353356c9d62a9af02a1919d77b976b12b439c12c864b",
+      "archive_only_image_path_rewrites": [
+        {
+          "from": "human-release/PromptZone/images/01-lead-cafe-brief-16x9.png",
+          "to": "images/01-lead-cafe-brief-16x9.png"
+        },
+        {
+          "from": "human-release/PromptZone/images/02-middle-one-variable-cards-16x9.png",
+          "to": "images/02-middle-one-variable-cards-16x9.png"
+        },
+        {
+          "from": "human-release/PromptZone/images/03-closing-cafe-notes-16x9.png",
+          "to": "images/03-closing-cafe-notes-16x9.png"
+        }
+      ],
+      "original_images": [
+        {
+          "file": "images/01-lead-cafe-brief-16x9.png",
+          "alt": "An unbranded coffee-bean bag and cream takeaway cup on a café counter beside a blank visual brief.",
+          "sha256": "4572084dbfe6be8153d3abeda8829685c1d54641f5d1046929105253a396d5ac",
+          "bytes": 2140268,
+          "source_is_live_page_image": false
+        },
+        {
+          "file": "images/02-middle-one-variable-cards-16x9.png",
+          "alt": "An unbranded coffee product pair beside three abstract paper planning cards on a café table.",
+          "sha256": "596c519f6f7f446069516288e09049a604f34489a153ac5f0db92e10bf0d1ee1",
+          "bytes": 2157450,
+          "source_is_live_page_image": false
+        },
+        {
+          "file": "images/03-closing-cafe-notes-16x9.png",
+          "alt": "An unbranded coffee-bean bag and cup with a closed notebook and blank paper slips on a café table.",
+          "sha256": "4e285ad688ba16a3886dde3f0dbec3dcc541439f87448a5a778989cd45c16814",
+          "bytes": 2242698,
+          "source_is_live_page_image": false
+        }
+      ],
+      "archive_path": "en/promptzone",
+      "source_metadata_trailer_separated": false,
+      "evidence_reports": [
+        {
+          "file": "reports/public-gate-report-1.md",
+          "original_sha256": "eba2bc6f0012d41074276518a1b216ca862aae95fbd34124c480327aab64949d",
+          "archive_sha256": "eba2bc6f0012d41074276518a1b216ca862aae95fbd34124c480327aab64949d",
+          "local_paths_redacted": true
+        },
+        {
+          "file": "reports/public-gate-report-2.md",
+          "original_sha256": "58a1d1c08c15cabe2ea1add5b9d9961790d9295d35879e60e6adf8f63d37d1df",
+          "archive_sha256": "58a1d1c08c15cabe2ea1add5b9d9961790d9295d35879e60e6adf8f63d37d1df",
+          "local_paths_redacted": true
+        },
+        {
+          "file": "reports/public-review-1-metadata-limitation-disposition.md",
+          "original_sha256": "045f4d13088ed7a5ec20bbabc31f47aa928c04997b65c88eadfa28a5d3dd4829",
+          "archive_sha256": "045f4d13088ed7a5ec20bbabc31f47aa928c04997b65c88eadfa28a5d3dd4829",
+          "local_paths_redacted": true
+        },
+        {
+          "file": "reports/public-review-1.md",
+          "original_sha256": "9342b576c4aca94ff9e3f412d1d3ad872a95ade9d52c6e9ec526aed0ceafa1f6",
+          "archive_sha256": "9342b576c4aca94ff9e3f412d1d3ad872a95ade9d52c6e9ec526aed0ceafa1f6",
+          "local_paths_redacted": true
+        }
+      ]
+    },
+    {
+      "public_url": "https://www.tumblr.com/videowebai/827355403965890560/a-travel-photo-to-video-prompt-plan-three-motion?source=share",
+      "publication_method": "HUMAN_PUBLICATION_USER_RETURNED_URL",
+      "publication_status": "PUBLISHED_WITH_USER_CONFIRMED_LIMITATION_PENDING_HUMAN_ACCEPTANCE",
+      "public_review_status": "PUBLIC_REVIEW_CHANGES_WITH_USER_CONFIRMED_LIMITATION",
+      "public_gate": "PUBLIC_QA_DEFERRED",
+      "human_acceptance": "NOT_YET_PROVIDED",
+      "closeout_disposition": "NO_REPAIR_REQUIRED_WITH_LIMITATION",
+      "closeout_note": "主标题及六 H2 已修复；无 H3 选项按局限保留，正文和三图通过。",
+      "public_open_findings": [],
+      "public_finding_resolutions": [
+        {
+          "id": "PUBLIC-HEADING-HIERARCHY-001",
+          "status": "USER_CONFIRMED_EDITOR_LIMITATION_NO_REPAIR_REQUIRED",
+          "observed": "1 H1 / 6 H2 / 0 H3",
+          "expected": "1 H1 / 6 H2 / 3 H3",
+          "resolved_subparts": [
+            "Native H1 correct",
+            "Six major H2 headings restored"
+          ],
+          "remaining": "Three subordinate motion directions lack H3 semantics",
+          "native_editor_fixability": "USER_CONFIRMED_NO_H3_OPTION",
+          "resolution_evidence": "evidence/EN-04-user-confirmed-no-h3-editor-limitation.json"
+        }
+      ],
+      "article_id": "EN-04",
+      "title": "A Travel Photo to Video Prompt: Plan Three Motion Directions Before You Generate",
+      "language": "en",
+      "platform": "Tumblr",
+      "archive_kind": "reviewed-source-associated-with-publication-record",
+      "archive_date": "2026-09-10",
+      "source_is_live_page_snapshot": false,
+      "fresh_live_check_during_github_sync": false,
+      "source_sha256": "f964429defc48401a2a7ef37cefcd35570169ed6ffd1524ab8d892ded505a732",
+      "archived_article_sha256": "f9854147b1675f7a5861a941eb0f2d0e0414a520e8808030f35caddc246b5af8",
+      "archive_only_image_path_rewrites": [
+        {
+          "from": "canonical/images/01-lead-photo-planning-boundary-16x9.png",
+          "to": "images/01-lead-photo-planning-boundary-16x9.png"
+        },
+        {
+          "from": "canonical/images/02-middle-three-motion-directions-16x9.png",
+          "to": "images/02-middle-three-motion-directions-16x9.png"
+        },
+        {
+          "from": "canonical/images/03-closing-ethical-review-record-16x9.png",
+          "to": "images/03-closing-ethical-review-record-16x9.png"
+        }
+      ],
+      "original_images": [
+        {
+          "file": "images/01-lead-photo-planning-boundary-16x9.png",
+          "alt": "A paper travel photograph held over an anonymous coast, with a translucent ribbon used as a planning metaphor for possible motion.",
+          "sha256": "4a5430d299476466d53c4f23ca5cfddba3d03246d03e1085ff4e10755a30fe01",
+          "bytes": 2368261,
+          "source_is_live_page_image": false
+        },
+        {
+          "file": "images/02-middle-three-motion-directions-16x9.png",
+          "alt": "Three unlabelled abstract art cards showing mist, ripple, and light as planning metaphors rather than travel scenes or video results.",
+          "sha256": "df33473274c119196fba27f01dc8e9107346378117b34c7afc1422bc4b17f41b",
+          "bytes": 2539758,
+          "source_is_live_page_image": false
+        },
+        {
+          "file": "images/03-closing-ethical-review-record-16x9.png",
+          "alt": "A quiet desk with an unmarked review sheet, face-down photograph, paper tabs, pencil, and magnifying glass, representing a pre-use ethical review.",
+          "sha256": "3fae83518b30bf1af8d5b5100efe80c76db5e01d6dd9ef83872e37a13b4e0d05",
+          "bytes": 2690517,
+          "source_is_live_page_image": false
+        }
+      ],
+      "archive_path": "en/tumblr",
+      "source_metadata_trailer_separated": false,
+      "evidence_reports": [
+        {
+          "file": "reports/public-gate-report-1.md",
+          "original_sha256": "22c73046344dabfdd1fcc702904cec5c49803e7746bc32879c40fbedadbb0396",
+          "archive_sha256": "22c73046344dabfdd1fcc702904cec5c49803e7746bc32879c40fbedadbb0396",
+          "local_paths_redacted": true
+        },
+        {
+          "file": "reports/public-gate-report-2.md",
+          "original_sha256": "79c7b7b7b0669b2f08c139d5ad26a67abf0eefcbe283fb9292b54a1f7626c8f1",
+          "archive_sha256": "79c7b7b7b0669b2f08c139d5ad26a67abf0eefcbe283fb9292b54a1f7626c8f1",
+          "local_paths_redacted": true
+        },
+        {
+          "file": "reports/public-gate-report-3.md",
+          "original_sha256": "0b4c453d650db35d8be5d826f201709854a9ef454eeedd9ebb80f6969e39d9ae",
+          "archive_sha256": "0b4c453d650db35d8be5d826f201709854a9ef454eeedd9ebb80f6969e39d9ae",
+          "local_paths_redacted": true
+        },
+        {
+          "file": "reports/public-gate-report-4.md",
+          "original_sha256": "17505cc92f06d65760b7e3fd1fe56106fa393bbd40074e18aa8d7e1a616758ef",
+          "archive_sha256": "17505cc92f06d65760b7e3fd1fe56106fa393bbd40074e18aa8d7e1a616758ef",
+          "local_paths_redacted": true
+        },
+        {
+          "file": "reports/public-heading-limitation-addendum-1.md",
+          "original_sha256": "22aee856320e58649cdd52408be73de918b7c319ea92c6e5d1a53bd668cad7dc",
+          "archive_sha256": "22aee856320e58649cdd52408be73de918b7c319ea92c6e5d1a53bd668cad7dc",
+          "local_paths_redacted": true
+        },
+        {
+          "file": "reports/public-review-1.md",
+          "original_sha256": "995d5dcbae77182cc8f6ad3472553bb0eab3da5fa6959ba71c57e182778165ab",
+          "archive_sha256": "995d5dcbae77182cc8f6ad3472553bb0eab3da5fa6959ba71c57e182778165ab",
+          "local_paths_redacted": true
+        },
+        {
+          "file": "reports/public-review-2.md",
+          "original_sha256": "affa7fbe471542a48f47ad752b2d7b42f8f703460ff6df1ad7d2267aa6ec998b",
+          "archive_sha256": "affa7fbe471542a48f47ad752b2d7b42f8f703460ff6df1ad7d2267aa6ec998b",
+          "local_paths_redacted": true
+        },
+        {
+          "file": "reports/public-review-3.md",
+          "original_sha256": "845fb6e86c81c24407dbc5bdb5b2f5aaa0b4ff3e5fde789a31aee3596af819a3",
+          "archive_sha256": "845fb6e86c81c24407dbc5bdb5b2f5aaa0b4ff3e5fde789a31aee3596af819a3",
+          "local_paths_redacted": true
+        }
+      ]
+    },
+    {
+      "public_url": "https://www.promoteproject.com/article/227862/seedance-25-vs-minimax-h3-a-video-creative-testing-plan-for-short-video-creation",
+      "publication_method": "HUMAN_PUBLICATION_USER_RETURNED_URL",
+      "publication_status": "PUBLISHED_PENDING_MANUAL_QA_RESOLUTION",
+      "public_review_status": "PUBLIC_REVIEW_CHANGES",
+      "public_gate": "PUBLIC_QA_CHANGES",
+      "human_acceptance": "NOT_YET_PROVIDED",
+      "closeout_disposition": "DEFERRED_IMAGE_UPLOAD",
+      "closeout_note": "标题视觉无误，语义/描述/标签按局限保留；正文缺图、上传受阻，根因不确定，不要求重试。",
+      "public_open_findings": [
+        {
+          "id": "PUBLIC-RENDER-002",
+          "status": "OPEN",
+          "observed": "One empty-ALT cover before disclosure; zero inline images/captions",
+          "native_editor_fixability": "USER_REPORTED_UPLOAD_LIMITATION"
+        }
+      ],
+      "public_finding_resolutions": [
+        {
+          "id": "PUBLIC-RENDER-003",
+          "status": "USER_CONFIRMED_EDITOR_LIMITATION_NO_REPAIR_REQUIRED",
+          "observed": "Description/tags differ from frozen raw metadata",
+          "native_editor_fixability": "USER_CONFIRMED_UNAVAILABLE",
+          "resolution_evidence": "evidence/EN-08-user-confirmed-metadata-editor-limitation.json"
+        },
+        {
+          "id": "PUBLIC-RENDER-001",
+          "status": "USER_CONFIRMED_EDITOR_LIMITATION_NO_REPAIR_REQUIRED",
+          "observed": "Three H2 rendered as paragraphs",
+          "native_editor_fixability": "USER_CONFIRMED_EDITOR_LIMITATION",
+          "visual_assessment": "USER_CONFIRMED_VISUALLY_CORRECT",
+          "resolution_evidence": "evidence/EN-08-user-confirmed-heading-editor-limitation.json"
+        }
+      ],
+      "article_id": "EN-08",
+      "title": "Seedance 2.5 vs MiniMax H3: A Video Creative Testing Plan for Short Video Creation",
+      "language": "en",
+      "platform": "PromoteProject",
+      "archive_kind": "reviewed-source-associated-with-publication-record",
+      "archive_date": "2026-09-10",
+      "source_is_live_page_snapshot": false,
+      "fresh_live_check_during_github_sync": false,
+      "source_sha256": "64d357ba98db512e18586bbd3b5a0994a7088685b78afe4733809304d8583c9c",
+      "archived_article_sha256": "fc3ccba469486ae523bb469ea14d1b851ab724e5b85a39624821a7fde9378d89",
+      "archive_only_image_path_rewrites": [
+        {
+          "from": "./images/01-cover-planning-16x9.png",
+          "to": "images/01-cover-planning-16x9.png"
+        },
+        {
+          "from": "./images/02-single-variable-storyboard-16x9.png",
+          "to": "images/02-single-variable-storyboard-16x9.png"
+        },
+        {
+          "from": "./images/03-metric-checkpoint-16x9.png",
+          "to": "images/03-metric-checkpoint-16x9.png"
+        }
+      ],
+      "original_images": [
+        {
+          "file": "images/01-cover-planning-16x9.png",
+          "alt": "Editorial illustration of a startup team planning two short-video storyboard options around an unbranded water bottle.",
+          "sha256": "fddca8fd275cb4a82e6f8c91f94c06a353cd34bb640d1fdb572566985eea8a59",
+          "bytes": 2304096,
+          "source_is_live_page_image": false
+        },
+        {
+          "file": "images/02-single-variable-storyboard-16x9.png",
+          "alt": "Editorial storyboard showing a control bottle standing on a desk beside a treatment frame where a hand lifts the same bottle.",
+          "sha256": "74150f4d0a8b1684ed13eb589ce37f8419d3a1908cb1bb0146f0373657171a83",
+          "bytes": 2025392,
+          "source_is_live_page_image": false
+        },
+        {
+          "file": "images/03-metric-checkpoint-16x9.png",
+          "alt": "Editorial illustration of two marketers reviewing short-video storyboards beside a blank metric-selection card.",
+          "sha256": "9bc89ddd47f74015e4e6e01abf1a090e01bdc22a2b0745f47ad66f735641a5b7",
+          "bytes": 2195906,
+          "source_is_live_page_image": false
+        }
+      ],
+      "archive_path": "en/promoteproject",
+      "source_metadata_trailer_separated": false,
+      "evidence_reports": [
+        {
+          "file": "reports/public-gate-report-1.md",
+          "original_sha256": "1dd0de07854c3d79f29b6d11f4a08d8655824d7d822513ac81bfa797d6724805",
+          "archive_sha256": "1dd0de07854c3d79f29b6d11f4a08d8655824d7d822513ac81bfa797d6724805",
+          "local_paths_redacted": true
+        },
+        {
+          "file": "reports/public-gate-report-2.md",
+          "original_sha256": "93a8ee647d479c637b9f133d6d2fc235845391db37c3e7fc33df12c9f2853206",
+          "archive_sha256": "93a8ee647d479c637b9f133d6d2fc235845391db37c3e7fc33df12c9f2853206",
+          "local_paths_redacted": true
+        },
+        {
+          "file": "reports/public-gate-report-3.md",
+          "original_sha256": "5282efb1c26f72b4ccd47be2efffaf3b7132481486c86267074055bc1a636fd5",
+          "archive_sha256": "5282efb1c26f72b4ccd47be2efffaf3b7132481486c86267074055bc1a636fd5",
+          "local_paths_redacted": true
+        },
+        {
+          "file": "reports/public-review-1-heading-limitation-disposition.md",
+          "original_sha256": "e8c6a56ab6276a564a47a23409c8aa2484de8b871393973409ee7ca589de1bb8",
+          "archive_sha256": "e8c6a56ab6276a564a47a23409c8aa2484de8b871393973409ee7ca589de1bb8",
+          "local_paths_redacted": true
+        },
+        {
+          "file": "reports/public-review-1-metadata-limitation-disposition.md",
+          "original_sha256": "113f89dfa0775c5c3f82be88576cfa329724d0bc67d0bf8eba9984809658a5fd",
+          "archive_sha256": "113f89dfa0775c5c3f82be88576cfa329724d0bc67d0bf8eba9984809658a5fd",
+          "local_paths_redacted": true
+        },
+        {
+          "file": "reports/public-review-1.md",
+          "original_sha256": "675e4b8adcdd12f41a08537f87aae8794b0fd08b8e0e912766e6146e015ffea3",
+          "archive_sha256": "675e4b8adcdd12f41a08537f87aae8794b0fd08b8e0e912766e6146e015ffea3",
+          "local_paths_redacted": true
+        }
+      ]
+    },
+    {
+      "public_url": "https://zenn.dev/videowebai/articles/cf88a1bb43802d",
+      "publication_method": "HUMAN_PUBLICATION_USER_RETURNED_URL",
+      "publication_status": "PUBLISHED_WITH_USER_CONFIRMED_LIMITATION_PENDING_HUMAN_ACCEPTANCE",
+      "public_review_status": "PUBLIC_REVIEW_CHANGES_WITH_USER_CONFIRMED_LIMITATION",
+      "public_gate": "PUBLIC_QA_DEFERRED",
+      "human_acceptance": "NOT_YET_PROVIDED",
+      "closeout_disposition": "NO_REPAIR_REQUIRED_WITH_LIMITATION",
+      "closeout_note": "字面 # 和重复 H1 已修复；短标题按用户确认的长度限制保留。",
+      "public_open_findings": [],
+      "public_finding_resolutions": [
+        {
+          "id": "PUBLIC-RENDER-001",
+          "status": "USER_CONFIRMED_TITLE_LENGTH_LIMIT_NO_REPAIR_REQUIRED",
+          "observed": "Native title remains shortened",
+          "resolved_subparts": [
+            "Literal leading # removed",
+            "Duplicate body H1 removed"
+          ],
+          "native_editor_fixability": "USER_CONFIRMED_TITLE_LENGTH_LIMIT",
+          "resolution_evidence": "evidence/EN-09-user-confirmed-title-length-limitation.json"
+        }
+      ],
+      "article_id": "EN-09",
+      "title": "AI Video Prompt Iteration Workflow: Review One Attempt, Then Change One Thing",
+      "language": "en",
+      "platform": "Zenn",
+      "archive_kind": "reviewed-source-associated-with-publication-record",
+      "archive_date": "2026-09-10",
+      "source_is_live_page_snapshot": false,
+      "fresh_live_check_during_github_sync": false,
+      "source_sha256": "1458b6dfa2d24ebc4b5ff1a8339985383ca839c19f5d4f5c561323075ebe54b7",
+      "archived_article_sha256": "8af0b3f4c703d7289319d5855a43e32911b04b47b7b9ed52215ab90b6d333134",
+      "archive_only_image_path_rewrites": [
+        {
+          "from": "./01-hero-16x9.png",
+          "to": "images/01-hero-16x9.png"
+        },
+        {
+          "from": "./02-one-change-16x9.png",
+          "to": "images/02-one-change-16x9.png"
+        },
+        {
+          "from": "./03-collaboration-note-16x9.png",
+          "to": "images/03-collaboration-note-16x9.png"
+        }
+      ],
+      "original_images": [
+        {
+          "file": "images/01-hero-16x9.png",
+          "alt": "Editorial illustration of a creator reviewing two cinematic short-video frames before choosing a single next prompt change.",
+          "sha256": "73a82f5f19c6036d371d795f16a9d2031627d03bef1c53b11b8c0d79029de3c4",
+          "bytes": 2259796,
+          "source_is_live_page_image": false
+        },
+        {
+          "file": "images/02-one-change-16x9.png",
+          "alt": "Editorial contact sheet showing one ceramic mug scene with a single camera-framing change across three unlabeled frames.",
+          "sha256": "3e742b6bda41ad5cf789e0bdd3731393678f6b94f9b152ca3830f2dd730aea8c",
+          "bytes": 2353628,
+          "source_is_live_page_image": false
+        },
+        {
+          "file": "images/03-collaboration-note-16x9.png",
+          "alt": "Editorial illustration of two collaborators using a small blank note beside a storyboard to discuss one next prompt change.",
+          "sha256": "834aef8a4dc0245bdd2e95a36e59ddac0b69152ac52158123bba5f45e2fde339",
+          "bytes": 2178657,
+          "source_is_live_page_image": false
+        }
+      ],
+      "archive_path": "en/zenn",
+      "source_metadata_trailer_separated": false,
+      "evidence_reports": [
+        {
+          "file": "reports/public-finding-disposition-1.md",
+          "original_sha256": "0c80fd8f06667edb9b8552b4a52abb2d5782df1bbf2871f27de05d3571803183",
+          "archive_sha256": "0c80fd8f06667edb9b8552b4a52abb2d5782df1bbf2871f27de05d3571803183",
+          "local_paths_redacted": true
+        },
+        {
+          "file": "reports/public-gate-report-1.md",
+          "original_sha256": "8661bf2dd6e60ebbe1f30113639d139286f254997ab4b1c486de2f6257d768aa",
+          "archive_sha256": "8661bf2dd6e60ebbe1f30113639d139286f254997ab4b1c486de2f6257d768aa",
+          "local_paths_redacted": true
+        },
+        {
+          "file": "reports/public-gate-report-2.md",
+          "original_sha256": "7c91aea67379f5461b90ccebaeed013e45170d5682810bf6a6b8383f51273142",
+          "archive_sha256": "7c91aea67379f5461b90ccebaeed013e45170d5682810bf6a6b8383f51273142",
+          "local_paths_redacted": true
+        },
+        {
+          "file": "reports/public-gate-report-3.md",
+          "original_sha256": "d3bfaefee20e953b83fa1668bbb5e019b76ff5e343f23b4fb0b205086d298ba7",
+          "archive_sha256": "d3bfaefee20e953b83fa1668bbb5e019b76ff5e343f23b4fb0b205086d298ba7",
+          "local_paths_redacted": true
+        },
+        {
+          "file": "reports/public-review-1.md",
+          "original_sha256": "69fb31f309dc6a991fe9842dd6363fcc9782013248744611f2c19af66f0b3652",
+          "archive_sha256": "69fb31f309dc6a991fe9842dd6363fcc9782013248744611f2c19af66f0b3652",
+          "local_paths_redacted": true
+        },
+        {
+          "file": "reports/public-review-2.md",
+          "original_sha256": "9939d8c0e285c7ddb04ef5bdad750e33d5a1efddc636220249bf35fe64b15fbb",
+          "archive_sha256": "9939d8c0e285c7ddb04ef5bdad750e33d5a1efddc636220249bf35fe64b15fbb",
+          "local_paths_redacted": true
+        }
+      ]
+    },
+    {
+      "public_url": "https://videowebai.overblog.fr/2026/09/seedance-2.5-vs-minimax-h3-ecrire-le-brief-d-une-courte-video-de-chambre.html",
+      "publication_method": "HUMAN_PUBLICATION_USER_RETURNED_URL",
+      "publication_status": "PUBLISHED_WITH_USER_CONFIRMED_LIMITATION_PENDING_HUMAN_ACCEPTANCE",
+      "public_review_status": "PUBLIC_REVIEW_APPROVED",
+      "public_gate": "PUBLIC_QA_DEFERRED",
+      "human_acceptance": "NOT_YET_PROVIDED",
+      "closeout_disposition": "NO_REPAIR_REQUIRED_WITH_LIMITATION",
+      "closeout_note": "两条目标链接已恢复，正文及三图通过；H3 按用户确认的固有局限保留。",
+      "public_open_findings": [],
+      "public_finding_resolutions": [
+        {
+          "id": "PUBLIC-RENDER-002",
+          "status": "USER_CONFIRMED_EDITOR_LIMITATION_NO_REPAIR_REQUIRED",
+          "observed": "Three H3 labels render as div.ob-h3 instead of semantic H3",
+          "native_editor_fixability": "USER_CONFIRMED_H3_PLATFORM_LIMITATION",
+          "resolution_evidence": "evidence/FR-01-user-confirmed-h3-editor-limitation.json"
+        },
+        {
+          "id": "PUBLIC-RENDER-001",
+          "status": "RESOLVED",
+          "observed": "Two required VideoWeb anchor texts are unlinked spans; both exact hrefs absent",
+          "resolution": "Both exact anchor/href pairs restored once each in fresh reader evidence"
+        }
+      ],
+      "article_id": "FR-01",
+      "title": "Seedance 2.5 vs MiniMax H3 : écrire le brief d’une courte vidéo de chambre",
+      "language": "fr",
+      "platform": "Overblog",
+      "archive_kind": "reviewed-source-associated-with-publication-record",
+      "archive_date": "2026-09-10",
+      "source_is_live_page_snapshot": false,
+      "fresh_live_check_during_github_sync": false,
+      "source_sha256": "ac3e1f3ec4408200c005e69392563df535df176c840ab66864a05b6db6ebb391",
+      "archived_article_sha256": "24d3bc1ae8514ac3ed9c3b7b5a29418ec51a3e52f4288ee9c514041181984b60",
+      "archive_only_image_path_rewrites": [
+        {
+          "from": "./01-lead-room-brief.png",
+          "to": "images/01-lead-room-brief.png"
+        },
+        {
+          "from": "./02-middle-scene-motion.png",
+          "to": "images/02-middle-scene-motion.png"
+        },
+        {
+          "from": "./03-closing-brief-check.png",
+          "to": "images/03-closing-brief-check.png"
+        }
+      ],
+      "original_images": [
+        {
+          "file": "images/01-lead-room-brief.png",
+          "alt": "Illustration éditoriale d’une chambre avec lit, fenêtre, lampe et fauteuil, accompagnée de notes visuelles sans texte.",
+          "sha256": "709dd894c818e43f0b853fd4f82f6863705f0a5fa9d9ec089a06d157d5d9dbbf",
+          "bytes": 2641239,
+          "source_is_live_page_image": false
+        },
+        {
+          "file": "images/02-middle-scene-motion.png",
+          "alt": "Illustration éditoriale de deux cartes distinctes : repères d’une chambre et direction de caméra abstraite, sans flèche entre elles.",
+          "sha256": "dd0fb4bfb23c296bd6ba0f579b2eece3759631fbe16fd02a31533b2778623df3",
+          "bytes": 2461112,
+          "source_is_live_page_image": false
+        },
+        {
+          "file": "images/03-closing-brief-check.png",
+          "alt": "Illustration éditoriale d’un dossier de brief avec une image générique de chambre, une loupe et trois jetons de vérification sans texte.",
+          "sha256": "f8d61915293558a17e27f825259c3de1bbb63c6f165914bb325afd0f1c10e871",
+          "bytes": 2492730,
+          "source_is_live_page_image": false
+        }
+      ],
+      "archive_path": "fr/overblog",
+      "source_metadata_trailer_separated": false,
+      "evidence_reports": [
+        {
+          "file": "reports/public-gate-report-1.md",
+          "original_sha256": "ff1089d82dd4473d54242a3d873557a45c188cc76ba668c4e7c98960694d231b",
+          "archive_sha256": "ff1089d82dd4473d54242a3d873557a45c188cc76ba668c4e7c98960694d231b",
+          "local_paths_redacted": true
+        },
+        {
+          "file": "reports/public-gate-report-2.md",
+          "original_sha256": "440748672cc2da14206e708ed5e1f32ca3c6454b016e3bbd82f95a960cb8d3af",
+          "archive_sha256": "440748672cc2da14206e708ed5e1f32ca3c6454b016e3bbd82f95a960cb8d3af",
+          "local_paths_redacted": true
+        },
+        {
+          "file": "reports/public-review-1.md",
+          "original_sha256": "54c2b790978c5250cfb8ef5ec1f1668c72b755d721508fa118e19bd95d8130a4",
+          "archive_sha256": "54c2b790978c5250cfb8ef5ec1f1668c72b755d721508fa118e19bd95d8130a4",
+          "local_paths_redacted": true
+        },
+        {
+          "file": "reports/public-review-2.md",
+          "original_sha256": "4740cbbee9c3704272c1e538ec5078213aba6f1916a4f309cbf93b148a9ae450",
+          "archive_sha256": "4740cbbee9c3704272c1e538ec5078213aba6f1916a4f309cbf93b148a9ae450",
+          "local_paths_redacted": true
+        }
+      ]
+    },
+    {
+      "public_url": "https://vc.ru/id6106995/3131047-kak-sobrat-brif-dlya-produktovogo-rolika-seedance-2-5-i-minimax-h3",
+      "publication_method": "HUMAN_PUBLICATION_USER_RETURNED_URL",
+      "publication_status": "PUBLISHED_WITH_USER_CONFIRMED_LIMITATION_PENDING_HUMAN_ACCEPTANCE",
+      "public_review_status": "PUBLIC_REVIEW_APPROVED",
+      "public_gate": "PUBLIC_QA_DEFERRED",
+      "human_acceptance": "NOT_YET_PROVIDED",
+      "closeout_disposition": "NO_REPAIR_REQUIRED_WITH_LIMITATION",
+      "closeout_note": "两个模板已恢复六行；重复图片标题按编辑器局限保留，正文/链接/三图通过。",
+      "public_open_findings": [],
+      "public_finding_resolutions": [
+        {
+          "id": "PUBLIC-RENDER-002",
+          "status": "USER_CONFIRMED_EDITOR_LIMITATION_NO_REPAIR_REQUIRED",
+          "observed": "Three visible image titles repeat ALT before intended captions",
+          "native_editor_fixability": "USER_CONFIRMED_UNAVAILABLE",
+          "resolution_evidence": "evidence/RU-01-user-confirmed-image-title-editor-limitation.json"
+        },
+        {
+          "id": "PUBLIC-RENDER-001",
+          "status": "RESOLVED",
+          "observed": "Two six-field quote templates collapsed into paragraphs",
+          "native_editor_fixability": "UNVERIFIED",
+          "resolution": "Fresh anonymous reader confirms two templates, each six lines separated by five br elements",
+          "resolution_evidence": "articles/RU-01/r3/public-review-2.md"
+        }
+      ],
+      "article_id": "RU-01",
+      "title": "Seedance 2.5 и MiniMax H3: как собрать проверяемый бриф для короткого продуктового ролика",
+      "language": "ru",
+      "platform": "vc.ru",
+      "archive_kind": "reviewed-source-associated-with-publication-record",
+      "archive_date": "2026-09-10",
+      "source_is_live_page_snapshot": false,
+      "fresh_live_check_during_github_sync": false,
+      "source_sha256": "9e6e6030cb9db3e47f7be600b7f6dd96d83dab6f256c4a08f42c8ffddf54d321",
+      "archived_article_sha256": "7538a78b5fc00b53c3272bbc41cec29bb3f9b496ba24b82cd428dc0a3c8a6844",
+      "archive_only_image_path_rewrites": [
+        {
+          "from": "./images/01-lead-brief-table.png",
+          "to": "images/01-lead-brief-table.png"
+        },
+        {
+          "from": "./images/02-middle-shot-map-source.png",
+          "to": "images/02-middle-shot-map-source.png"
+        },
+        {
+          "from": "./images/03-closing-acceptance-check.png",
+          "to": "images/03-closing-acceptance-check.png"
+        }
+      ],
+      "original_images": [
+        {
+          "file": "images/01-lead-brief-table.png",
+          "alt": "Команда планирует короткий ролик для флакона по референсу и раскадровке на столе.",
+          "sha256": "591dfe318e0a509d389c6a37a159ff63c0263a9c469b69d05ba284409f1edaf6",
+          "bytes": 2121716,
+          "source_is_live_page_image": false
+        },
+        {
+          "file": "images/02-middle-shot-map-source.png",
+          "alt": "Четыре карточки показывают исходный материал, объект, одно действие и движение камеры для флакона.",
+          "sha256": "0bae29ed5eecc966063ea61e8aaea7c4ab9e37a7cc7b9c15b7c83803623df731",
+          "bytes": 2558111,
+          "source_is_live_page_image": false
+        },
+        {
+          "file": "images/03-closing-acceptance-check.png",
+          "alt": "Флакон, карточки раскадровки и лист с отметками для проверки брифа перед работой.",
+          "sha256": "60a0d68f9881591746f65e81ac1b6cb68b047e690cba4c029bc0df89ed8f87b1",
+          "bytes": 2114383,
+          "source_is_live_page_image": false
+        }
+      ],
+      "archive_path": "ru/vc-ru",
+      "source_metadata_trailer_separated": false,
+      "evidence_reports": [
+        {
+          "file": "reports/public-gate-report-1.md",
+          "original_sha256": "e47d3cdd7744e1910b80736378f21f16690068b2d7c2a7f93d284fd2c4e4dda6",
+          "archive_sha256": "e47d3cdd7744e1910b80736378f21f16690068b2d7c2a7f93d284fd2c4e4dda6",
+          "local_paths_redacted": true
+        },
+        {
+          "file": "reports/public-gate-report-2.md",
+          "original_sha256": "8dda7215c546a75a03de8db0405d8a82f6709b11dba9221ed90feb153a459a29",
+          "archive_sha256": "8dda7215c546a75a03de8db0405d8a82f6709b11dba9221ed90feb153a459a29",
+          "local_paths_redacted": true
+        },
+        {
+          "file": "reports/public-review-1.md",
+          "original_sha256": "3c50f468601fdf010cd0e070d62cb8ffe3e5bdae800e761eb3a02cab4d1c6efc",
+          "archive_sha256": "3c50f468601fdf010cd0e070d62cb8ffe3e5bdae800e761eb3a02cab4d1c6efc",
+          "local_paths_redacted": true
+        },
+        {
+          "file": "reports/public-review-2.md",
+          "original_sha256": "8753ce08f3b0a55c3284f4e00b062c3cf5b3eb731e49987e9f5b3cf98f66e1ea",
+          "archive_sha256": "8753ce08f3b0a55c3284f4e00b062c3cf5b3eb731e49987e9f5b3cf98f66e1ea",
+          "local_paths_redacted": true
+        }
+      ]
+    }
+  ],
+  "unpublished": [
+    {
+      "article_id": "EN-05",
+      "platform": "DEV Community",
+      "language": "英语",
+      "publication_record": false,
+      "public_url": "",
+      "closeout_disposition": "UNPUBLISHED_ACCOUNT_SUSPENDED",
+      "note": "本批 DEV Community 账号停用；稿件和三图保留，未发布。",
+      "public_gate": "NOT_RUN",
+      "human_acceptance": "NOT_YET_PROVIDED"
+    },
+    {
+      "article_id": "EN-06",
+      "platform": "Qiita",
+      "language": "英语",
+      "publication_record": false,
+      "public_url": "",
+      "closeout_disposition": "UNPUBLISHED_ACCOUNT_SUSPENDED",
+      "note": "用户确认本批 Qiita 账号停用；稿件和三图保留，未发布。",
+      "public_gate": "NOT_RUN",
+      "human_acceptance": "NOT_YET_PROVIDED"
+    }
+  ]
+}

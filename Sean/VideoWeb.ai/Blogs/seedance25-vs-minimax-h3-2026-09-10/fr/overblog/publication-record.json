@@ -1,0 +1,101 @@
+{
+  "public_url": "https://videowebai.overblog.fr/2026/09/seedance-2.5-vs-minimax-h3-ecrire-le-brief-d-une-courte-video-de-chambre.html",
+  "publication_method": "HUMAN_PUBLICATION_USER_RETURNED_URL",
+  "publication_status": "PUBLISHED_WITH_USER_CONFIRMED_LIMITATION_PENDING_HUMAN_ACCEPTANCE",
+  "public_review_status": "PUBLIC_REVIEW_APPROVED",
+  "public_gate": "PUBLIC_QA_DEFERRED",
+  "human_acceptance": "NOT_YET_PROVIDED",
+  "closeout_disposition": "NO_REPAIR_REQUIRED_WITH_LIMITATION",
+  "closeout_note": "两条目标链接已恢复，正文及三图通过；H3 按用户确认的固有局限保留。",
+  "public_open_findings": [],
+  "public_finding_resolutions": [
+    {
+      "id": "PUBLIC-RENDER-002",
+      "status": "USER_CONFIRMED_EDITOR_LIMITATION_NO_REPAIR_REQUIRED",
+      "observed": "Three H3 labels render as div.ob-h3 instead of semantic H3",
+      "native_editor_fixability": "USER_CONFIRMED_H3_PLATFORM_LIMITATION",
+      "resolution_evidence": "evidence/FR-01-user-confirmed-h3-editor-limitation.json"
+    },
+    {
+      "id": "PUBLIC-RENDER-001",
+      "status": "RESOLVED",
+      "observed": "Two required VideoWeb anchor texts are unlinked spans; both exact hrefs absent",
+      "resolution": "Both exact anchor/href pairs restored once each in fresh reader evidence"
+    }
+  ],
+  "article_id": "FR-01",
+  "title": "Seedance 2.5 vs MiniMax H3 : écrire le brief d’une courte vidéo de chambre",
+  "language": "fr",
+  "platform": "Overblog",
+  "archive_kind": "reviewed-source-associated-with-publication-record",
+  "archive_date": "2026-09-10",
+  "source_is_live_page_snapshot": false,
+  "fresh_live_check_during_github_sync": false,
+  "source_sha256": "ac3e1f3ec4408200c005e69392563df535df176c840ab66864a05b6db6ebb391",
+  "archived_article_sha256": "24d3bc1ae8514ac3ed9c3b7b5a29418ec51a3e52f4288ee9c514041181984b60",
+  "archive_only_image_path_rewrites": [
+    {
+      "from": "./01-lead-room-brief.png",
+      "to": "images/01-lead-room-brief.png"
+    },
+    {
+      "from": "./02-middle-scene-motion.png",
+      "to": "images/02-middle-scene-motion.png"
+    },
+    {
+      "from": "./03-closing-brief-check.png",
+      "to": "images/03-closing-brief-check.png"
+    }
+  ],
+  "original_images": [
+    {
+      "file": "images/01-lead-room-brief.png",
+      "alt": "Illustration éditoriale d’une chambre avec lit, fenêtre, lampe et fauteuil, accompagnée de notes visuelles sans texte.",
+      "sha256": "709dd894c818e43f0b853fd4f82f6863705f0a5fa9d9ec089a06d157d5d9dbbf",
+      "bytes": 2641239,
+      "source_is_live_page_image": false
+    },
+    {
+      "file": "images/02-middle-scene-motion.png",
+      "alt": "Illustration éditoriale de deux cartes distinctes : repères d’une chambre et direction de caméra abstraite, sans flèche entre elles.",
+      "sha256": "dd0fb4bfb23c296bd6ba0f579b2eece3759631fbe16fd02a31533b2778623df3",
+      "bytes": 2461112,
+      "source_is_live_page_image": false
+    },
+    {
+      "file": "images/03-closing-brief-check.png",
+      "alt": "Illustration éditoriale d’un dossier de brief avec une image générique de chambre, une loupe et trois jetons de vérification sans texte.",
+      "sha256": "f8d61915293558a17e27f825259c3de1bbb63c6f165914bb325afd0f1c10e871",
+      "bytes": 2492730,
+      "source_is_live_page_image": false
+    }
+  ],
+  "archive_path": "fr/overblog",
+  "source_metadata_trailer_separated": false,
+  "evidence_reports": [
+    {
+      "file": "reports/public-gate-report-1.md",
+      "original_sha256": "ff1089d82dd4473d54242a3d873557a45c188cc76ba668c4e7c98960694d231b",
+      "archive_sha256": "ff1089d82dd4473d54242a3d873557a45c188cc76ba668c4e7c98960694d231b",
+      "local_paths_redacted": true
+    },
+    {
+      "file": "reports/public-gate-report-2.md",
+      "original_sha256": "440748672cc2da14206e708ed5e1f32ca3c6454b016e3bbd82f95a960cb8d3af",
+      "archive_sha256": "440748672cc2da14206e708ed5e1f32ca3c6454b016e3bbd82f95a960cb8d3af",
+      "local_paths_redacted": true
+    },
+    {
+      "file": "reports/public-review-1.md",
+      "original_sha256": "54c2b790978c5250cfb8ef5ec1f1668c72b755d721508fa118e19bd95d8130a4",
+      "archive_sha256": "54c2b790978c5250cfb8ef5ec1f1668c72b755d721508fa118e19bd95d8130a4",
+      "local_paths_redacted": true
+    },
+    {
+      "file": "reports/public-review-2.md",
+      "original_sha256": "4740cbbee9c3704272c1e538ec5078213aba6f1916a4f309cbf93b148a9ae450",
+      "archive_sha256": "4740cbbee9c3704272c1e538ec5078213aba6f1916a4f309cbf93b148a9ae450",
+      "local_paths_redacted": true
+    }
+  ]
+}

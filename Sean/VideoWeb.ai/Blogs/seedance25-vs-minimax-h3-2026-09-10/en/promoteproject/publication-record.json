@@ -1,0 +1,122 @@
+{
+  "public_url": "https://www.promoteproject.com/article/227862/seedance-25-vs-minimax-h3-a-video-creative-testing-plan-for-short-video-creation",
+  "publication_method": "HUMAN_PUBLICATION_USER_RETURNED_URL",
+  "publication_status": "PUBLISHED_PENDING_MANUAL_QA_RESOLUTION",
+  "public_review_status": "PUBLIC_REVIEW_CHANGES",
+  "public_gate": "PUBLIC_QA_CHANGES",
+  "human_acceptance": "NOT_YET_PROVIDED",
+  "closeout_disposition": "DEFERRED_IMAGE_UPLOAD",
+  "closeout_note": "标题视觉无误，语义/描述/标签按局限保留；正文缺图、上传受阻，根因不确定，不要求重试。",
+  "public_open_findings": [
+    {
+      "id": "PUBLIC-RENDER-002",
+      "status": "OPEN",
+      "observed": "One empty-ALT cover before disclosure; zero inline images/captions",
+      "native_editor_fixability": "USER_REPORTED_UPLOAD_LIMITATION"
+    }
+  ],
+  "public_finding_resolutions": [
+    {
+      "id": "PUBLIC-RENDER-003",
+      "status": "USER_CONFIRMED_EDITOR_LIMITATION_NO_REPAIR_REQUIRED",
+      "observed": "Description/tags differ from frozen raw metadata",
+      "native_editor_fixability": "USER_CONFIRMED_UNAVAILABLE",
+      "resolution_evidence": "evidence/EN-08-user-confirmed-metadata-editor-limitation.json"
+    },
+    {
+      "id": "PUBLIC-RENDER-001",
+      "status": "USER_CONFIRMED_EDITOR_LIMITATION_NO_REPAIR_REQUIRED",
+      "observed": "Three H2 rendered as paragraphs",
+      "native_editor_fixability": "USER_CONFIRMED_EDITOR_LIMITATION",
+      "visual_assessment": "USER_CONFIRMED_VISUALLY_CORRECT",
+      "resolution_evidence": "evidence/EN-08-user-confirmed-heading-editor-limitation.json"
+    }
+  ],
+  "article_id": "EN-08",
+  "title": "Seedance 2.5 vs MiniMax H3: A Video Creative Testing Plan for Short Video Creation",
+  "language": "en",
+  "platform": "PromoteProject",
+  "archive_kind": "reviewed-source-associated-with-publication-record",
+  "archive_date": "2026-09-10",
+  "source_is_live_page_snapshot": false,
+  "fresh_live_check_during_github_sync": false,
+  "source_sha256": "64d357ba98db512e18586bbd3b5a0994a7088685b78afe4733809304d8583c9c",
+  "archived_article_sha256": "fc3ccba469486ae523bb469ea14d1b851ab724e5b85a39624821a7fde9378d89",
+  "archive_only_image_path_rewrites": [
+    {
+      "from": "./images/01-cover-planning-16x9.png",
+      "to": "images/01-cover-planning-16x9.png"
+    },
+    {
+      "from": "./images/02-single-variable-storyboard-16x9.png",
+      "to": "images/02-single-variable-storyboard-16x9.png"
+    },
+    {
+      "from": "./images/03-metric-checkpoint-16x9.png",
+      "to": "images/03-metric-checkpoint-16x9.png"
+    }
+  ],
+  "original_images": [
+    {
+      "file": "images/01-cover-planning-16x9.png",
+      "alt": "Editorial illustration of a startup team planning two short-video storyboard options around an unbranded water bottle.",
+      "sha256": "fddca8fd275cb4a82e6f8c91f94c06a353cd34bb640d1fdb572566985eea8a59",
+      "bytes": 2304096,
+      "source_is_live_page_image": false
+    },
+    {
+      "file": "images/02-single-variable-storyboard-16x9.png",
+      "alt": "Editorial storyboard showing a control bottle standing on a desk beside a treatment frame where a hand lifts the same bottle.",
+      "sha256": "74150f4d0a8b1684ed13eb589ce37f8419d3a1908cb1bb0146f0373657171a83",
+      "bytes": 2025392,
+      "source_is_live_page_image": false
+    },
+    {
+      "file": "images/03-metric-checkpoint-16x9.png",
+      "alt": "Editorial illustration of two marketers reviewing short-video storyboards beside a blank metric-selection card.",
+      "sha256": "9bc89ddd47f74015e4e6e01abf1a090e01bdc22a2b0745f47ad66f735641a5b7",
+      "bytes": 2195906,
+      "source_is_live_page_image": false
+    }
+  ],
+  "archive_path": "en/promoteproject",
+  "source_metadata_trailer_separated": false,
+  "evidence_reports": [
+    {
+      "file": "reports/public-gate-report-1.md",
+      "original_sha256": "1dd0de07854c3d79f29b6d11f4a08d8655824d7d822513ac81bfa797d6724805",
+      "archive_sha256": "1dd0de07854c3d79f29b6d11f4a08d8655824d7d822513ac81bfa797d6724805",
+      "local_paths_redacted": true
+    },
+    {
+      "file": "reports/public-gate-report-2.md",
+      "original_sha256": "93a8ee647d479c637b9f133d6d2fc235845391db37c3e7fc33df12c9f2853206",
+      "archive_sha256": "93a8ee647d479c637b9f133d6d2fc235845391db37c3e7fc33df12c9f2853206",
+      "local_paths_redacted": true
+    },
+    {
+      "file": "reports/public-gate-report-3.md",
+      "original_sha256": "5282efb1c26f72b4ccd47be2efffaf3b7132481486c86267074055bc1a636fd5",
+      "archive_sha256": "5282efb1c26f72b4ccd47be2efffaf3b7132481486c86267074055bc1a636fd5",
+      "local_paths_redacted": true
+    },
+    {
+      "file": "reports/public-review-1-heading-limitation-disposition.md",
+      "original_sha256": "e8c6a56ab6276a564a47a23409c8aa2484de8b871393973409ee7ca589de1bb8",
+      "archive_sha256": "e8c6a56ab6276a564a47a23409c8aa2484de8b871393973409ee7ca589de1bb8",
+      "local_paths_redacted": true
+    },
+    {
+      "file": "reports/public-review-1-metadata-limitation-disposition.md",
+      "original_sha256": "113f89dfa0775c5c3f82be88576cfa329724d0bc67d0bf8eba9984809658a5fd",
+      "archive_sha256": "113f89dfa0775c5c3f82be88576cfa329724d0bc67d0bf8eba9984809658a5fd",
+      "local_paths_redacted": true
+    },
+    {
+      "file": "reports/public-review-1.md",
+      "original_sha256": "675e4b8adcdd12f41a08537f87aae8794b0fd08b8e0e912766e6146e015ffea3",
+      "archive_sha256": "675e4b8adcdd12f41a08537f87aae8794b0fd08b8e0e912766e6146e015ffea3",
+      "local_paths_redacted": true
+    }
+  ]
+}

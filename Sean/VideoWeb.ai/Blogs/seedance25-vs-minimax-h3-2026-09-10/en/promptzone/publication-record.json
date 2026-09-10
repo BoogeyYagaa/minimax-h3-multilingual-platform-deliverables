@@ -1,0 +1,95 @@
+{
+  "public_url": "https://www.promptzone.com/videoweb_ai_f12213e577911/a-coffee-shop-ai-video-prompt-a-one-variable-diagnostic-plan-ban",
+  "publication_method": "HUMAN_PUBLICATION_USER_RETURNED_URL",
+  "publication_status": "PUBLISHED_WITH_USER_CONFIRMED_LIMITATION_PENDING_HUMAN_ACCEPTANCE",
+  "public_review_status": "PUBLIC_REVIEW_CHANGES_WITH_USER_CONFIRMED_LIMITATION",
+  "public_gate": "PUBLIC_QA_DEFERRED",
+  "human_acceptance": "NOT_YET_PROVIDED",
+  "closeout_disposition": "NO_REPAIR_REQUIRED_WITH_LIMITATION",
+  "closeout_note": "正文及三图通过；描述和标签按用户确认的编辑器局限保留。",
+  "public_open_findings": [],
+  "public_finding_resolutions": [
+    {
+      "id": "PUBLIC-RENDER-001",
+      "status": "USER_CONFIRMED_EDITOR_LIMITATION_NO_REPAIR_REQUIRED",
+      "observed": "Automatic description and three tags ai/prompt/tutorial differ from raw release metadata",
+      "native_editor_fixability": "USER_CONFIRMED_UNAVAILABLE",
+      "resolution_evidence": "evidence/EN-03-user-confirmed-metadata-editor-limitation.json"
+    }
+  ],
+  "article_id": "EN-03",
+  "title": "A Coffee Shop AI Video Prompt: A One-Variable Diagnostic Plan",
+  "language": "en",
+  "platform": "PromptZone",
+  "archive_kind": "reviewed-source-associated-with-publication-record",
+  "archive_date": "2026-09-10",
+  "source_is_live_page_snapshot": false,
+  "fresh_live_check_during_github_sync": false,
+  "source_sha256": "f7b1bfedbdbf13f9029b244696e773c3fdec73838a55e0b49a02564d070ece63",
+  "archived_article_sha256": "4ff58010175715e47a16353356c9d62a9af02a1919d77b976b12b439c12c864b",
+  "archive_only_image_path_rewrites": [
+    {
+      "from": "human-release/PromptZone/images/01-lead-cafe-brief-16x9.png",
+      "to": "images/01-lead-cafe-brief-16x9.png"
+    },
+    {
+      "from": "human-release/PromptZone/images/02-middle-one-variable-cards-16x9.png",
+      "to": "images/02-middle-one-variable-cards-16x9.png"
+    },
+    {
+      "from": "human-release/PromptZone/images/03-closing-cafe-notes-16x9.png",
+      "to": "images/03-closing-cafe-notes-16x9.png"
+    }
+  ],
+  "original_images": [
+    {
+      "file": "images/01-lead-cafe-brief-16x9.png",
+      "alt": "An unbranded coffee-bean bag and cream takeaway cup on a café counter beside a blank visual brief.",
+      "sha256": "4572084dbfe6be8153d3abeda8829685c1d54641f5d1046929105253a396d5ac",
+      "bytes": 2140268,
+      "source_is_live_page_image": false
+    },
+    {
+      "file": "images/02-middle-one-variable-cards-16x9.png",
+      "alt": "An unbranded coffee product pair beside three abstract paper planning cards on a café table.",
+      "sha256": "596c519f6f7f446069516288e09049a604f34489a153ac5f0db92e10bf0d1ee1",
+      "bytes": 2157450,
+      "source_is_live_page_image": false
+    },
+    {
+      "file": "images/03-closing-cafe-notes-16x9.png",
+      "alt": "An unbranded coffee-bean bag and cup with a closed notebook and blank paper slips on a café table.",
+      "sha256": "4e285ad688ba16a3886dde3f0dbec3dcc541439f87448a5a778989cd45c16814",
+      "bytes": 2242698,
+      "source_is_live_page_image": false
+    }
+  ],
+  "archive_path": "en/promptzone",
+  "source_metadata_trailer_separated": false,
+  "evidence_reports": [
+    {
+      "file": "reports/public-gate-report-1.md",
+      "original_sha256": "eba2bc6f0012d41074276518a1b216ca862aae95fbd34124c480327aab64949d",
+      "archive_sha256": "eba2bc6f0012d41074276518a1b216ca862aae95fbd34124c480327aab64949d",
+      "local_paths_redacted": true
+    },
+    {
+      "file": "reports/public-gate-report-2.md",
+      "original_sha256": "58a1d1c08c15cabe2ea1add5b9d9961790d9295d35879e60e6adf8f63d37d1df",
+      "archive_sha256": "58a1d1c08c15cabe2ea1add5b9d9961790d9295d35879e60e6adf8f63d37d1df",
+      "local_paths_redacted": true
+    },
+    {
+      "file": "reports/public-review-1-metadata-limitation-disposition.md",
+      "original_sha256": "045f4d13088ed7a5ec20bbabc31f47aa928c04997b65c88eadfa28a5d3dd4829",
+      "archive_sha256": "045f4d13088ed7a5ec20bbabc31f47aa928c04997b65c88eadfa28a5d3dd4829",
+      "local_paths_redacted": true
+    },
+    {
+      "file": "reports/public-review-1.md",
+      "original_sha256": "9342b576c4aca94ff9e3f412d1d3ad872a95ade9d52c6e9ec526aed0ceafa1f6",
+      "archive_sha256": "9342b576c4aca94ff9e3f412d1d3ad872a95ade9d52c6e9ec526aed0ceafa1f6",
+      "local_paths_redacted": true
+    }
+  ]
+}

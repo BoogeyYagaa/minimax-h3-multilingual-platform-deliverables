@@ -1,0 +1,75 @@
+{
+  "public_url": "https://ameblo.jp/videowebai/entry-12978310398.html",
+  "publication_method": null,
+  "publication_status": "PUBLISHED_PENDING_HUMAN_ACCEPTANCE",
+  "public_review_status": "PUBLIC_REVIEW_APPROVED",
+  "public_gate": "PUBLIC_QA_DEFERRED",
+  "human_acceptance": "NOT_YET_PROVIDED",
+  "closeout_disposition": "NO_REPAIR_REQUIRED",
+  "closeout_note": "公开技术复核通过，已记录原生标签适配。",
+  "public_open_findings": null,
+  "public_finding_resolutions": null,
+  "article_id": "JA-01",
+  "title": "商品紹介動画を参考写真から企画する：Seedance 2.5とMiniMax H3の入力整理",
+  "language": "ja",
+  "platform": "Ameba Blog",
+  "archive_kind": "reviewed-source-associated-with-publication-record",
+  "archive_date": "2026-09-10",
+  "source_is_live_page_snapshot": false,
+  "fresh_live_check_during_github_sync": false,
+  "source_sha256": "c0294c6794f6b7258d00bdf1bba674dc549bf8a5defe78e8a5cfda992b655ce5",
+  "archived_article_sha256": "5cf24169bf3b04d517a29b073d474f818f602079e5d0f97e3e904b0acc941b69",
+  "archive_only_image_path_rewrites": [
+    {
+      "from": "./01-lead-reference-photo-planning-16x9.png",
+      "to": "images/01-lead-reference-photo-planning-16x9.png"
+    },
+    {
+      "from": "./02-middle-one-motion-16x9.png",
+      "to": "images/02-middle-one-motion-16x9.png"
+    },
+    {
+      "from": "./03-closing-four-checks-16x9.png",
+      "to": "images/03-closing-four-checks-16x9.png"
+    }
+  ],
+  "original_images": [
+    {
+      "file": "images/01-lead-reference-photo-planning-16x9.png",
+      "alt": "深い青緑の手作り陶器カップ、紙の参照写真、無地の企画メモが木の作業台に並ぶ編集用イラスト",
+      "sha256": "58d1274fa1134c5a9c719c6db355c4d14795b86b33071fb91ddaf1aad4099ac7",
+      "bytes": 2196213,
+      "source_is_live_page_image": false
+    },
+    {
+      "file": "images/02-middle-one-motion-16x9.png",
+      "alt": "青緑の陶器カップの写真と一枚の曲線メモを並べ、一つの見せる動きを考える編集用イラスト",
+      "sha256": "0ba6d4b57c8e90f2822554f164c8c5bdfd843af53c9efa42893b3b714e370ecd",
+      "bytes": 2241823,
+      "source_is_live_page_image": false
+    },
+    {
+      "file": "images/03-closing-four-checks-16x9.png",
+      "alt": "青緑の陶器カップと参照写真、四つの空欄がある紙、鉛筆を置いた編集用イラスト",
+      "sha256": "7c06ecd6daec137c43d96da55f13a9699a9e15f14b119dc0ae843b8028c71dbe",
+      "bytes": 2290129,
+      "source_is_live_page_image": false
+    }
+  ],
+  "archive_path": "ja/ameba-blog",
+  "source_metadata_trailer_separated": false,
+  "evidence_reports": [
+    {
+      "file": "reports/public-gate-report-001.md",
+      "original_sha256": "4a9c0e40e8f88e2980b9440e6efabed6b00ad884dd1af284d153a0381e9ccd6b",
+      "archive_sha256": "4a9c0e40e8f88e2980b9440e6efabed6b00ad884dd1af284d153a0381e9ccd6b",
+      "local_paths_redacted": true
+    },
+    {
+      "file": "reports/public-review-001.md",
+      "original_sha256": "dd2f673fad561806a59c3c5b7fec03136e065aef5a09f0beb85cb6acd654bc35",
+      "archive_sha256": "dd2f673fad561806a59c3c5b7fec03136e065aef5a09f0beb85cb6acd654bc35",
+      "local_paths_redacted": true
+    }
+  ]
+}

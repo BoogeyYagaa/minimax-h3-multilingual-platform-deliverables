@@ -1,0 +1,14 @@
+{
+  "article_id": "EN-09",
+  "canonical_title": "AI Video Prompt Iteration Workflow: Review One Attempt, Then Change One Thing",
+  "seo_description_reference": "A practical AI video prompt iteration workflow for reviewing an attempt, changing one element, and leaving an optional note for a collaborator.",
+  "raw_tags_reference": "AI video prompt iteration workflow, Seedance 2.5 vs MiniMax H3, Short Video Creation, prompt iteration, AI video workflow",
+  "metadata_reference_lines": [
+    "## Raw SEO title",
+    "## Raw SEO description",
+    "## Raw tags",
+    "- Zenn login, editable metadata fields, tags field, excerpt/SEO-description field, link handling, image upload handling, and publication permission: `UNVERIFIED`; the human must use only fields that are visibly available in the authorized native editor.",
+    "- Do not substitute a title, URL, tag, or description if a field is unavailable. Record that limitation for the handoff rather than guessing a field mapping."
+  ],
+  "native_field_transfer": "See publication-record.json; local reference is not proof of native support"
+}

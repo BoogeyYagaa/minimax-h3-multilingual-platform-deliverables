@@ -1,0 +1,103 @@
+{
+  "public_url": "https://vc.ru/id6106995/3131047-kak-sobrat-brif-dlya-produktovogo-rolika-seedance-2-5-i-minimax-h3",
+  "publication_method": "HUMAN_PUBLICATION_USER_RETURNED_URL",
+  "publication_status": "PUBLISHED_WITH_USER_CONFIRMED_LIMITATION_PENDING_HUMAN_ACCEPTANCE",
+  "public_review_status": "PUBLIC_REVIEW_APPROVED",
+  "public_gate": "PUBLIC_QA_DEFERRED",
+  "human_acceptance": "NOT_YET_PROVIDED",
+  "closeout_disposition": "NO_REPAIR_REQUIRED_WITH_LIMITATION",
+  "closeout_note": "两个模板已恢复六行；重复图片标题按编辑器局限保留，正文/链接/三图通过。",
+  "public_open_findings": [],
+  "public_finding_resolutions": [
+    {
+      "id": "PUBLIC-RENDER-002",
+      "status": "USER_CONFIRMED_EDITOR_LIMITATION_NO_REPAIR_REQUIRED",
+      "observed": "Three visible image titles repeat ALT before intended captions",
+      "native_editor_fixability": "USER_CONFIRMED_UNAVAILABLE",
+      "resolution_evidence": "evidence/RU-01-user-confirmed-image-title-editor-limitation.json"
+    },
+    {
+      "id": "PUBLIC-RENDER-001",
+      "status": "RESOLVED",
+      "observed": "Two six-field quote templates collapsed into paragraphs",
+      "native_editor_fixability": "UNVERIFIED",
+      "resolution": "Fresh anonymous reader confirms two templates, each six lines separated by five br elements",
+      "resolution_evidence": "articles/RU-01/r3/public-review-2.md"
+    }
+  ],
+  "article_id": "RU-01",
+  "title": "Seedance 2.5 и MiniMax H3: как собрать проверяемый бриф для короткого продуктового ролика",
+  "language": "ru",
+  "platform": "vc.ru",
+  "archive_kind": "reviewed-source-associated-with-publication-record",
+  "archive_date": "2026-09-10",
+  "source_is_live_page_snapshot": false,
+  "fresh_live_check_during_github_sync": false,
+  "source_sha256": "9e6e6030cb9db3e47f7be600b7f6dd96d83dab6f256c4a08f42c8ffddf54d321",
+  "archived_article_sha256": "7538a78b5fc00b53c3272bbc41cec29bb3f9b496ba24b82cd428dc0a3c8a6844",
+  "archive_only_image_path_rewrites": [
+    {
+      "from": "./images/01-lead-brief-table.png",
+      "to": "images/01-lead-brief-table.png"
+    },
+    {
+      "from": "./images/02-middle-shot-map-source.png",
+      "to": "images/02-middle-shot-map-source.png"
+    },
+    {
+      "from": "./images/03-closing-acceptance-check.png",
+      "to": "images/03-closing-acceptance-check.png"
+    }
+  ],
+  "original_images": [
+    {
+      "file": "images/01-lead-brief-table.png",
+      "alt": "Команда планирует короткий ролик для флакона по референсу и раскадровке на столе.",
+      "sha256": "591dfe318e0a509d389c6a37a159ff63c0263a9c469b69d05ba284409f1edaf6",
+      "bytes": 2121716,
+      "source_is_live_page_image": false
+    },
+    {
+      "file": "images/02-middle-shot-map-source.png",
+      "alt": "Четыре карточки показывают исходный материал, объект, одно действие и движение камеры для флакона.",
+      "sha256": "0bae29ed5eecc966063ea61e8aaea7c4ab9e37a7cc7b9c15b7c83803623df731",
+      "bytes": 2558111,
+      "source_is_live_page_image": false
+    },
+    {
+      "file": "images/03-closing-acceptance-check.png",
+      "alt": "Флакон, карточки раскадровки и лист с отметками для проверки брифа перед работой.",
+      "sha256": "60a0d68f9881591746f65e81ac1b6cb68b047e690cba4c029bc0df89ed8f87b1",
+      "bytes": 2114383,
+      "source_is_live_page_image": false
+    }
+  ],
+  "archive_path": "ru/vc-ru",
+  "source_metadata_trailer_separated": false,
+  "evidence_reports": [
+    {
+      "file": "reports/public-gate-report-1.md",
+      "original_sha256": "e47d3cdd7744e1910b80736378f21f16690068b2d7c2a7f93d284fd2c4e4dda6",
+      "archive_sha256": "e47d3cdd7744e1910b80736378f21f16690068b2d7c2a7f93d284fd2c4e4dda6",
+      "local_paths_redacted": true
+    },
+    {
+      "file": "reports/public-gate-report-2.md",
+      "original_sha256": "8dda7215c546a75a03de8db0405d8a82f6709b11dba9221ed90feb153a459a29",
+      "archive_sha256": "8dda7215c546a75a03de8db0405d8a82f6709b11dba9221ed90feb153a459a29",
+      "local_paths_redacted": true
+    },
+    {
+      "file": "reports/public-review-1.md",
+      "original_sha256": "3c50f468601fdf010cd0e070d62cb8ffe3e5bdae800e761eb3a02cab4d1c6efc",
+      "archive_sha256": "3c50f468601fdf010cd0e070d62cb8ffe3e5bdae800e761eb3a02cab4d1c6efc",
+      "local_paths_redacted": true
+    },
+    {
+      "file": "reports/public-review-2.md",
+      "original_sha256": "8753ce08f3b0a55c3284f4e00b062c3cf5b3eb731e49987e9f5b3cf98f66e1ea",
+      "archive_sha256": "8753ce08f3b0a55c3284f4e00b062c3cf5b3eb731e49987e9f5b3cf98f66e1ea",
+      "local_paths_redacted": true
+    }
+  ]
+}

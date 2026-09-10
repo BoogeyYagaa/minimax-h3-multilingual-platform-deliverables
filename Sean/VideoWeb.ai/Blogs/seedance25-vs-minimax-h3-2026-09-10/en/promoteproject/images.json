@@ -1,0 +1,23 @@
+[
+  {
+    "file": "images/01-cover-planning-16x9.png",
+    "alt": "Editorial illustration of a startup team planning two short-video storyboard options around an unbranded water bottle.",
+    "sha256": "fddca8fd275cb4a82e6f8c91f94c06a353cd34bb640d1fdb572566985eea8a59",
+    "bytes": 2304096,
+    "source_is_live_page_image": false
+  },
+  {
+    "file": "images/02-single-variable-storyboard-16x9.png",
+    "alt": "Editorial storyboard showing a control bottle standing on a desk beside a treatment frame where a hand lifts the same bottle.",
+    "sha256": "74150f4d0a8b1684ed13eb589ce37f8419d3a1908cb1bb0146f0373657171a83",
+    "bytes": 2025392,
+    "source_is_live_page_image": false
+  },
+  {
+    "file": "images/03-metric-checkpoint-16x9.png",
+    "alt": "Editorial illustration of two marketers reviewing short-video storyboards beside a blank metric-selection card.",
+    "sha256": "9bc89ddd47f74015e4e6e01abf1a090e01bdc22a2b0745f47ad66f735641a5b7",
+    "bytes": 2195906,
+    "source_is_live_page_image": false
+  }
+]

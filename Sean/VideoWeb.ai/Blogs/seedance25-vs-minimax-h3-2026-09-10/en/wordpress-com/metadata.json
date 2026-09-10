@@ -1,0 +1,16 @@
+{
+  "article_id": "EN-01",
+  "canonical_title": "Seedance 2.5 vs MiniMax H3 for Product Videos: A Same-Brief Decision Protocol",
+  "seo_description_reference": "Compare Seedance 2.5 vs MiniMax H3 for product videos with a same-brief protocol: lock constraints, record differences, and choose the next test without a winner claim.",
+  "raw_tags_reference": "ai-video\nproduct-video-planning\nprompt-engineering\nexperiment-design",
+  "metadata_reference_lines": [
+    "- SEO title: Seedance 2.5 vs MiniMax H3 for Product Videos: A Same-Brief Decision Protocol",
+    "- SEO description: Compare Seedance 2.5 vs MiniMax H3 for product videos with a same-brief protocol: lock constraints, record differences, and choose the next test without a winner claim.",
+    "- Raw SEO-description copy value: raw-seo-description.txt",
+    "- Raw tag copy values: raw-tags.txt",
+    "- Suggested tags: ai-video; product-video-planning; prompt-engineering; experiment-design",
+    "- Disclosure to retain verbatim: Disclosure: I am the founder of VideoWeb AI. VideoWeb describes its Seedance 2.5 short-video workflow page as supporting text-to-video, image-to-video, and optional reference media. On its MiniMax H3 short-video workflow page, VideoWeb says a text prompt or source image can start the workflow. Those are provider descriptions, not independently tested results, vendor documentation, price or availability claims, or a recommendation of either route.",
+    "The SEO description and tags are local raw values. This package does not establish the presence, behavior, or permission to use matching WordPress.com fields."
+  ],
+  "native_field_transfer": "See publication-record.json; local reference is not proof of native support"
+}

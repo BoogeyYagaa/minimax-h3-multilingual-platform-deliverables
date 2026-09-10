@@ -1,0 +1,23 @@
+[
+  {
+    "file": "images/01-lead-room-brief.png",
+    "alt": "Illustration éditoriale d’une chambre avec lit, fenêtre, lampe et fauteuil, accompagnée de notes visuelles sans texte.",
+    "sha256": "709dd894c818e43f0b853fd4f82f6863705f0a5fa9d9ec089a06d157d5d9dbbf",
+    "bytes": 2641239,
+    "source_is_live_page_image": false
+  },
+  {
+    "file": "images/02-middle-scene-motion.png",
+    "alt": "Illustration éditoriale de deux cartes distinctes : repères d’une chambre et direction de caméra abstraite, sans flèche entre elles.",
+    "sha256": "dd0fb4bfb23c296bd6ba0f579b2eece3759631fbe16fd02a31533b2778623df3",
+    "bytes": 2461112,
+    "source_is_live_page_image": false
+  },
+  {
+    "file": "images/03-closing-brief-check.png",
+    "alt": "Illustration éditoriale d’un dossier de brief avec une image générique de chambre, une loupe et trois jetons de vérification sans texte.",
+    "sha256": "f8d61915293558a17e27f825259c3de1bbb63c6f165914bb325afd0f1c10e871",
+    "bytes": 2492730,
+    "source_is_live_page_image": false
+  }
+]

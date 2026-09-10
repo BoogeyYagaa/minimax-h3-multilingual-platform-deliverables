@@ -1,0 +1,13 @@
+{
+  "article_id": "FR-01",
+  "canonical_title": "Seedance 2.5 vs MiniMax H3 : écrire le brief d’une courte vidéo de chambre",
+  "seo_description_reference": "Préparez un brief de courte vidéo pour une chambre : image de départ, caractéristiques visibles et mouvement de caméra, sans promettre un résultat de modèle.",
+  "raw_tags_reference": "Seedance 2.5, MiniMax H3, vidéo IA, brief vidéo, création de vidéos courtes, mouvement de caméra",
+  "metadata_reference_lines": [
+    "- **SEO title :** Seedance 2.5 vs MiniMax H3 : brief vidéo de chambre",
+    "- **SEO description :** Préparez un brief de courte vidéo pour une chambre : image de départ, caractéristiques visibles et mouvement de caméra, sans promettre un résultat de modèle.",
+    "- **TAGS :** Seedance 2.5, MiniMax H3, vidéo IA, brief vidéo, création de vidéos courtes, mouvement de caméra",
+    "Références de publication uniquement : le support natif Overblog des tags, slug, excerpt ou SEO description reste `UNVERIFIED`. Ces valeurs ne font partie ni du texte lecteur ni des copies TITLE/BODY."
+  ],
+  "native_field_transfer": "See publication-record.json; local reference is not proof of native support"
+}

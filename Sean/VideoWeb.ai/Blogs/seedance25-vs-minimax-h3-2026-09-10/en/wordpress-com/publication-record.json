@@ -1,0 +1,87 @@
+{
+  "public_url": "https://videowebai.wordpress.com/2026/09/10/seedance-2-5-vs-minimax-h3-for-product-videos-a-same-brief-decision-protocol/",
+  "publication_method": "HUMAN_PUBLICATION_USER_RETURNED_URL",
+  "publication_status": "PUBLISHED_PENDING_MANUAL_QA_RESOLUTION",
+  "public_review_status": "PUBLIC_REVIEW_CHANGES",
+  "public_gate": "PUBLIC_QA_CHANGES",
+  "human_acceptance": "NOT_YET_PROVIDED",
+  "closeout_disposition": "DEFERRED_CONFIRMED_SEMANTIC_DIFFERENCE",
+  "closeout_note": "新匿名源码复核确认文章标题为 H2、站点名称为 H1；语义差异保留搁置，不代表视觉显示错误，不再请求修改。",
+  "public_open_findings": null,
+  "public_finding_resolutions": null,
+  "article_id": "EN-01",
+  "title": "Seedance 2.5 vs MiniMax H3 for Product Videos: A Same-Brief Decision Protocol",
+  "language": "en",
+  "platform": "WordPress.com",
+  "archive_kind": "reviewed-source-associated-with-publication-record",
+  "archive_date": "2026-09-10",
+  "source_is_live_page_snapshot": false,
+  "fresh_live_check_during_github_sync": false,
+  "source_sha256": "a10fb344f17f701f22eb5116068c6005a921a060d08df46f70e65f08956ffb99",
+  "archived_article_sha256": "9d5520af4279ce70d18a18ec28d3c3cf2fd0884de63d581832cfe6d2b3e3a636",
+  "archive_only_image_path_rewrites": [
+    {
+      "from": "./images/01-lead-fixed-product-brief-16x9.png",
+      "to": "images/01-lead-fixed-product-brief-16x9.png"
+    },
+    {
+      "from": "./images/02-middle-parallel-prompt-briefs-16x9.png",
+      "to": "images/02-middle-parallel-prompt-briefs-16x9.png"
+    },
+    {
+      "from": "./images/03-closing-observation-record-16x9.png",
+      "to": "images/03-closing-observation-record-16x9.png"
+    }
+  ],
+  "original_images": [
+    {
+      "file": "images/01-lead-fixed-product-brief-16x9.png",
+      "alt": "Editorial illustration of one unbranded product bottle, a fixed video brief, and a storyboard card on a studio desk.",
+      "sha256": "049362bff2add58d5701712628ed2ce13f690141277db6ed722e187864a03eb6",
+      "bytes": 2320573,
+      "source_is_live_page_image": false
+    },
+    {
+      "file": "images/02-middle-parallel-prompt-briefs-16x9.png",
+      "alt": "Editorial illustration of two equal prompt-planning cards linked to the same unbranded product reference.",
+      "sha256": "27afc63d9e622418272a2fa2753f95550fa3f7d200529ee1db92cd07981036b8",
+      "bytes": 2452331,
+      "source_is_live_page_image": false
+    },
+    {
+      "file": "images/03-closing-observation-record-16x9.png",
+      "alt": "Editorial illustration of a product-video observation notebook with three equally weighted next-step cards.",
+      "sha256": "df5f139d7eac44c8578862f9f66d58e359366e9d15b748e0a1c8bd5e044607fd",
+      "bytes": 2324104,
+      "source_is_live_page_image": false
+    }
+  ],
+  "archive_path": "en/wordpress-com",
+  "source_metadata_trailer_separated": false,
+  "evidence_reports": [
+    {
+      "file": "reports/public-gate-report-1.md",
+      "original_sha256": "fcce097bbe12f7364b865f5bff25854ca67c56fe4581d45e6f33257f344eaa24",
+      "archive_sha256": "fcce097bbe12f7364b865f5bff25854ca67c56fe4581d45e6f33257f344eaa24",
+      "local_paths_redacted": true
+    },
+    {
+      "file": "reports/public-gate-report-2.md",
+      "original_sha256": "b39fe47093426cf74d02284376b757c72298513bd087002daaa4542dad5e7839",
+      "archive_sha256": "b39fe47093426cf74d02284376b757c72298513bd087002daaa4542dad5e7839",
+      "local_paths_redacted": true
+    },
+    {
+      "file": "reports/public-review-1.md",
+      "original_sha256": "d53a5eb1bac028550259ffa7e1d286e233be5a96c79ae6a4f17df79f07457c4c",
+      "archive_sha256": "d53a5eb1bac028550259ffa7e1d286e233be5a96c79ae6a4f17df79f07457c4c",
+      "local_paths_redacted": true
+    },
+    {
+      "file": "reports/public-review-2.md",
+      "original_sha256": "e60c3ce7761e941fa9b674449f6c02bf1125005c7cdce4e6b0375956881e7e75",
+      "archive_sha256": "e60c3ce7761e941fa9b674449f6c02bf1125005c7cdce4e6b0375956881e7e75",
+      "local_paths_redacted": true
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+[
+  {
+    "file": "images/01-lead-photo-planning-boundary-16x9.png",
+    "alt": "A paper travel photograph held over an anonymous coast, with a translucent ribbon used as a planning metaphor for possible motion.",
+    "sha256": "4a5430d299476466d53c4f23ca5cfddba3d03246d03e1085ff4e10755a30fe01",
+    "bytes": 2368261,
+    "source_is_live_page_image": false
+  },
+  {
+    "file": "images/02-middle-three-motion-directions-16x9.png",
+    "alt": "Three unlabelled abstract art cards showing mist, ripple, and light as planning metaphors rather than travel scenes or video results.",
+    "sha256": "df33473274c119196fba27f01dc8e9107346378117b34c7afc1422bc4b17f41b",
+    "bytes": 2539758,
+    "source_is_live_page_image": false
+  },
+  {
+    "file": "images/03-closing-ethical-review-record-16x9.png",
+    "alt": "A quiet desk with an unmarked review sheet, face-down photograph, paper tabs, pencil, and magnifying glass, representing a pre-use ethical review.",
+    "sha256": "3fae83518b30bf1af8d5b5100efe80c76db5e01d6dd9ef83872e37a13b4e0d05",
+    "bytes": 2690517,
+    "source_is_live_page_image": false
+  }
+]

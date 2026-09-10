@@ -1,0 +1,23 @@
+[
+  {
+    "file": "images/01-lead-cafe-brief-16x9.png",
+    "alt": "An unbranded coffee-bean bag and cream takeaway cup on a café counter beside a blank visual brief.",
+    "sha256": "4572084dbfe6be8153d3abeda8829685c1d54641f5d1046929105253a396d5ac",
+    "bytes": 2140268,
+    "source_is_live_page_image": false
+  },
+  {
+    "file": "images/02-middle-one-variable-cards-16x9.png",
+    "alt": "An unbranded coffee product pair beside three abstract paper planning cards on a café table.",
+    "sha256": "596c519f6f7f446069516288e09049a604f34489a153ac5f0db92e10bf0d1ee1",
+    "bytes": 2157450,
+    "source_is_live_page_image": false
+  },
+  {
+    "file": "images/03-closing-cafe-notes-16x9.png",
+    "alt": "An unbranded coffee-bean bag and cup with a closed notebook and blank paper slips on a café table.",
+    "sha256": "4e285ad688ba16a3886dde3f0dbec3dcc541439f87448a5a778989cd45c16814",
+    "bytes": 2242698,
+    "source_is_live_page_image": false
+  }
+]

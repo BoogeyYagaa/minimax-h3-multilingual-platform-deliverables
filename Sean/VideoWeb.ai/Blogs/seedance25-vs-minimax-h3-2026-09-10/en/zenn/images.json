@@ -1,0 +1,23 @@
+[
+  {
+    "file": "images/01-hero-16x9.png",
+    "alt": "Editorial illustration of a creator reviewing two cinematic short-video frames before choosing a single next prompt change.",
+    "sha256": "73a82f5f19c6036d371d795f16a9d2031627d03bef1c53b11b8c0d79029de3c4",
+    "bytes": 2259796,
+    "source_is_live_page_image": false
+  },
+  {
+    "file": "images/02-one-change-16x9.png",
+    "alt": "Editorial contact sheet showing one ceramic mug scene with a single camera-framing change across three unlabeled frames.",
+    "sha256": "3e742b6bda41ad5cf789e0bdd3731393678f6b94f9b152ca3830f2dd730aea8c",
+    "bytes": 2353628,
+    "source_is_live_page_image": false
+  },
+  {
+    "file": "images/03-collaboration-note-16x9.png",
+    "alt": "Editorial illustration of two collaborators using a small blank note beside a storyboard to discuss one next prompt change.",
+    "sha256": "834aef8a4dc0245bdd2e95a36e59ddac0b69152ac52158123bba5f45e2fde339",
+    "bytes": 2178657,
+    "source_is_live_page_image": false
+  }
+]

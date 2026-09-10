@@ -1,0 +1,23 @@
+[
+  {
+    "file": "images/01-lead-fixed-product-brief-16x9.png",
+    "alt": "Editorial illustration of one unbranded product bottle, a fixed video brief, and a storyboard card on a studio desk.",
+    "sha256": "049362bff2add58d5701712628ed2ce13f690141277db6ed722e187864a03eb6",
+    "bytes": 2320573,
+    "source_is_live_page_image": false
+  },
+  {
+    "file": "images/02-middle-parallel-prompt-briefs-16x9.png",
+    "alt": "Editorial illustration of two equal prompt-planning cards linked to the same unbranded product reference.",
+    "sha256": "27afc63d9e622418272a2fa2753f95550fa3f7d200529ee1db92cd07981036b8",
+    "bytes": 2452331,
+    "source_is_live_page_image": false
+  },
+  {
+    "file": "images/03-closing-observation-record-16x9.png",
+    "alt": "Editorial illustration of a product-video observation notebook with three equally weighted next-step cards.",
+    "sha256": "df5f139d7eac44c8578862f9f66d58e359366e9d15b748e0a1c8bd5e044607fd",
+    "bytes": 2324104,
+    "source_is_live_page_image": false
+  }
+]

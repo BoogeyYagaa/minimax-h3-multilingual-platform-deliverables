@@ -1,0 +1,75 @@
+{
+  "public_url": "https://paragraph.com/@videoweb.ai/a-short-video-launch-storyboard-template-from-opening-hook-to-requested-action",
+  "publication_method": "HUMAN_PUBLICATION_USER_RETURNED_URL",
+  "publication_status": "PUBLISHED_PENDING_MANUAL_QA_RESOLUTION",
+  "public_review_status": "PUBLIC_REVIEW_CHANGES",
+  "public_gate": "PUBLIC_QA_CHANGES",
+  "human_acceptance": "NOT_YET_PROVIDED",
+  "closeout_disposition": "DEFERRED_PUBLIC_DIFFERENCES",
+  "closeout_note": "额外首图封面与描述差异未处置；ALT 无可用选项已记录。",
+  "public_open_findings": null,
+  "public_finding_resolutions": null,
+  "article_id": "EN-02",
+  "title": "A Short Video Launch Storyboard Template: From Opening Hook to Requested Action",
+  "language": "en",
+  "platform": "Paragraph",
+  "archive_kind": "reviewed-source-associated-with-publication-record",
+  "archive_date": "2026-09-10",
+  "source_is_live_page_snapshot": false,
+  "fresh_live_check_during_github_sync": false,
+  "source_sha256": "157e52c0912f40a33dc21fb2b5065dbe9ba3d8a803a42df4bb9412d0a3f21ad2",
+  "archived_article_sha256": "13e6e5333dfe57ca3f20e16b286adbd2f5bef3512b19745f41d518105dba58f7",
+  "archive_only_image_path_rewrites": [
+    {
+      "from": "./human-release/Paragraph/images/01-launch-storyboard-planning-16x9.png",
+      "to": "images/01-launch-storyboard-planning-16x9.png"
+    },
+    {
+      "from": "./human-release/Paragraph/images/02-single-clip-decision-map-16x9.png",
+      "to": "images/02-single-clip-decision-map-16x9.png"
+    },
+    {
+      "from": "./human-release/Paragraph/images/03-storyboard-review-desk-16x9.png",
+      "to": "images/03-storyboard-review-desk-16x9.png"
+    }
+  ],
+  "original_images": [
+    {
+      "file": "images/01-launch-storyboard-planning-16x9.png",
+      "alt": "Editorial illustration of four blank storyboard cards arranged for a short video launch plan.",
+      "sha256": "2136921f421978471453107d825d8bfbdd4f09ae7292d3699a01cd57b918e6c4",
+      "bytes": 2198402,
+      "source_is_live_page_image": false
+    },
+    {
+      "file": "images/02-single-clip-decision-map-16x9.png",
+      "alt": "Editorial illustration of one paper decision path through four unlabelled storyboard frames.",
+      "sha256": "a4cdf30aa1609cbbf0ea563993b16fec923f6ce4e6e04df39f8a4f08d6881e2f",
+      "bytes": 2454105,
+      "source_is_live_page_image": false
+    },
+    {
+      "file": "images/03-storyboard-review-desk-16x9.png",
+      "alt": "Editorial illustration of an unbranded desk prepared to review a four-frame launch storyboard.",
+      "sha256": "d99a49ccff145cafabe14413135b15f3e532731d94a965790b3732b05fbfe7eb",
+      "bytes": 2307897,
+      "source_is_live_page_image": false
+    }
+  ],
+  "archive_path": "en/paragraph",
+  "source_metadata_trailer_separated": false,
+  "evidence_reports": [
+    {
+      "file": "reports/public-gate-report-1.md",
+      "original_sha256": "bd02d97727dbbeada59cf1f193e37a06c3b4c366772b0782612077fdb0526484",
+      "archive_sha256": "bd02d97727dbbeada59cf1f193e37a06c3b4c366772b0782612077fdb0526484",
+      "local_paths_redacted": true
+    },
+    {
+      "file": "reports/public-review-1.md",
+      "original_sha256": "edfe0c35eb8e68707a467ac2e92b9391cb88315b8092592f77baa8f7b055c059",
+      "archive_sha256": "edfe0c35eb8e68707a467ac2e92b9391cb88315b8092592f77baa8f7b055c059",
+      "local_paths_redacted": true
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+﻿article_id,language,platform,public_url,closeout_disposition,closeout_note,public_gate,human_acceptance
+JA-01,ja,Ameba Blog,https://ameblo.jp/videowebai/entry-12978310398.html,NO_REPAIR_REQUIRED,公开技术复核通过，已记录原生标签适配。,PUBLIC_QA_DEFERRED,NOT_YET_PROVIDED
+TH-01,th,Blogger,https://videowebai.blogspot.com/2026/09/ai-3-seedance-25-minimax-h3.html,DEFERRED_TEMPLATE_LANGUAGE,文章标题语义 H3、根语言 en 的公开差异保留；未操作博客或模板设置。,PUBLIC_QA_CHANGES,NOT_YET_PROVIDED
+EN-07,en,LinkedIn,https://www.linkedin.com/pulse/short-video-creative-brief-template-handoffs-videoweb-ai-4ulwf/,DEFERRED_ANONYMOUS_ACCESS,已有发布回执和登录态核对；匿名重定向后 451，匿名正文未获验证。,PUBLIC_QA_DEFERRED,NOT_YET_PROVIDED
+EN-01,en,WordPress.com,https://videowebai.wordpress.com/2026/09/10/seedance-2-5-vs-minimax-h3-for-product-videos-a-same-brief-decision-protocol/,DEFERRED_CONFIRMED_SEMANTIC_DIFFERENCE,新匿名源码复核确认文章标题为 H2、站点名称为 H1；语义差异保留搁置，不代表视觉显示错误，不再请求修改。,PUBLIC_QA_CHANGES,NOT_YET_PROVIDED
+EN-02,en,Paragraph,https://paragraph.com/@videoweb.ai/a-short-video-launch-storyboard-template-from-opening-hook-to-requested-action,DEFERRED_PUBLIC_DIFFERENCES,额外首图封面与描述差异未处置；ALT 无可用选项已记录。,PUBLIC_QA_CHANGES,NOT_YET_PROVIDED
+EN-03,en,PromptZone,https://www.promptzone.com/videoweb_ai_f12213e577911/a-coffee-shop-ai-video-prompt-a-one-variable-diagnostic-plan-ban,NO_REPAIR_REQUIRED_WITH_LIMITATION,正文及三图通过；描述和标签按用户确认的编辑器局限保留。,PUBLIC_QA_DEFERRED,NOT_YET_PROVIDED
+EN-04,en,Tumblr,https://www.tumblr.com/videowebai/827355403965890560/a-travel-photo-to-video-prompt-plan-three-motion?source=share,NO_REPAIR_REQUIRED_WITH_LIMITATION,主标题及六 H2 已修复；无 H3 选项按局限保留，正文和三图通过。,PUBLIC_QA_DEFERRED,NOT_YET_PROVIDED
+EN-08,en,PromoteProject,https://www.promoteproject.com/article/227862/seedance-25-vs-minimax-h3-a-video-creative-testing-plan-for-short-video-creation,DEFERRED_IMAGE_UPLOAD,标题视觉无误，语义/描述/标签按局限保留；正文缺图、上传受阻，根因不确定，不要求重试。,PUBLIC_QA_CHANGES,NOT_YET_PROVIDED
+EN-09,en,Zenn,https://zenn.dev/videowebai/articles/cf88a1bb43802d,NO_REPAIR_REQUIRED_WITH_LIMITATION,字面 # 和重复 H1 已修复；短标题按用户确认的长度限制保留。,PUBLIC_QA_DEFERRED,NOT_YET_PROVIDED
+FR-01,fr,Overblog,https://videowebai.overblog.fr/2026/09/seedance-2.5-vs-minimax-h3-ecrire-le-brief-d-une-courte-video-de-chambre.html,NO_REPAIR_REQUIRED_WITH_LIMITATION,两条目标链接已恢复，正文及三图通过；H3 按用户确认的固有局限保留。,PUBLIC_QA_DEFERRED,NOT_YET_PROVIDED
+RU-01,ru,vc.ru,https://vc.ru/id6106995/3131047-kak-sobrat-brif-dlya-produktovogo-rolika-seedance-2-5-i-minimax-h3,NO_REPAIR_REQUIRED_WITH_LIMITATION,两个模板已恢复六行；重复图片标题按编辑器局限保留，正文/链接/三图通过。,PUBLIC_QA_DEFERRED,NOT_YET_PROVIDED

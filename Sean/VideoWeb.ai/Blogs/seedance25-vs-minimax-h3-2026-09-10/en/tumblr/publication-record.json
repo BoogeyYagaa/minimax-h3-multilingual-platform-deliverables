@@ -1,0 +1,125 @@
+{
+  "public_url": "https://www.tumblr.com/videowebai/827355403965890560/a-travel-photo-to-video-prompt-plan-three-motion?source=share",
+  "publication_method": "HUMAN_PUBLICATION_USER_RETURNED_URL",
+  "publication_status": "PUBLISHED_WITH_USER_CONFIRMED_LIMITATION_PENDING_HUMAN_ACCEPTANCE",
+  "public_review_status": "PUBLIC_REVIEW_CHANGES_WITH_USER_CONFIRMED_LIMITATION",
+  "public_gate": "PUBLIC_QA_DEFERRED",
+  "human_acceptance": "NOT_YET_PROVIDED",
+  "closeout_disposition": "NO_REPAIR_REQUIRED_WITH_LIMITATION",
+  "closeout_note": "主标题及六 H2 已修复；无 H3 选项按局限保留，正文和三图通过。",
+  "public_open_findings": [],
+  "public_finding_resolutions": [
+    {
+      "id": "PUBLIC-HEADING-HIERARCHY-001",
+      "status": "USER_CONFIRMED_EDITOR_LIMITATION_NO_REPAIR_REQUIRED",
+      "observed": "1 H1 / 6 H2 / 0 H3",
+      "expected": "1 H1 / 6 H2 / 3 H3",
+      "resolved_subparts": [
+        "Native H1 correct",
+        "Six major H2 headings restored"
+      ],
+      "remaining": "Three subordinate motion directions lack H3 semantics",
+      "native_editor_fixability": "USER_CONFIRMED_NO_H3_OPTION",
+      "resolution_evidence": "evidence/EN-04-user-confirmed-no-h3-editor-limitation.json"
+    }
+  ],
+  "article_id": "EN-04",
+  "title": "A Travel Photo to Video Prompt: Plan Three Motion Directions Before You Generate",
+  "language": "en",
+  "platform": "Tumblr",
+  "archive_kind": "reviewed-source-associated-with-publication-record",
+  "archive_date": "2026-09-10",
+  "source_is_live_page_snapshot": false,
+  "fresh_live_check_during_github_sync": false,
+  "source_sha256": "f964429defc48401a2a7ef37cefcd35570169ed6ffd1524ab8d892ded505a732",
+  "archived_article_sha256": "f9854147b1675f7a5861a941eb0f2d0e0414a520e8808030f35caddc246b5af8",
+  "archive_only_image_path_rewrites": [
+    {
+      "from": "canonical/images/01-lead-photo-planning-boundary-16x9.png",
+      "to": "images/01-lead-photo-planning-boundary-16x9.png"
+    },
+    {
+      "from": "canonical/images/02-middle-three-motion-directions-16x9.png",
+      "to": "images/02-middle-three-motion-directions-16x9.png"
+    },
+    {
+      "from": "canonical/images/03-closing-ethical-review-record-16x9.png",
+      "to": "images/03-closing-ethical-review-record-16x9.png"
+    }
+  ],
+  "original_images": [
+    {
+      "file": "images/01-lead-photo-planning-boundary-16x9.png",
+      "alt": "A paper travel photograph held over an anonymous coast, with a translucent ribbon used as a planning metaphor for possible motion.",
+      "sha256": "4a5430d299476466d53c4f23ca5cfddba3d03246d03e1085ff4e10755a30fe01",
+      "bytes": 2368261,
+      "source_is_live_page_image": false
+    },
+    {
+      "file": "images/02-middle-three-motion-directions-16x9.png",
+      "alt": "Three unlabelled abstract art cards showing mist, ripple, and light as planning metaphors rather than travel scenes or video results.",
+      "sha256": "df33473274c119196fba27f01dc8e9107346378117b34c7afc1422bc4b17f41b",
+      "bytes": 2539758,
+      "source_is_live_page_image": false
+    },
+    {
+      "file": "images/03-closing-ethical-review-record-16x9.png",
+      "alt": "A quiet desk with an unmarked review sheet, face-down photograph, paper tabs, pencil, and magnifying glass, representing a pre-use ethical review.",
+      "sha256": "3fae83518b30bf1af8d5b5100efe80c76db5e01d6dd9ef83872e37a13b4e0d05",
+      "bytes": 2690517,
+      "source_is_live_page_image": false
+    }
+  ],
+  "archive_path": "en/tumblr",
+  "source_metadata_trailer_separated": false,
+  "evidence_reports": [
+    {
+      "file": "reports/public-gate-report-1.md",
+      "original_sha256": "22c73046344dabfdd1fcc702904cec5c49803e7746bc32879c40fbedadbb0396",
+      "archive_sha256": "22c73046344dabfdd1fcc702904cec5c49803e7746bc32879c40fbedadbb0396",
+      "local_paths_redacted": true
+    },
+    {
+      "file": "reports/public-gate-report-2.md",
+      "original_sha256": "79c7b7b7b0669b2f08c139d5ad26a67abf0eefcbe283fb9292b54a1f7626c8f1",
+      "archive_sha256": "79c7b7b7b0669b2f08c139d5ad26a67abf0eefcbe283fb9292b54a1f7626c8f1",
+      "local_paths_redacted": true
+    },
+    {
+      "file": "reports/public-gate-report-3.md",
+      "original_sha256": "0b4c453d650db35d8be5d826f201709854a9ef454eeedd9ebb80f6969e39d9ae",
+      "archive_sha256": "0b4c453d650db35d8be5d826f201709854a9ef454eeedd9ebb80f6969e39d9ae",
+      "local_paths_redacted": true
+    },
+    {
+      "file": "reports/public-gate-report-4.md",
+      "original_sha256": "17505cc92f06d65760b7e3fd1fe56106fa393bbd40074e18aa8d7e1a616758ef",
+      "archive_sha256": "17505cc92f06d65760b7e3fd1fe56106fa393bbd40074e18aa8d7e1a616758ef",
+      "local_paths_redacted": true
+    },
+    {
+      "file": "reports/public-heading-limitation-addendum-1.md",
+      "original_sha256": "22aee856320e58649cdd52408be73de918b7c319ea92c6e5d1a53bd668cad7dc",
+      "archive_sha256": "22aee856320e58649cdd52408be73de918b7c319ea92c6e5d1a53bd668cad7dc",
+      "local_paths_redacted": true
+    },
+    {
+      "file": "reports/public-review-1.md",
+      "original_sha256": "995d5dcbae77182cc8f6ad3472553bb0eab3da5fa6959ba71c57e182778165ab",
+      "archive_sha256": "995d5dcbae77182cc8f6ad3472553bb0eab3da5fa6959ba71c57e182778165ab",
+      "local_paths_redacted": true
+    },
+    {
+      "file": "reports/public-review-2.md",
+      "original_sha256": "affa7fbe471542a48f47ad752b2d7b42f8f703460ff6df1ad7d2267aa6ec998b",
+      "archive_sha256": "affa7fbe471542a48f47ad752b2d7b42f8f703460ff6df1ad7d2267aa6ec998b",
+      "local_paths_redacted": true
+    },
+    {
+      "file": "reports/public-review-3.md",
+      "original_sha256": "845fb6e86c81c24407dbc5bdb5b2f5aaa0b4ff3e5fde789a31aee3596af819a3",
+      "archive_sha256": "845fb6e86c81c24407dbc5bdb5b2f5aaa0b4ff3e5fde789a31aee3596af819a3",
+      "local_paths_redacted": true
+    }
+  ]
+}

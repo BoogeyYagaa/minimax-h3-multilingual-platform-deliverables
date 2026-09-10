@@ -1,0 +1,66 @@
+{
+  "public_url": "https://videowebai.blogspot.com/2026/09/ai-3-seedance-25-minimax-h3.html",
+  "publication_method": null,
+  "publication_status": "PUBLISHED_PENDING_MANUAL_QA_RESOLUTION",
+  "public_review_status": "PUBLIC_REVIEW_CHANGES",
+  "public_gate": "PUBLIC_QA_CHANGES",
+  "human_acceptance": "NOT_YET_PROVIDED",
+  "closeout_disposition": "DEFERRED_TEMPLATE_LANGUAGE",
+  "closeout_note": "文章标题语义 H3、根语言 en 的公开差异保留；未操作博客或模板设置。",
+  "public_open_findings": [
+    {
+      "id": "PUBLIC-RENDER-001",
+      "status": "OPEN",
+      "observed": "Article title is H3; site title is document H1",
+      "native_editor_fixability": "UNVERIFIED"
+    },
+    {
+      "id": "PUBLIC-RENDER-002",
+      "status": "OPEN",
+      "observed": "Thai reader page root lang=en",
+      "native_editor_fixability": "UNVERIFIED"
+    }
+  ],
+  "public_finding_resolutions": null,
+  "article_id": "TH-01",
+  "title": "คลิปขายอาหารด้วย AI: เขียนบรีฟ 3 ส่วนสำหรับ Seedance 2.5 และ MiniMax H3",
+  "language": "th",
+  "platform": "Blogger",
+  "archive_kind": "reviewed-source-associated-with-publication-record",
+  "archive_date": "2026-09-10",
+  "source_is_live_page_snapshot": false,
+  "fresh_live_check_during_github_sync": false,
+  "source_sha256": "a640919d0aad7216551104b0c94514da7c6fdceeee053a59dac90989618bd492",
+  "archived_article_sha256": "41258fb9de2c5b771e8d7d49eb28195fbe3806c66db9269d2febc051b251aca8",
+  "archive_only_image_path_rewrites": [
+    {
+      "from": "assets/food-selling-brief-lead-16x9.jpg",
+      "to": "images/food-selling-brief-lead-16x9.jpg"
+    }
+  ],
+  "original_images": [
+    {
+      "file": "images/food-selling-brief-lead-16x9.jpg",
+      "alt": "ชามก๋วยเตี๋ยวบนเคาน์เตอร์ไม้ในแสงเช้า มีตะเกียบคีบเส้นขึ้นหนึ่งจังหวะและมีพื้นที่ว่างด้านขวา",
+      "sha256": "f21ff85955728887902cb814c0f3e98a635361f1cb30d388969e6269ca711672",
+      "bytes": 118026,
+      "source_is_live_page_image": false
+    }
+  ],
+  "archive_path": "th/blogger",
+  "source_metadata_trailer_separated": true,
+  "evidence_reports": [
+    {
+      "file": "reports/public-gate-report-1.md",
+      "original_sha256": "8397a58762e49c1ee3027698b33620be56cf9e46199b641ef17551f6a5e107cc",
+      "archive_sha256": "8397a58762e49c1ee3027698b33620be56cf9e46199b641ef17551f6a5e107cc",
+      "local_paths_redacted": true
+    },
+    {
+      "file": "reports/public-review-1.md",
+      "original_sha256": "823e16ab52d854a06255169612a0ef44a28e27b454838a4c04599878962e9ce0",
+      "archive_sha256": "823e16ab52d854a06255169612a0ef44a28e27b454838a4c04599878962e9ce0",
+      "local_paths_redacted": true
+    }
+  ]
+}

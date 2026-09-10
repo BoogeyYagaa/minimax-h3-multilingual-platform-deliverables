@@ -1,0 +1,19 @@
+{
+  "article_id": "RU-01",
+  "canonical_title": "Seedance 2.5 и MiniMax H3: как собрать проверяемый бриф для короткого продуктового ролика",
+  "seo_description_reference": "Как небольшой команде собрать проверяемый бриф для короткого продуктового ролика и разнести поля Seedance 2.5 и MiniMax H3 без тестовых выводов.",
+  "raw_tags_reference": [
+    "Seedance 2.5",
+    "MiniMax H3",
+    "короткие видео",
+    "рекламный ролик",
+    "VideoWeb AI"
+  ],
+  "metadata_reference_lines": [
+    "- SEO title: `Seedance 2.5 и MiniMax H3: бриф для продуктового ролика`",
+    "- SEO description: `Как небольшой команде собрать проверяемый бриф для короткого продуктового ролика и разнести поля Seedance 2.5 и MiniMax H3 без тестовых выводов.`",
+    "- TAGS: `Seedance 2.5, MiniMax H3, короткие видео, рекламный ролик, VideoWeb AI`",
+    "Native vc.ru field support for slug, excerpt, SEO description and tags is `UNVERIFIED`. These values are supplied separately; do not insert them into reader body when a native field is unavailable or unknown."
+  ],
+  "native_field_transfer": "See publication-record.json; local reference is not proof of native support"
+}

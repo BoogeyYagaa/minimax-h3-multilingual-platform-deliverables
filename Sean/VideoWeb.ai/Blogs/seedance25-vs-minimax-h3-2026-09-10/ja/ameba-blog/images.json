@@ -1,0 +1,23 @@
+[
+  {
+    "file": "images/01-lead-reference-photo-planning-16x9.png",
+    "alt": "深い青緑の手作り陶器カップ、紙の参照写真、無地の企画メモが木の作業台に並ぶ編集用イラスト",
+    "sha256": "58d1274fa1134c5a9c719c6db355c4d14795b86b33071fb91ddaf1aad4099ac7",
+    "bytes": 2196213,
+    "source_is_live_page_image": false
+  },
+  {
+    "file": "images/02-middle-one-motion-16x9.png",
+    "alt": "青緑の陶器カップの写真と一枚の曲線メモを並べ、一つの見せる動きを考える編集用イラスト",
+    "sha256": "0ba6d4b57c8e90f2822554f164c8c5bdfd843af53c9efa42893b3b714e370ecd",
+    "bytes": 2241823,
+    "source_is_live_page_image": false
+  },
+  {
+    "file": "images/03-closing-four-checks-16x9.png",
+    "alt": "青緑の陶器カップと参照写真、四つの空欄がある紙、鉛筆を置いた編集用イラスト",
+    "sha256": "7c06ecd6daec137c43d96da55f13a9699a9e15f14b119dc0ae843b8028c71dbe",
+    "bytes": 2290129,
+    "source_is_live_page_image": false
+  }
+]

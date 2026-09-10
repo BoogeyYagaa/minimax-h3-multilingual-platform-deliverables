@@ -1,0 +1,23 @@
+[
+  {
+    "file": "images/01-lead-brief-table.png",
+    "alt": "Команда планирует короткий ролик для флакона по референсу и раскадровке на столе.",
+    "sha256": "591dfe318e0a509d389c6a37a159ff63c0263a9c469b69d05ba284409f1edaf6",
+    "bytes": 2121716,
+    "source_is_live_page_image": false
+  },
+  {
+    "file": "images/02-middle-shot-map-source.png",
+    "alt": "Четыре карточки показывают исходный материал, объект, одно действие и движение камеры для флакона.",
+    "sha256": "0bae29ed5eecc966063ea61e8aaea7c4ab9e37a7cc7b9c15b7c83803623df731",
+    "bytes": 2558111,
+    "source_is_live_page_image": false
+  },
+  {
+    "file": "images/03-closing-acceptance-check.png",
+    "alt": "Флакон, карточки раскадровки и лист с отметками для проверки брифа перед работой.",
+    "sha256": "60a0d68f9881591746f65e81ac1b6cb68b047e690cba4c029bc0df89ed8f87b1",
+    "bytes": 2114383,
+    "source_is_live_page_image": false
+  }
+]

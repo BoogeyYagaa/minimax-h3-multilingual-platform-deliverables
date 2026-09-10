@@ -1,0 +1,75 @@
+{
+  "public_url": "https://www.linkedin.com/pulse/short-video-creative-brief-template-handoffs-videoweb-ai-4ulwf/",
+  "publication_method": null,
+  "publication_status": "PUBLISHED_PENDING_INDEPENDENT_PUBLIC_QA",
+  "public_review_status": "PUBLIC_REVIEW_APPROVED",
+  "public_gate": "PUBLIC_QA_DEFERRED",
+  "human_acceptance": "NOT_YET_PROVIDED",
+  "closeout_disposition": "DEFERRED_ANONYMOUS_ACCESS",
+  "closeout_note": "已有发布回执和登录态核对；匿名重定向后 451，匿名正文未获验证。",
+  "public_open_findings": null,
+  "public_finding_resolutions": null,
+  "article_id": "EN-07",
+  "title": "A Short Video Creative Brief Template for Marketing-to-Creator Handoffs",
+  "language": "en",
+  "platform": "LinkedIn",
+  "archive_kind": "reviewed-source-associated-with-publication-record",
+  "archive_date": "2026-09-10",
+  "source_is_live_page_snapshot": false,
+  "fresh_live_check_during_github_sync": false,
+  "source_sha256": "190ec91bd90fd4dc43edd24e58c8139735e5dea83313621a8db7336eaa65c1e3",
+  "archived_article_sha256": "190ec91bd90fd4dc43edd24e58c8139735e5dea83313621a8db7336eaa65c1e3",
+  "archive_only_image_path_rewrites": [
+    {
+      "from": "images/01-lead-brief-essentials-16x9.png",
+      "to": "images/01-lead-brief-essentials-16x9.png"
+    },
+    {
+      "from": "images/02-middle-context-distinction-16x9.png",
+      "to": "images/02-middle-context-distinction-16x9.png"
+    },
+    {
+      "from": "images/03-closing-creator-review-pack-16x9.png",
+      "to": "images/03-closing-creator-review-pack-16x9.png"
+    }
+  ],
+  "original_images": [
+    {
+      "file": "images/01-lead-brief-essentials-16x9.png",
+      "alt": "A marketing requester and creator reviewing a paper brief with visual cues for objective, audience, message, constraints, and intended action.",
+      "sha256": "bc9fc53d8bf9da57d3ee52ce813340222163c5d9fdc8abc7c5f64952667d4e36",
+      "bytes": 2359991,
+      "source_is_live_page_image": false
+    },
+    {
+      "file": "images/02-middle-context-distinction-16x9.png",
+      "alt": "A balanced tabletop contrast between a concise visual brief and an unlabelled pile of loose references.",
+      "sha256": "6f0e9596d6d154e0186ef783bdc1d6ab2c41cc79f9998a8133176c35e1c3ac5b",
+      "bytes": 2456330,
+      "source_is_live_page_image": false
+    },
+    {
+      "file": "images/03-closing-creator-review-pack-16x9.png",
+      "alt": "A creator arranging a paper brief, product reference, color swatches, and camera on a studio table before filming.",
+      "sha256": "feeafec89a70a43eec0e72cfe2a0a9e30f215ef824aacd6f4f2243c722272cc7",
+      "bytes": 2192696,
+      "source_is_live_page_image": false
+    }
+  ],
+  "archive_path": "en/linkedin",
+  "source_metadata_trailer_separated": false,
+  "evidence_reports": [
+    {
+      "file": "reports/public-gate-report-1.md",
+      "original_sha256": "52281b495d0f96cc7a14705d239b9d88459c83097a2dd8bcacb11a3939a95ae9",
+      "archive_sha256": "52281b495d0f96cc7a14705d239b9d88459c83097a2dd8bcacb11a3939a95ae9",
+      "local_paths_redacted": true
+    },
+    {
+      "file": "reports/public-review-1.md",
+      "original_sha256": "dec7a1571c126a40624927b8c0353a34a72dca3eafcc5c7e998c0047a7c952de",
+      "archive_sha256": "dec7a1571c126a40624927b8c0353a34a72dca3eafcc5c7e998c0047a7c952de",
+      "local_paths_redacted": true
+    }
+  ]
+}

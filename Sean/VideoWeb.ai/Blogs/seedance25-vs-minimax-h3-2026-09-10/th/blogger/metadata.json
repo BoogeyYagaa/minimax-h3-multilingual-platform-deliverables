@@ -1,0 +1,13 @@
+{
+  "article_id": "TH-01",
+  "canonical_title": "คลิปขายอาหารด้วย AI: เขียนบรีฟ 3 ส่วนสำหรับ Seedance 2.5 และ MiniMax H3",
+  "seo_description_reference": "วิธีเขียนบรีฟคลิปขายอาหารด้วย AI แบบ subject, action และ setting เพื่อใช้เป็นแนวทางเมื่ออ่านข้อมูลบนหน้า Seedance 2.5 และ MiniMax H3 ของ VideoWeb โดยไม่อ้างผลทดสอบหรือผู้ชนะ",
+  "raw_tags_reference": "Seedance 2.5, MiniMax H3, เครื่องมือสร้างวิดีโอ AI, ข้อความพรอมต์, การแปลงข้อความเป็นวิดีโอ, การแปลงภาพเป็นวิดีโอ",
+  "metadata_reference_lines": [
+    "## SEO title reference",
+    "## TAGS (raw value)",
+    "## Suggested SEO description (raw value)",
+    "The SEO description is a publishing reference. Before publishing, the human should verify which Blogger fields are available; this package does not assert that a native Blogger SEO-description field exists."
+  ],
+  "native_field_transfer": "See publication-record.json; local reference is not proof of native support"
+}

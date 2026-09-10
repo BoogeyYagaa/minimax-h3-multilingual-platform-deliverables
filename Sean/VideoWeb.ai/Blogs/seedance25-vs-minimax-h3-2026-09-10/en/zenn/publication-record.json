@@ -1,0 +1,111 @@
+{
+  "public_url": "https://zenn.dev/videowebai/articles/cf88a1bb43802d",
+  "publication_method": "HUMAN_PUBLICATION_USER_RETURNED_URL",
+  "publication_status": "PUBLISHED_WITH_USER_CONFIRMED_LIMITATION_PENDING_HUMAN_ACCEPTANCE",
+  "public_review_status": "PUBLIC_REVIEW_CHANGES_WITH_USER_CONFIRMED_LIMITATION",
+  "public_gate": "PUBLIC_QA_DEFERRED",
+  "human_acceptance": "NOT_YET_PROVIDED",
+  "closeout_disposition": "NO_REPAIR_REQUIRED_WITH_LIMITATION",
+  "closeout_note": "字面 # 和重复 H1 已修复；短标题按用户确认的长度限制保留。",
+  "public_open_findings": [],
+  "public_finding_resolutions": [
+    {
+      "id": "PUBLIC-RENDER-001",
+      "status": "USER_CONFIRMED_TITLE_LENGTH_LIMIT_NO_REPAIR_REQUIRED",
+      "observed": "Native title remains shortened",
+      "resolved_subparts": [
+        "Literal leading # removed",
+        "Duplicate body H1 removed"
+      ],
+      "native_editor_fixability": "USER_CONFIRMED_TITLE_LENGTH_LIMIT",
+      "resolution_evidence": "evidence/EN-09-user-confirmed-title-length-limitation.json"
+    }
+  ],
+  "article_id": "EN-09",
+  "title": "AI Video Prompt Iteration Workflow: Review One Attempt, Then Change One Thing",
+  "language": "en",
+  "platform": "Zenn",
+  "archive_kind": "reviewed-source-associated-with-publication-record",
+  "archive_date": "2026-09-10",
+  "source_is_live_page_snapshot": false,
+  "fresh_live_check_during_github_sync": false,
+  "source_sha256": "1458b6dfa2d24ebc4b5ff1a8339985383ca839c19f5d4f5c561323075ebe54b7",
+  "archived_article_sha256": "8af0b3f4c703d7289319d5855a43e32911b04b47b7b9ed52215ab90b6d333134",
+  "archive_only_image_path_rewrites": [
+    {
+      "from": "./01-hero-16x9.png",
+      "to": "images/01-hero-16x9.png"
+    },
+    {
+      "from": "./02-one-change-16x9.png",
+      "to": "images/02-one-change-16x9.png"
+    },
+    {
+      "from": "./03-collaboration-note-16x9.png",
+      "to": "images/03-collaboration-note-16x9.png"
+    }
+  ],
+  "original_images": [
+    {
+      "file": "images/01-hero-16x9.png",
+      "alt": "Editorial illustration of a creator reviewing two cinematic short-video frames before choosing a single next prompt change.",
+      "sha256": "73a82f5f19c6036d371d795f16a9d2031627d03bef1c53b11b8c0d79029de3c4",
+      "bytes": 2259796,
+      "source_is_live_page_image": false
+    },
+    {
+      "file": "images/02-one-change-16x9.png",
+      "alt": "Editorial contact sheet showing one ceramic mug scene with a single camera-framing change across three unlabeled frames.",
+      "sha256": "3e742b6bda41ad5cf789e0bdd3731393678f6b94f9b152ca3830f2dd730aea8c",
+      "bytes": 2353628,
+      "source_is_live_page_image": false
+    },
+    {
+      "file": "images/03-collaboration-note-16x9.png",
+      "alt": "Editorial illustration of two collaborators using a small blank note beside a storyboard to discuss one next prompt change.",
+      "sha256": "834aef8a4dc0245bdd2e95a36e59ddac0b69152ac52158123bba5f45e2fde339",
+      "bytes": 2178657,
+      "source_is_live_page_image": false
+    }
+  ],
+  "archive_path": "en/zenn",
+  "source_metadata_trailer_separated": false,
+  "evidence_reports": [
+    {
+      "file": "reports/public-finding-disposition-1.md",
+      "original_sha256": "0c80fd8f06667edb9b8552b4a52abb2d5782df1bbf2871f27de05d3571803183",
+      "archive_sha256": "0c80fd8f06667edb9b8552b4a52abb2d5782df1bbf2871f27de05d3571803183",
+      "local_paths_redacted": true
+    },
+    {
+      "file": "reports/public-gate-report-1.md",
+      "original_sha256": "8661bf2dd6e60ebbe1f30113639d139286f254997ab4b1c486de2f6257d768aa",
+      "archive_sha256": "8661bf2dd6e60ebbe1f30113639d139286f254997ab4b1c486de2f6257d768aa",
+      "local_paths_redacted": true
+    },
+    {
+      "file": "reports/public-gate-report-2.md",
+      "original_sha256": "7c91aea67379f5461b90ccebaeed013e45170d5682810bf6a6b8383f51273142",
+      "archive_sha256": "7c91aea67379f5461b90ccebaeed013e45170d5682810bf6a6b8383f51273142",
+      "local_paths_redacted": true
+    },
+    {
+      "file": "reports/public-gate-report-3.md",
+      "original_sha256": "d3bfaefee20e953b83fa1668bbb5e019b76ff5e343f23b4fb0b205086d298ba7",
+      "archive_sha256": "d3bfaefee20e953b83fa1668bbb5e019b76ff5e343f23b4fb0b205086d298ba7",
+      "local_paths_redacted": true
+    },
+    {
+      "file": "reports/public-review-1.md",
+      "original_sha256": "69fb31f309dc6a991fe9842dd6363fcc9782013248744611f2c19af66f0b3652",
+      "archive_sha256": "69fb31f309dc6a991fe9842dd6363fcc9782013248744611f2c19af66f0b3652",
+      "local_paths_redacted": true
+    },
+    {
+      "file": "reports/public-review-2.md",
+      "original_sha256": "9939d8c0e285c7ddb04ef5bdad750e33d5a1efddc636220249bf35fe64b15fbb",
+      "archive_sha256": "9939d8c0e285c7ddb04ef5bdad750e33d5a1efddc636220249bf35fe64b15fbb",
+      "local_paths_redacted": true
+    }
+  ]
+}
