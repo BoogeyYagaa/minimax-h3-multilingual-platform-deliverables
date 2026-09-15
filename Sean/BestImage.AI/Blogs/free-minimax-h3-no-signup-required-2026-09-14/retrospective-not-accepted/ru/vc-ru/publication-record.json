@@ -1,0 +1,16 @@
+{
+  "文章ID": "A-07",
+  "平台": "vc.ru",
+  "语言区域": "ru-ru",
+  "归档处置": "OWNER_REPORTED_PLATFORM_CONSTRAINED_NO_ATTEMPT_RECORDED",
+  "所有者人工验收": "NOT_ACCEPTED",
+  "公开URL": null,
+  "当前公开页技术状态": "OWNER_REPORTED_PLATFORM_CONSTRAINED_NO_ATTEMPT_RECORDED",
+  "证据来源（源批次相对路径）": [
+    "MANUAL-RELEASE-RETURNS.md"
+  ],
+  "保留事项": [
+    "所有者报告：未订阅 Pro 的商业账号不被搜索引擎收录、不会在站内分发，且每月只能发布一篇；未主张发生过发布尝试，不计入失败。"
+  ],
+  "归档内容边界": "归档 Markdown 与图片是选定本地定稿的副本；不据此主张原生编辑器字段、图片字节、标题结构、元数据或当前公开渲染与本地文件完全一致。"
+}

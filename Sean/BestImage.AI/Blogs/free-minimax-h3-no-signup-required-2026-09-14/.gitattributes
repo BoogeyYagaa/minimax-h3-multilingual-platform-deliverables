@@ -1,0 +1,3 @@
+# 保留定稿 Markdown 中有意使用的硬换行空格。
+ja/zenn/article.md whitespace=-trailing-space,-blank-at-eof
+retrospective-not-accepted/ru/vc-ru/article.md whitespace=-trailing-space,-blank-at-eof

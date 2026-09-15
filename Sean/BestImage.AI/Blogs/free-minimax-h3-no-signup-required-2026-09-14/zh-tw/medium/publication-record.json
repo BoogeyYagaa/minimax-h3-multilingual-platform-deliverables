@@ -1,0 +1,17 @@
+{
+  "文章ID": "A-06",
+  "平台": "Medium",
+  "语言区域": "zh-tw",
+  "归档处置": "HUMAN_ACCEPTED",
+  "所有者人工验收": "HUMAN_ACCEPTED",
+  "公开URL": "https://medium.com/@bestimage888/%E6%8A%8A%E6%89%8B%E5%B7%A5%E4%BF%9D%E9%A4%8A%E5%93%81%E5%8C%85%E8%A3%9D%E6%94%BE%E4%B8%8A%E6%B5%B4%E5%AE%A4%E5%B1%A4%E6%9E%B6-9-16-%E7%9F%AD%E7%89%87%E7%9A%84%E5%88%86%E9%8F%A1%E8%A6%8F%E5%8A%83-1a44ca1ca226",
+  "当前公开页技术状态": "PUBLIC_QA_PASSED",
+  "证据来源（源批次相对路径）": [
+    "PUBLIC-READER-QA-2026-09-14.md",
+    "HUMAN-ACCEPTANCE-RECEIPT-2026-09-15.zh-CN.md"
+  ],
+  "保留事项": [
+    "不就搜索收录或平台控制字段作主张。"
+  ],
+  "归档内容边界": "归档 Markdown 与图片是选定本地定稿的副本；不据此主张原生编辑器字段、图片字节、标题结构、元数据或当前公开渲染与本地文件完全一致。"
+}

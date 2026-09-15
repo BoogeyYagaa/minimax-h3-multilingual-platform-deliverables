@@ -1,0 +1,16 @@
+{
+  "文章ID": "A-02",
+  "平台": "Blogger",
+  "语言区域": "es",
+  "归档处置": "PUBLICATION_UNKNOWN_NO_OWNER_RETURN",
+  "所有者人工验收": "NOT_ACCEPTED",
+  "公开URL": null,
+  "当前公开页技术状态": "PUBLICATION_UNKNOWN_NO_OWNER_RETURN",
+  "证据来源（源批次相对路径）": [
+    "MANUAL-RELEASE-RETURNS.md"
+  ],
+  "保留事项": [
+    "未收到公开 URL、人工验收或发布尝试记录；不计入失败。"
+  ],
+  "归档内容边界": "归档 Markdown 与图片是选定本地定稿的副本；不据此主张原生编辑器字段、图片字节、标题结构、元数据或当前公开渲染与本地文件完全一致。"
+}

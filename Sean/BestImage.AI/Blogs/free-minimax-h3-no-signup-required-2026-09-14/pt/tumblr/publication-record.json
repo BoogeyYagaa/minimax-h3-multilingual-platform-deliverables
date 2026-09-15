@@ -1,0 +1,17 @@
+{
+  "文章ID": "A-03",
+  "平台": "Tumblr",
+  "语言区域": "pt-br",
+  "归档处置": "HUMAN_ACCEPTED",
+  "所有者人工验收": "HUMAN_ACCEPTED",
+  "公开URL": "https://www.tumblr.com/bestimageai/827725056937443328/v%C3%ADdeo-de-convite-de-casamento-com-ia-do-convite?source=share",
+  "当前公开页技术状态": "PUBLIC_QA_PASSED",
+  "证据来源（源批次相对路径）": [
+    "PUBLIC-READER-QA-2026-09-15.md",
+    "HUMAN-ACCEPTANCE-RECEIPT-2026-09-15.zh-CN.md"
+  ],
+  "保留事项": [
+    "标题层级仅按公开读者页视觉呈现判断。"
+  ],
+  "归档内容边界": "归档 Markdown 与图片是选定本地定稿的副本；不据此主张原生编辑器字段、图片字节、标题结构、元数据或当前公开渲染与本地文件完全一致。"
+}

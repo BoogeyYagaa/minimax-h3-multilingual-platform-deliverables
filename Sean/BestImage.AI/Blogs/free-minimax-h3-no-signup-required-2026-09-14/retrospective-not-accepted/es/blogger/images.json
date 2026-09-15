@@ -1,0 +1,25 @@
+{
+  "图片": [
+    {
+      "文件": "assets/01-vacant-rental-room-16x9.png",
+      "SHA256": "1b07d6de81c131191e8a8ff3d1834e39515324169103fda75fd3ebaf75cfd518",
+      "ALT": "Habitación de alquiler vacía con ventana a la izquierda y puerta a la derecha al final de la tarde",
+      "图注": "Ilustración editorial: una habitación de alquiler vacía establece el punto de partida de la transición.",
+      "素材属性": "本地生成的编辑插图；非产品截图、非产品输出、非独立测试结果。"
+    },
+    {
+      "文件": "assets/02-reference-frame-plan-16x9.png",
+      "SHA256": "cedba83aca19b2cf68db428b3086247a1730aff9ea1eb37c797a20e35802308d",
+      "ALT": "Dos referencias de una habitación vacía y una estancia cálida sobre una mesa con muestras de color y un plano sencillo",
+      "图注": "Ilustración editorial: referencias de composición y materiales para decidir el inicio, el final y el recorrido de cámara.",
+      "素材属性": "本地生成的编辑插图；非产品截图、非产品输出、非独立测试结果。"
+    },
+    {
+      "文件": "assets/03-warm-evening-room-16x9.png",
+      "SHA256": "64439dbc07d18ad4ee51c17752a6e26a29d3fadbd52a2b8a60fed2aa15b643a8",
+      "ALT": "Estancia de alquiler cálida al anochecer con sofá, lámpara, plantas, alfombra y la misma ventana a la izquierda",
+      "图注": "Ilustración editorial: un rincón cálido al anochecer resuelve el destino visual de la transición.",
+      "素材属性": "本地生成的编辑插图；非产品截图、非产品输出、非独立测试结果。"
+    }
+  ]
+}
